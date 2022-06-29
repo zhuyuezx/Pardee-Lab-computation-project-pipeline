@@ -1,0 +1,3 @@
+Supposed to have good looking scores from any evaluation programs.
+SPServer - as input and give good scores.
+These files will servce as the <native> structure in DockQ.
