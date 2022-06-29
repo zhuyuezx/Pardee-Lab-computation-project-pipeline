@@ -1,0 +1,2 @@
+ColabFold has a different MSA which significantly speed up the running time.
+These files are for us to compare between the results with the real data from AlphaFold.
