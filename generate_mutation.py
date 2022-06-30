@@ -47,4 +47,12 @@ for i in range(start, end):
             print(heading, file = f)
             print(body[0: i] + amino_seq[j] + body[i + 1:], file = f)
 
+#with open(f"mutations_interval_{start}to{end}.fasta", "w") as f:
+#    for i in range(start, end):
+#        for j in range(len(amino_seq)):
+#            if body[i] == amino_seq[j]:
+#                continue
+#            name = f">mutate_amino{i}_to_{amino_seq[j]}"
+#            print(name, file = f)
+#            print(body[0: i] + amino_seq[j] + body[i + 1:], file = f)
 
