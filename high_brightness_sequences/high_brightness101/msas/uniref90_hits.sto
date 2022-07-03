@@ -1,0 +1,10 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_UPI0011C3426C/216-229 DE [subseq from] Green fluorescent protein,Optimized Ratiometric Calcium Sensor,Green fluorescent protein,Green fluorescent protein n=2 Tax=Opsanus tau TaxID=8068 RepID=UPI0011C3426C
+#=GS UniRef90_UPI0011C3426C/353-368 DE [subseq from] Green fluorescent protein,Optimized Ratiometric Calcium Sensor,Green fluorescent protein,Green fluorescent protein n=2 Tax=Opsanus tau TaxID=8068 RepID=UPI0011C3426C
+
+SEQUENCE101                            RDHMILLEFVSAAGIT
+UniRef90_UPI0011C3426C/216-229         RDHMVLLEFVTAAR--
+UniRef90_UPI0011C3426C/353-368         RDHMVLLEFVTAAGIT
+#=GC RF                                xxxxxxxxxxxxxxxx
+//
