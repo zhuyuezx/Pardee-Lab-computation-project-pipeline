@@ -1,0 +1,3903 @@
+Query         ORIGINAL_SEQUENCE_GFP11 
+Match_columns 16
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80799
+Date          Fri Jul  1 17:34:05 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp9weks796/query.a3m -o /tmp/tmp9weks796/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5JNQ_A Phospho-N-acetylmuramoy  97.8 5.8E-08 7.2E-13   53.7   0.0   16    1-16      5-20  (376)
+  2 6B7T_A Green fluorescent prote  97.4 1.1E-06 1.4E-11   50.6   0.0   16    1-16     23-38  (246)
+  3 6OFO_A Fluorescent protein Dro  95.4  0.0016   2E-08   37.9   0.0   16    1-16     34-49  (254)
+  4 4ORN_A mKalama1; proton transf  94.3  0.0084   1E-07   34.3   0.0   16    1-16    216-231 (239)
+  5 3AKO_B Venus; Venus, Fluoresce  91.7   0.062 7.7E-07   28.2   0.0   16    1-16     62-77  (93)
+  6 3AKO_F Venus; Venus, Fluoresce  91.7   0.062 7.7E-07   28.2   0.0   16    1-16     62-77  (93)
+  7 5FGU_A Green fluorescent prote  90.6    0.11 1.3E-06   32.6   0.0   16    1-16    216-231 (565)
+  8 6JGJ_A Green fluorescent prote  90.3    0.12 1.5E-06   29.6   0.0   16    1-16    212-227 (228)
+  9 2HPW_A Green fluorescent prote  89.8    0.15 1.8E-06   29.7   0.0   16    1-16    215-230 (233)
+ 10 6MKS_b Chimera protein of NLR   89.4    0.17 2.1E-06   28.9   0.0   16    1-16    317-332 (340)
+ 11 3O78_A Chimera protein of Pept  88.0    0.25 3.1E-06   27.3   0.0   16    1-16     93-108 (415)
+ 12 3AI4_A yeast enhanced green fl  87.0    0.33 4.1E-06   28.7   0.0   16    1-16    216-231 (283)
+ 13 3LVC_A Green fluorescent prote  86.1     0.4   5E-06   27.6   0.0   16    1-16    213-228 (236)
+ 14 3EVR_A Myosin light chain kina  86.1    0.41 5.1E-06   26.5   0.0   15    1-15     91-105 (411)
+ 15 6RMG_A Protein patched homolog  86.0    0.42 5.2E-06   30.8   0.0   16    1-16   1416-1431(1471)
+ 16 4W6H_A fluorescent protein D19  85.8    0.43 5.3E-06   27.4   0.0   16    1-16    213-228 (234)
+ 17 5YR2_A Green fluorescent prote  84.8    0.53 6.6E-06   27.8   0.0   16    1-16     71-86  (247)
+ 18 5YR2_B Green fluorescent prote  84.7    0.54 6.6E-06   27.7   0.0   16    1-16     71-86  (247)
+ 19 6R4O_A Adenylate cyclase 9, Gu  84.3    0.58 7.2E-06   30.3   0.0   16    1-16   1478-1493(1533)
+ 20 6R4P_A Adenylate cyclase 9, Gu  84.2    0.59 7.4E-06   30.7   0.0   16    1-16   1582-1597(1637)
+ 21 6EFR_A iNicSnFR 1.0, a genetic  83.3    0.69 8.6E-06   27.5   0.0   15    1-15    146-160 (520)
+ 22 4IK8_A RCaMP, Green fluorescen  83.2    0.71 8.8E-06   26.3   0.0   15    1-15    127-141 (448)
+ 23 3OSR_A Maltose-binding peripla  79.2     1.3 1.6E-05   25.8   0.0   15    1-15    418-432 (653)
+ 24 3EVP_A Green fluorescent prote  78.8     1.3 1.6E-05   25.9   0.0   15    1-15     71-85  (243)
+ 25 3OSQ_A Maltose-binding peripla  78.2     1.4 1.8E-05   26.8   0.0   16    1-16    280-295 (661)
+ 26 5WUA_B ATP-sensitive inward re  77.6     1.5 1.9E-05   27.7   0.0   16    1-16    618-633 (681)
+ 27 4JRB_A Green fluorescent prote  76.6     1.7 2.1E-05   25.8   0.0   15    1-15    216-230 (416)
+ 28 6DGV_A iGABASnFR; GABA binding  74.4     2.2 2.7E-05   24.9   0.0   16    1-16    345-360 (566)
+ 29 2G2S_B Green fluorescent prote  66.8     4.3 5.3E-05   22.5   0.0   16    1-16    150-165 (173)
+ 30 3VHT_B Green fluorescent prote  65.1     4.9   6E-05   23.5   0.0   16    1-16    216-231 (271)
+ 31 5YR3_A Yellow fluorescent prot  63.9     5.3 6.6E-05   22.9   0.0   16    1-16    210-225 (225)
+ 32 4W6T_A fluorescent protein E11  61.2     6.5   8E-05   22.7   0.0   16    1-16    214-229 (229)
+ 33 5Z6Y_A Green fluorescent prote  60.7     6.7 8.3E-05   22.5   0.0   16    1-16    213-228 (229)
+ 34 6MB2_a Interferon-inducible pr  59.5     7.3   9E-05   22.4   0.0   15    1-15    212-226 (226)
+ 35 5NI3_B Green fluorescent prote  59.4     7.3   9E-05   22.5   0.0   16    1-16    211-226 (229)
+ 36 1YFP_B YELLOW FLUORESCENT PROT  58.8     7.6 9.4E-05   22.3   0.0   15    1-15    211-225 (225)
+ 37 4W76_B fluorescent protein D21  58.4     7.8 9.6E-05   22.4   0.0   16    1-16    214-229 (229)
+ 38 6JGI_A Green fluorescent prote  57.0     8.6 0.00011   22.2   0.0   16    1-16    212-227 (228)
+ 39 4XGY_A Green fluorescent prote  56.6     8.8 0.00011   23.5   0.0   16    1-16    233-248 (303)
+ 40 5OXC_A Green fluorescent prote  55.7     9.3 0.00012   22.2   0.0   16    1-16    214-229 (237)
+ 41 6KL1_A Green fluorescent prote  54.7     9.9 0.00012   21.9   0.0   16    1-16    212-227 (229)
+ 42 3KRY_B Collagenase 3 (E.C.3.4.  53.6      11 0.00013   16.6   0.0   13    3-15    115-127 (164)
+ 43 4XBI_A N domain of ClpB1 form;  49.1      14 0.00017   21.0   0.0   16    1-16    362-377 (381)
+ 44 4Z4M_A GFP-TAX1BP1 UBZ2 domain  46.8      16  0.0002   21.7   0.0   16    1-16    216-231 (260)
+ 45 966C_A MMP-1, N-HYDROXY-2-[4-(  46.8      16  0.0002   15.6   0.0   13    3-15    107-119 (157)
+ 46 5B5O_A Collagenase 3 (E.C.3.4.  46.0      17 0.00021   16.2   0.0   13    3-15    116-128 (172)
+ 47 4HE4_B Yellow fluorescent prot  44.0      19 0.00023   21.1   0.0   16    1-16    213-228 (244)
+ 48 4NDJ_A E23-YFP; helix-turn-hel  43.8      19 0.00024   20.1   0.0   15    1-15    266-280 (297)
+ 49 4RYS_A NowGFP; Fluorescent pro  43.2      20 0.00025   21.0   0.0   16    1-16    225-240 (241)
+ 50 1RM8_A Matrix metalloproteinas  43.0      20 0.00025   15.6   0.0   12    4-15    120-131 (169)
+ 51 2JAD_A YELLOW FLUORESCENT PROT  43.0      20 0.00025   20.8   0.0   16    1-16    213-228 (362)
+ 52 4EN1_A Green fluorescent prote  42.7      20 0.00025   21.3   0.0   16    1-16    232-247 (264)
+ 53 1QIB_A GELATINASE A; INHIBITOR  42.1      21 0.00026   15.3   0.0   13    3-15    111-123 (161)
+ 54 4XOV_A rsGreen0.7; Green Fluor  41.8      22 0.00027   21.3   0.0   16    1-16    247-262 (270)
+ 55 4XOW_A rsGreen0.7; Green Fluor  41.8      22 0.00027   21.3   0.0   16    1-16    247-262 (270)
+ 56 6SAZ_A PROTEIN; mammalian fert  41.6      22 0.00027   16.6   0.0   13    3-15     88-100 (202)
+ 57 2JSD_A Matrix metalloproteinas  41.3      22 0.00027   15.4   0.0   12    4-15    111-122 (160)
+ 58 3VTG_A High choriolytic enzyme  41.2      22 0.00028   16.7   0.0   12    4-15     96-107 (200)
+ 59 5J3N_A Green fluorescent prote  40.4      24 0.00029   21.5   0.0   16    1-16    219-234 (396)
+ 60 3ZXH_B COLLAGENASE 3 (E.C.3.4.  40.1      24  0.0003   15.6   0.0   12    4-15    116-127 (171)
+ 61 6BTN_B Bone morphogenetic prot  39.8      24  0.0003   16.2   0.0   13    3-15     90-102 (202)
+ 62 6ESM_A Macrophage metalloelast  38.9      26 0.00032   15.2   0.0   13    3-15    113-125 (160)
+ 63 1AST_A ASTACIN (E.C.3.4.24.21)  38.7      26 0.00032   16.3   0.0   13    3-15     88-100 (200)
+ 64 4NEL_A Transcriptional regulat  38.1      27 0.00033   14.6   0.0   12    5-16     24-35  (190)
+ 65 6TB4_I TATA-box Binding Protei  38.0      27 0.00034   18.6   0.0   15    1-15     10-24  (153)
+ 66 5UE3_B Matrix metalloproteinas  37.9      27 0.00034   16.8   0.0   13    3-15    188-200 (236)
+ 67 1I76_A NEUTROPHIL COLLAGENASE   37.6      28 0.00034   15.3   0.0   12    4-15    115-126 (163)
+ 68 3DPF_B Neutrophil collagenase   37.6      28 0.00034   15.3   0.0   12    4-15    115-126 (163)
+ 69 6NSM_A Copper outer membrane r  37.4      28 0.00035   14.8   0.0   10    6-15     35-44  (198)
+ 70 3EDH_A Bone morphogenetic prot  36.5      30 0.00037   15.9   0.0   12    4-15     90-101 (201)
+ 71 1HV5_D STROMELYSIN 3 (E.C.3.4.  36.3      30 0.00037   15.0   0.0   12    4-15    116-127 (165)
+ 72 1HV5_E STROMELYSIN 3 (E.C.3.4.  36.3      30 0.00037   15.0   0.0   12    4-15    116-127 (165)
+ 73 5VL9_A Regulatory protein TetR  36.1      30 0.00038   14.6   0.0   10    6-15     31-40  (192)
+ 74 6XWY_A Red fluorescent protein  35.8      31 0.00038   19.8   0.0   13    1-13    205-217 (219)
+ 75 2ZOZ_B Transcriptional regulat  35.4      32 0.00039   14.8   0.0   11    5-15     26-36  (183)
+ 76 1HFC_A FIBROBLAST COLLAGENASE   35.4      32 0.00039   15.1   0.0   13    3-15    114-126 (169)
+ 77 1RMZ_A Macrophage metalloelast  34.9      33 0.00041   14.8   0.0   12    4-15    111-122 (159)
+ 78 1Y93_A Macrophage metalloelast  34.9      33 0.00041   14.8   0.0   12    4-15    111-122 (159)
+ 79 4GQL_A Macrophage metalloelast  34.9      33 0.00041   14.8   0.0   12    4-15    111-122 (159)
+ 80 5UE3_A Matrix metalloproteinas  34.7      33 0.00041   16.5   0.0   13    3-15    188-200 (236)
+ 81 6GY3_B AmtR protein/DNA Comple  34.4      34 0.00042   14.9   0.0   12    4-15     22-33  (202)
+ 82 5KTG_B Green fluorescent prote  34.1      35 0.00043   20.0   0.0   16    1-16    213-228 (309)
+ 83 1IAB_A ASTACIN (E.C.3.4.24.21)  33.9      35 0.00043   15.8   0.0   12    4-15     89-100 (200)
+ 84 2GEN_A probable transcriptiona  33.0      37 0.00046   14.4   0.0   10    6-15     30-39  (197)
+ 85 5H0U_A Matrix metalloproteinas  32.8      37 0.00046   14.9   0.0   12    4-15    121-132 (170)
+ 86 6NSM_B Copper outer membrane r  32.7      38 0.00047   14.4   0.0   10    6-15     35-44  (198)
+ 87 3VPR_A Transcriptional regulat  32.4      38 0.00047   14.2   0.0   11    5-15     25-35  (190)
+ 88 3VPR_C Transcriptional regulat  32.4      38 0.00047   14.2   0.0   11    5-15     25-35  (190)
+ 89 2NX4_B Transcriptional regulat  32.3      38 0.00048   14.4   0.0   11    5-15     32-42  (194)
+ 90 6NSN_A Copper outer membrane r  32.3      38 0.00048   14.5   0.0   10    6-15     35-44  (198)
+ 91 6F3T_F Transcription initiatio  31.5      40  0.0005   16.0   0.0   14    2-15     11-24  (116)
+ 92 1SLM_A STROMELYSIN-1; HYDROLAS  31.3      41 0.00051   16.4   0.0   13    3-15    197-209 (255)
+ 93 3LQ0_A ProAstacin (E.C.3.4.24.  31.1      42 0.00051   16.2   0.0   12    4-15    123-134 (235)
+ 94 2KSN_A Ubiquitin domain-contai  30.8      42 0.00052   18.5   0.0   12    5-16     76-87  (137)
+ 95 5ZJK_N Myroilysin; hydrolase;   30.8      42 0.00052   15.7   0.0   12    4-15    100-111 (213)
+ 96 3CCY_A Putative TetR-family tr  30.7      43 0.00053   14.3   0.0   12    5-16     36-47  (203)
+ 97 5K58_A Nucleoid occlusion fact  30.6      43 0.00053   14.1   0.0   11    5-15     25-35  (190)
+ 98 5K58_F Nucleoid occlusion fact  30.6      43 0.00053   14.1   0.0   11    5-15     25-35  (190)
+ 99 4ME9_A Transcriptional regulat  30.6      43 0.00053   14.1   0.0   11    5-15     27-37  (189)
+100 4ME9_B Transcriptional regulat  30.6      43 0.00053   14.1   0.0   11    5-15     27-37  (189)
+101 4ANJ_A UNCONVENTIONAL MYOSIN-V  30.5      43 0.00054   21.7   0.0   16    1-16   1029-1044(1052)
+102 2XS3_B KARILYSIN PROTEASE, PEP  30.4      43 0.00054   14.4   0.0   12    4-15    118-129 (166)
+103 4IN9_A Karilysin protease, Pep  30.4      43 0.00054   14.4   0.0   12    4-15    118-129 (166)
+104 1LML_A LEISHMANOLYSIN; LEISHMA  30.3      44 0.00054   19.4   0.0   12    4-15    162-173 (478)
+105 2NX4_C Transcriptional regulat  30.3      44 0.00054   14.2   0.0   11    5-15     32-42  (194)
+106 3AYU_A 72 kDa type IV collagen  30.1      44 0.00055   14.5   0.0   12    4-15    117-128 (167)
+107 2F07_A YvdT; helix-turn-helix,  30.0      45 0.00055   14.4   0.0   11    6-16     33-43  (197)
+108 1RKT_A protein yfiR; transcrip  29.9      45 0.00056   14.4   0.0   10    6-15     35-44  (205)
+109 4JQG_B synthetic fluorogenic p  29.7      46 0.00056   14.5   0.0   12    4-15    118-129 (164)
+110 5GP9_A Transcriptional regulat  29.4      46 0.00057   14.2   0.0   11    5-15     28-38  (194)
+111 2QOP_A HTH-type transcriptiona  29.4      46 0.00057   14.4   0.0   11    5-15     33-43  (215)
+112 5K7F_A Transcriptional regulat  29.1      47 0.00059   14.9   0.0   11    5-15     38-48  (231)
+113 5K7H_A Transcriptional regulat  29.1      47 0.00059   14.9   0.0   11    5-15     38-48  (231)
+114 5K7Z_A Transcriptional regulat  29.1      47 0.00059   14.9   0.0   11    5-15     38-48  (231)
+115 5Y00_A Green fluorescent prote  29.1      47 0.00059   20.0   0.0   15    1-15    248-262 (271)
+116 6AZH_A TetR family transcripti  29.1      47 0.00059   14.0   0.0   10    6-15     29-38  (192)
+117 3F1B_A TetR-like transcription  29.1      47 0.00059   14.3   0.0   10    6-15     37-46  (203)
+118 2QKO_C Possible transcriptiona  29.0      48 0.00059   14.6   0.0   10    6-15     51-60  (215)
+119 4KWA_B Transcriptional regulat  28.8      48  0.0006   13.9   0.0   10    6-15     27-36  (195)
+120 5GWD_B Pro-myroilysin; Myroily  28.7      48  0.0006   16.1   0.0   13    3-15    138-150 (252)
+121 1SGM_A Putative HTH-type trans  28.7      48  0.0006   14.1   0.0   10    6-15     29-38  (191)
+122 3U8P_A Cytochrome b562 integra  28.7      48  0.0006   20.5   0.0   15    1-15    324-338 (347)
+123 3U8P_C Cytochrome b562 integra  28.7      48  0.0006   20.5   0.0   15    1-15    324-338 (347)
+124 4YZE_A HTH-type transcriptiona  28.5      49 0.00061   14.2   0.0   10    6-15     33-42  (201)
+125 3BTJ_A HTH-type transcriptiona  28.5      49 0.00061   14.1   0.0   12    5-16     24-35  (188)
+126 1VI0_B transcriptional regulat  28.3      50 0.00062   14.4   0.0   12    5-16     30-41  (206)
+127 3DCF_A transcriptional regulat  28.1      51 0.00063   14.6   0.0   10    6-15     54-63  (218)
+128 3DCF_B transcriptional regulat  28.1      51 0.00063   14.6   0.0   10    6-15     54-63  (218)
+129 2G7S_A transcriptional regulat  28.0      51 0.00063   14.0   0.0   10    6-15     31-40  (194)
+130 3WHB_B Fatty acid metabolism r  28.0      51 0.00063   13.9   0.0   10    6-15     29-38  (194)
+131 3WHC_C Fatty acid metabolism r  28.0      51 0.00063   13.9   0.0   10    6-15     29-38  (194)
+132 4YZE_C HTH-type transcriptiona  27.9      51 0.00063   14.1   0.0   10    6-15     33-42  (201)
+133 3ON4_A Transcriptional regulat  27.9      51 0.00064   13.9   0.0   10    6-15     33-42  (191)
+134 3ON4_G Transcriptional regulat  27.9      51 0.00064   13.9   0.0   10    6-15     33-42  (191)
+135 2W53_A REPRESSOR; ANTIBIOTIC R  27.8      52 0.00064   14.5   0.0   11    5-15     33-43  (219)
+136 3P9T_A Repressor; Transcriptio  27.8      52 0.00064   14.5   0.0   11    5-15     33-43  (219)
+137 2MZH_A Matrilysin (E.C.3.4.24.  27.6      52 0.00065   15.9   0.0   13    3-15    191-203 (248)
+138 4GCK_C Nucleoid occlusion fact  27.4      53 0.00065   14.4   0.0   10    6-15     48-57  (212)
+139 6VAL_I Green fluorescent prote  27.4      53 0.00066   21.7   0.0   16    1-16    258-273 (615)
+140 2HYT_A Crystal structure of Te  27.2      54 0.00066   14.1   0.0   10    6-15     35-44  (197)
+141 5X3R_A LuxR family transcripti  27.1      54 0.00067   14.2   0.0   10    6-15     39-48  (205)
+142 5DAJ_E NalD; Repressor, Transc  27.1      54 0.00067   14.1   0.0   10    6-15     33-42  (212)
+143 5H9T_H NalD; Repressor, TetR f  27.1      54 0.00067   14.1   0.0   10    6-15     33-42  (212)
+144 2IBD_A Possible transcriptiona  27.1      54 0.00067   14.2   0.0   12    5-16     36-47  (204)
+145 4UDS_A MBDR REGULATOR; TRANSCR  27.1      54 0.00067   14.2   0.0   10    6-15     36-45  (214)
+146 2FD5_A transcriptional regulat  27.0      55 0.00067   14.3   0.0   11    6-16     30-40  (180)
+147 2RAE_A Transcriptional regulat  27.0      55 0.00068   14.2   0.0   11    5-15     39-49  (207)
+148 2GFN_B HTH-type transcriptiona  26.8      55 0.00068   14.1   0.0   10    6-15     32-41  (209)
+149 3LQB_A LOC792177 protein; hydr  26.8      55 0.00069   15.2   0.0   12    4-15     96-107 (199)
+150 3KKC_B TetR family Transcripti  26.7      55 0.00069   14.0   0.0   10    6-15     35-44  (177)
+151 3PPB_A putative tetR family tr  26.6      56 0.00069   13.9   0.0   10    6-15     32-41  (195)
+152 3LHQ_B AcrAB operon repressor   26.6      56 0.00069   14.3   0.0   10    6-15     37-46  (220)
+153 5FGL_B NicR; co-crystal derepr  26.5      56  0.0007   14.0   0.0   11    5-15     21-31  (208)
+154 5HAW_A Nucleoid occlusion fact  26.5      56  0.0007   13.7   0.0   10    6-15     32-41  (196)
+155 2D1O_B Stromelysin-1 (E.C.3.4.  26.5      56  0.0007   14.3   0.0   12    4-15    116-127 (171)
+156 3ON2_B Probable transcriptiona  26.4      57  0.0007   14.1   0.0   11    6-16     35-45  (199)
+157 3LWJ_A Putative TetR-family tr  26.3      57 0.00071   14.0   0.0   11    5-15     34-44  (202)
+158 4W97_A KstR2; cholesterol, cat  26.2      57 0.00071   14.2   0.0   11    5-15     32-42  (200)
+159 1HY7_A STROMELYSIN-1 (E.C.3.4.  26.2      58 0.00071   14.3   0.0   12    4-15    116-127 (173)
+160 3MA2_A Matrix metalloproteinas  26.2      58 0.00071   14.8   0.0   13    3-15    124-136 (181)
+161 2ID6_A TRANSCRIPTIONAL REGULAT  26.2      58 0.00071   13.8   0.0   10    6-15     28-37  (202)
+162 3IH3_A Transcriptional regulat  26.2      58 0.00071   13.8   0.0   10    6-15     28-37  (202)
+163 6AYI_C HTH-type transcriptiona  26.1      58 0.00072   14.0   0.0   10    6-15     37-46  (199)
+164 2G3B_A putative TetR-family tr  26.0      58 0.00072   14.0   0.0   11    5-15     25-35  (208)
+165 6OF0_B HTH-type transcriptiona  26.0      59 0.00072   14.1   0.0   10    6-15     33-42  (210)
+166 2ZB9_A Putative transcriptiona  25.9      59 0.00073   14.7   0.0   11    5-15     45-55  (214)
+167 2ZB9_B Putative transcriptiona  25.9      59 0.00073   14.7   0.0   11    5-15     45-55  (214)
+168 4L62_C Transcriptional regulat  25.8      59 0.00073   13.7   0.0   10    6-15     27-36  (190)
+169 4L62_N Transcriptional regulat  25.8      59 0.00073   13.7   0.0   10    6-15     27-36  (190)
+170 1EB6_A NEUTRAL PROTEASE II (E.  25.7      59 0.00074   14.9   0.0   10    3-12    124-133 (177)
+171 3JCU_X Photosystem II protein   25.7      60 0.00074   18.2   0.0   13    4-16     69-81  (117)
+172 1C7K_A ZINC ENDOPROTEASE (E.C.  25.7      60 0.00074   13.8   0.0   12    4-15     80-91  (132)
+173 1KUH_A ZINC PROTEASE; METALLOP  25.7      60 0.00074   13.8   0.0   12    4-15     80-91  (132)
+174 3QQA_A CmeR; Alpha-helical, He  25.6      60 0.00074   14.5   0.0   10    6-15     42-51  (216)
+175 4GCT_C Nucleoid occlusion fact  25.6      60 0.00074   13.7   0.0   10    6-15     32-41  (196)
+176 5ZTC_B Lmo2088 protein; TetR f  25.6      60 0.00075   14.0   0.0   11    5-15     23-33  (204)
+177 2V57_A TETR FAMILY TRANSCRIPTI  25.5      60 0.00075   13.9   0.0    9    7-15     36-44  (190)
+178 2V57_B TETR FAMILY TRANSCRIPTI  25.5      60 0.00075   13.9   0.0    9    7-15     36-44  (190)
+179 2WGB_A TETR FAMILY TRANSCRIPTI  25.5      60 0.00075   13.9   0.0    9    7-15     36-44  (190)
+180 3GL4_B KillerRed; FLUORESCENT   25.5      60 0.00075   18.9   0.0   14    1-14    209-222 (235)
+181 2HYJ_A Putative tetR-family tr  25.5      61 0.00075   13.9   0.0   10    6-15     35-44  (200)
+182 3HTA_A EbrA repressor; TetR fa  25.3      61 0.00076   14.7   0.0   11    5-15     50-60  (217)
+183 3HTH_C EbrA repressor; TetR Fa  25.3      61 0.00076   14.7   0.0   11    5-15     50-60  (217)
+184 3VVX_A Putative regulatory pro  25.2      62 0.00076   13.6   0.0   10    6-15     31-40  (194)
+185 6KO8_A Putative regulatory pro  25.2      62 0.00076   13.6   0.0   10    6-15     31-40  (194)
+186 4ZA6_B QsdR; Quorum-sensing, N  25.0      63 0.00078   14.1   0.0   11    5-15     25-35  (192)
+187 3KNW_A Putative transcriptiona  24.7      64 0.00079   14.1   0.0   12    5-16     36-47  (212)
+188 3KNW_B Putative transcriptiona  24.7      64 0.00079   14.1   0.0   12    5-16     36-47  (212)
+189 6O6N_A TetR family transcripti  24.7      64 0.00079   13.6   0.0   11    5-15     31-41  (195)
+190 6O6O_A TetR family transcripti  24.7      64 0.00079   13.6   0.0   11    5-15     31-41  (195)
+191 2J0T_C INTERSTITIAL COLLAGENAS  24.4      65 0.00081   14.3   0.0   13    3-15    115-127 (170)
+192 3BA0_A Macrophage metalloelast  24.1      67 0.00083   16.5   0.0   13    3-15    109-121 (365)
+193 2XDN_A HTH-TYPE TRANSCRIPTIONA  24.1      67 0.00083   13.9   0.0   10    6-15     34-43  (210)
+194 3QKX_A Uncharacterized HTH-typ  24.0      67 0.00083   13.7   0.0   11    5-15     30-40  (188)
+195 3CJD_B Transcriptional regulat  23.9      68 0.00084   13.8   0.0   10    6-15     35-44  (198)
+196 3CWR_A Transcriptional regulat  23.9      68 0.00084   13.9   0.0   10    6-15     40-49  (208)
+197 3O60_B Lin0861 protein; PSI, M  23.8      68 0.00084   14.1   0.0   11    5-15     42-52  (185)
+198 4L6T_A ECXA (E.C.3.4.24), ECXB  23.6      69 0.00086   16.4   0.0   13    3-15    156-168 (266)
+199 5HSZ_B Nucleoid occlusion fact  23.6      69 0.00086   13.6   0.0   10    6-15     32-41  (196)
+200 3EUP_A Transcriptional regulat  23.6      70 0.00086   13.7   0.0   10    6-15     34-43  (204)
+201 2ZCN_D Biofilm operon icaABCD   23.5      70 0.00086   14.0   0.0   10    6-15     30-39  (192)
+202 6G87_C TetR/AcrR family transc  23.1      72 0.00089   13.9   0.0   10    6-15     44-53  (214)
+203 6G8H_D Transcriptional regulat  23.1      72 0.00089   13.9   0.0   10    6-15     44-53  (214)
+204 2OER_A Probable transcriptiona  23.0      73  0.0009   14.0   0.0   10    6-15     47-56  (214)
+205 2OER_B Probable transcriptiona  23.0      73  0.0009   14.0   0.0   10    6-15     47-56  (214)
+206 2LU2_A H4, putative; Micronema  22.8      73 0.00091   18.5   0.0   11    5-15    118-128 (138)
+207 3USN_A STROMELYSIN-1, 2-[3-(5-  22.8      74 0.00091   13.9   0.0   11    5-15    117-127 (168)
+208 2ZCM_A Biofilm operon icaABCD   22.7      74 0.00092   13.8   0.0   11    5-15     29-39  (192)
+209 4PA0_A Myosin-7,Green fluoresc  22.7      74 0.00092   20.8   0.0   16    1-16   1000-1015(1024)
+210 4PA0_B Myosin-7,Green fluoresc  22.6      74 0.00092   20.8   0.0   16    1-16   1000-1015(1024)
+211 3LF4_B Fluorescent Timer Precu  22.6      75 0.00092   17.6   0.0   13    1-13    141-153 (164)
+212 3BRU_A Regulatory protein, Tet  22.5      75 0.00093   14.0   0.0   10    6-15     53-62  (222)
+213 6VAM_D Capsid protein,CALHM1 c  22.4      76 0.00093   21.2   0.0   15    1-15    258-272 (638)
+214 1K28_D TAIL-ASSOCIATED LYSOZYM  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+215 1WTH_D Tail-associated lysozym  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+216 2Z6B_D Tail-associated lysozym  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+217 5IV5_YD Baseplate wedge protei  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+218 5IV5_YE Baseplate wedge protei  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+219 5IV5_YF Baseplate wedge protei  22.3      76 0.00094   20.8   0.0   11    5-15    342-352 (391)
+220 2DDY_A Matrilysin (E.C.3.4.24.  22.3      76 0.00094   14.0   0.0   12    4-15    117-128 (173)
+221 3BNI_A Putative TetR-family tr  22.3      76 0.00094   14.6   0.0   10    6-15     66-75  (229)
+222 3PAS_C TetR family transcripti  22.2      77 0.00095   13.3   0.0   10    6-15     31-40  (195)
+223 3FRQ_A Repressor protein MphR(  22.1      77 0.00096   13.5   0.0   10    6-15     31-40  (195)
+224 3FRQ_B Repressor protein MphR(  22.1      77 0.00096   13.5   0.0   10    6-15     31-40  (195)
+225 3BHQ_B Transcriptional regulat  22.1      77 0.00096   13.8   0.0   11    5-15     34-44  (211)
+226 3RD3_A Probable transcriptiona  22.0      78 0.00096   13.5   0.0   10    6-15     33-42  (197)
+227 2DG7_A putative transcriptiona  21.8      79 0.00098   13.6   0.0   10    6-15     30-39  (195)
+228 6OFM_B Fluorescent protein Dro  21.7      80 0.00099   18.6   0.0   15    1-15    173-187 (251)
+229 3HIM_B Probable transcriptiona  21.5      81   0.001   13.7   0.0   10    6-15     39-48  (211)
+230 3GZI_A Transcriptional regulat  21.4      82   0.001   13.9   0.0   10    6-15     40-49  (218)
+231 4MO7_A Transcriptional regulat  21.3      83   0.001   14.1   0.0   10    6-15     52-61  (212)
+232 3B81_A Transcriptional regulat  21.3      83   0.001   13.6   0.0   10    6-15     34-43  (203)
+233 6EL2_A Transcriptional regulat  21.2      83   0.001   13.6   0.0   10    6-15     36-45  (196)
+234 6EN8_A Transcriptional regulat  21.2      83   0.001   13.6   0.0   10    6-15     36-45  (196)
+235 2ZCN_A Biofilm operon icaABCD   21.2      83   0.001   13.7   0.0   10    6-15     30-39  (192)
+236 3LSJ_A DesT; Transcriptional R  21.1      84   0.001   13.8   0.0   11    5-15     34-44  (220)
+237 3LSJ_B DesT; Transcriptional R  21.1      84   0.001   13.8   0.0   11    5-15     34-44  (220)
+238 3LSP_A DesT; Transcriptional R  21.1      84   0.001   13.8   0.0   11    5-15     34-44  (220)
+239 5ZJK_J Myroilysin; hydrolase;   21.1      84   0.001   14.7   0.0   12    4-15    100-111 (213)
+240 3DEW_A Transcriptional regulat  21.0      84   0.001   13.6   0.0   10    6-15     31-40  (206)
+241 3BJB_A Probable transcriptiona  21.0      85   0.001   13.7   0.0   10    6-15     45-54  (207)
+242 3BJB_B Probable transcriptiona  21.0      85   0.001   13.7   0.0   10    6-15     45-54  (207)
+243 5NIM_A HTH-type transcriptiona  20.9      85  0.0011   13.7   0.0   10    6-15     47-56  (216)
+244 5NIO_A HTH-type transcriptiona  20.9      85  0.0011   13.7   0.0   10    6-15     47-56  (216)
+245 5XNM_X Chlorophyll a-b binding  20.9      85  0.0011   16.9   0.0   12    4-15     36-47  (86)
+246 3T6N_A Transcriptional regulat  20.8      86  0.0011   14.0   0.0   10    6-15     37-46  (208)
+247 3V6G_B PROBABLE TRANSCRIPTIONA  20.8      86  0.0011   14.0   0.0   10    6-15     37-46  (208)
+248 3VIB_C MtrR; HELIX-TURN-HELIX   20.7      87  0.0011   13.5   0.0   10    6-15     33-42  (210)
+249 1SU3_A Interstitial collagenas  20.7      87  0.0011   17.1   0.0   13    3-15    195-207 (450)
+250 1G12_A PEPTIDYL-LYS METALLOEND  20.6      87  0.0011   14.7   0.0    9    3-11    113-121 (167)
+251 1GE7_A PEPTIDYL-LYS METALLOEND  20.6      87  0.0011   14.7   0.0    9    3-11    113-121 (167)
+252 2CLT_A INTERSTITIAL COLLAGENAS  20.5      88  0.0011   16.1   0.0   13    3-15    115-127 (367)
+253 3KZ9_B SmcR; Vibrio vulnificus  20.4      88  0.0011   13.5   0.0   10    6-15     40-49  (206)
+254 5D18_A TetR family transcripti  20.3      89  0.0011   13.8   0.0   10    6-15     37-46  (216)
+255 5D19_B TetR family transcripti  20.3      89  0.0011   13.8   0.0   10    6-15     37-46  (216)
+256 2WUI_A TRANSCRIPTIONAL REGULAT  20.3      90  0.0011   13.8   0.0   10    6-15     34-43  (210)
+257 4MXM_A Transcriptional regulat  20.1      91  0.0011   13.6   0.0   10    6-15     43-52  (203)
+258 4JKZ_A Transcriptional regulat  20.1      91  0.0011   13.5   0.0   10    6-15     41-50  (194)
+259 3ANP_A Transcriptional repress  20.1      91  0.0011   13.5   0.0   10    6-15     32-41  (204)
+260 3ANP_D Transcriptional repress  20.1      91  0.0011   13.5   0.0   10    6-15     32-41  (204)
+261 4L63_A ECXA (E.C.3.4.24), ECXB  20.0      91  0.0011   16.0   0.0   12    4-15    157-168 (266)
+
+No 1
+>5JNQ_A Phospho-N-acetylmuramoyl-pentapeptide-transferase (E.C.2.7.8.13); Membrane protein, antibiotic, PNPT, Transferase-Antibiotic; HET: TUM, PLM, BOG; 2.6A {Clostridium bolteae 90A9}
+Probab=97.83  E-value=5.8e-08  Score=53.70  Aligned_cols=16  Identities=94%  Similarity=1.271  Sum_probs=0.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|.++|+|||
+T Consensus         5 ~~~~~~~~~~~~~~~~   20 (376)
+T 5JNQ_A            5 RDHMVLHEYVNAAGIT   20 (376)
+T ss_dssp             ----------------
+T ss_pred             cchhhHHHHHhhcccC
+Confidence            8999999999999986
+
+
+No 2
+>6B7T_A Green fluorescent protein; Superfolder GFP, Truncated GFP, His-tag; HET: GYS; 1.91A {Aequorea victoria}
+Probab=97.38  E-value=1.1e-06  Score=50.64  Aligned_cols=16  Identities=94%  Similarity=1.271  Sum_probs=13.7  Template_Neff=4.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||||+|+++|||||
+T Consensus        23 ~~~~~~~~~~~~~~~~   38 (246)
+T 6B7T_A           23 RDHMVLHEYVNAAGIT   38 (246)
+T ss_dssp             -CEEEEEEEEEEECC-
+T ss_pred             ccceeehhHHHHhcCC
+Confidence            8999999999999986
+
+
+No 3
+>6OFO_A Fluorescent protein Dronpa; GFP, SPLIT FLUORESCENT PROTEIN, FLUORESCENT; HET: GYS; 2.603A {Aequorea victoria}
+Probab=95.36  E-value=0.0016  Score=37.93  Aligned_cols=16  Identities=94%  Similarity=1.271  Sum_probs=14.4  Template_Neff=4.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|+++|++++
+T Consensus        34 rdh~~~~E~~~a~~~~   49 (254)
+T 6OFO_A           34 RDHMVLHEYVNAAGIT   49 (254)
+T ss_dssp             CCEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehhHHCCe
+Confidence            8999999999998764
+
+
+No 4
+>4ORN_A mKalama1; proton transfer, zwitterion, chromophore, FLUORESCENT; HET: CSD, GYS, MES, SO4; 1.71A {Aequorea victoria}
+Probab=94.27  E-value=0.0084  Score=34.30  Aligned_cols=16  Identities=75%  Similarity=0.962  Sum_probs=14.6  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (239)
+T 4ORN_A          216 RDHMVLLEFRTAAGIT  231 (239)
+T ss_dssp             SSEEEEEEEEEEESSC
+T ss_pred             cceEEEEhHHHHcCCc
+Confidence            8999999999999874
+
+
+No 5
+>3AKO_B Venus; Venus, Fluorescent Protein, GFP; HET: PE8; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=91.71  E-value=0.062  Score=28.18  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.4  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_B           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 6
+>3AKO_F Venus; Venus, Fluorescent Protein, GFP; HET: PE8, CR2; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=91.71  E-value=0.062  Score=28.18  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.4  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_F           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 7
+>5FGU_A Green fluorescent protein,Extracellular streptodornase D; beta-beta-alpha metal finger nuclease, sequence; HET: SO4, CR2, ACT, EDO; 1.896A {Aequorea victoria}
+Probab=90.58  E-value=0.11  Score=32.58  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus       216 ~dh~~~~E~~~a~~lt  231 (565)
+T 5FGU_A          216 RDHMVLLEFVTAAGIA  231 (565)
+T ss_pred             CceEeechhHHHcCCC
+Confidence            7999999999998874
+
+
+No 8
+>6JGJ_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: GYS; 0.78A {Aequorea victoria}
+Probab=90.29  E-value=0.12  Score=29.59  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|+++|.+++
+T Consensus       212 rdh~~~~e~~~a~~~~  227 (228)
+T 6JGJ_A          212 RDHMVLLQFVTAAGIT  227 (228)
+T ss_pred             CceeeeEeeeehhccC
+Confidence            8999999999998864
+
+
+No 9
+>2HPW_A Green fluorescent protein, Clytia gregaria; Fluorescent protein, GFP, Structural Genomics; 1.55A {Clytia gregaria}
+Probab=89.76  E-value=0.15  Score=29.67  Aligned_cols=16  Identities=25%  Similarity=0.625  Sum_probs=14.5  Template_Neff=4.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||+++|+++|.+++
+T Consensus       215 rdh~~~~E~~~a~~~~  230 (233)
+T 2HPW_A          215 TDHLTIVEVIKAVDLE  230 (233)
+T ss_dssp             SCEEEEEEEEEEECGG
+T ss_pred             cceeEEEEEEeeeccc
+Confidence            8999999999998864
+
+
+No 10
+>6MKS_b Chimera protein of NLR family; NLRC4, Helical assembly, Inflammasome, PROTEIN; 3.4A {Homo sapiens}
+Probab=89.37  E-value=0.17  Score=28.87  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.5  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|+++|.+++
+T Consensus       317 ~d~~~~~e~~~~~~~~  332 (340)
+T 6MKS_b          317 RDHMVLLEFVTAAGIT  332 (340)
+T ss_pred             cceeeehHHHHHcCCC
+Confidence            8999999999998864
+
+
+No 11
+>3O78_A Chimera protein of Peptide of; circular permutated green fluorescent protein; 2.6A {Gallus gallus, Aequorea victoria, Aequorea victoria, Homo sapiens}
+Probab=88.03  E-value=0.25  Score=27.28  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.3  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||+.|+++|.+++
+T Consensus        93 ~dh~~~~e~~~~~~~~  108 (415)
+T 3O78_A           93 RDHMVLLEFVTAAGIT  108 (415)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehHHhcce
+Confidence            8999999999998763
+
+
+No 12
+>3AI4_A yeast enhanced green fluorescent protein; UBM, Ubiquitin-binding motif, GFP, Fusion; 1.6A {Aequorea victoria, Mus musculus}
+Probab=86.99  E-value=0.33  Score=28.65  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.5  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (283)
+T 3AI4_A          216 RDHMVLLEFVTAAGIT  231 (283)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             cceEEEEeehHHcCCC
+Confidence            8999999999998864
+
+
+No 13
+>3LVC_A Green fluorescent protein; colorless GFP-like protein, chromophore biosynthesis; HET: GOL, GYS; 1.14A {Aequorea coerulescens}
+Probab=86.13  E-value=0.4  Score=27.63  Aligned_cols=16  Identities=63%  Similarity=0.895  Sum_probs=13.9  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++++|+++|.+++
+T Consensus       213 rdhi~~~E~~~a~~~~  228 (236)
+T 3LVC_A          213 RDHMIYFEFVTAAAIT  228 (236)
+T ss_dssp             SSEEEEEEEEEEEEC-
+T ss_pred             cceeeEEehHHHHHhh
+Confidence            8999999999998763
+
+
+No 14
+>3EVR_A Myosin light chain kinase, Green; GCAMP2,calcium sensor, GFP, Calmodulin,M13, SIGNALING; 2.0A {Aequorea victoria}
+Probab=86.06  E-value=0.41  Score=26.45  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.6  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||||+.|+++|.++
+T Consensus        91 ~~~~~~~e~~~~~~~  105 (411)
+T 3EVR_A           91 RDHMVLLEFVTAAGI  105 (411)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceeEehHHHHHhCc
+Confidence            799999999998775
+
+
+No 15
+>6RMG_A Protein patched homolog 1, Sonic; Patched, PTCH1, Hedgehog, ShhN, MEMBRANE; HET: Y01, NAG; 3.4A {Homo sapiens}
+Probab=85.97  E-value=0.42  Score=30.83  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=0.0  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||+|+|+++|.+++
+T Consensus      1416 ~~~~~~~e~~~a~~~~ 1431 (1471)
+T 6RMG_A         1416 RDHMVLLEFVTAAGIT 1431 (1471)
+T ss_dssp             ----------------
+T ss_pred             CCeEEEehHHHHhCCc
+Confidence            7999999999998764
+
+
+No 16
+>4W6H_A fluorescent protein D190C; fluorescent protein, dimer, disulfide; HET: CRO; 1.953A {synthetic construct}
+Probab=85.84  E-value=0.43  Score=27.35  Aligned_cols=16  Identities=81%  Similarity=1.039  Sum_probs=13.9  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+|+
+T Consensus       213 ~~~v~l~E~a~a~~~~  228 (234)
+T 4W6H_A          213 RDHMVLLEYVTAAGIT  228 (234)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEehhccC
+Confidence            5899999999999985
+
+
+No 17
+>5YR2_A Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=84.76  E-value=0.53  Score=27.75  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_A           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEEeecccCc
+Confidence            8999999999998764
+
+
+No 18
+>5YR2_B Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=84.74  E-value=0.54  Score=27.75  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_B           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CccEEEEEEEehhCCc
+Confidence            8999999999998764
+
+
+No 19
+>6R4O_A Adenylate cyclase 9, Guanine nucleotide-binding; Adenylyl cyclase, G protein, MANT-GTP; HET: FOK, GSP, ONM; 4.2A {Bos taurus}
+Probab=84.31  E-value=0.58  Score=30.26  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.4  Template_Neff=8.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||||++|+++|.+++
+T Consensus      1478 ~~~~~~~~~~~~~~~~ 1493 (1533)
+T 6R4O_A         1478 RDHMVLLEFVTAAGIT 1493 (1533)
+T ss_pred             CceEeeehHHHHcCCc
+Confidence            8999999999998764
+
+
+No 20
+>6R4P_A Adenylate cyclase 9, Guanine nucleotide-binding; Membrane protein, adenylyl cyclase, G; HET: GSP; 3.1A {Bos taurus}
+Probab=84.19  E-value=0.59  Score=30.70  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.5  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ||||++.|+++|.|++
+T Consensus      1582 ~~~~~~~e~~~~~~~~ 1597 (1637)
+T 6R4P_A         1582 RDHMVLLEFVTAAGIT 1597 (1637)
+T ss_pred             cceEEEeeHHHHhCCC
+Confidence            8999999999998864
+
+
+No 21
+>6EFR_A iNicSnFR 1.0, a genetically encoded; periplasmic binding protein, green fluorescent; HET: CRO; 2.4A {Thermoanaerobacter sp. X513}
+Probab=83.32  E-value=0.69  Score=27.48  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.7  Template_Neff=7.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||||++|+++|.++
+T Consensus       146 rdh~~~~e~~~~~~~  160 (520)
+T 6EFR_A          146 RDHMVLLEFVTAAGI  160 (520)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceeEEEEEeecccc
+Confidence            899999999999775
+
+
+No 22
+>4IK8_A RCaMP, Green fluorescent protein; calcium indicator, mutants, fluorescent intensity; 1.55A {Entacmaea quadricolor, Aequorea victoria}
+Probab=83.18  E-value=0.71  Score=26.27  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.6  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||||+.|+++|.++
+T Consensus       127 r~~~~~~e~~~~~~~  141 (448)
+T 4IK8_A          127 RDHMVLLEFVTAAGI  141 (448)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceEEEeehHHHhCc
+Confidence            899999999998775
+
+
+No 23
+>3OSR_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL; 2.0A {Escherichia coli, Aequorea victoria}
+Probab=79.15  E-value=1.3  Score=25.84  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.4  Template_Neff=8.600
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||||+.|++.|.|+
+T Consensus       418 ~~~~~~~~~~~~~~~  432 (653)
+T 3OSR_A          418 RDHMVLLEFVTAAGI  432 (653)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceEEEEEehhHhcc
+Confidence            899999999988775
+
+
+No 24
+>3EVP_A Green fluorescent protein; circular-permutated, EGFP, Chromophore, Luminescence, Photoprotein; 1.453A {Aequorea victoria}
+Probab=78.83  E-value=1.3  Score=25.87  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.5  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||||+.|+++|+++
+T Consensus        71 RDHvvl~E~~~a~~v   85 (243)
+T 3EVP_A           71 RDHMVLLEFVTAAGI   85 (243)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CceEEEeeehhHhcH
+Confidence            899999999998775
+
+
+No 25
+>3OSQ_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL, SO4; 1.9A {Escherichia coli, Aequorea victoria}
+Probab=78.19  E-value=1.4  Score=26.78  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||+++.+++.++||+
+T Consensus       280 ~~~~~~~~~~~~~~~~  295 (661)
+T 3OSQ_A          280 RDHMVLLEFVTAAGIT  295 (661)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cchhHHHHHHHHccce
+Confidence            6899999999998864
+
+
+No 26
+>5WUA_B ATP-sensitive inward rectifier potassium channel; KATP, channel, ABC transporter, Kir; 5.6A {Mus musculus}
+Probab=77.63  E-value=1.5  Score=27.70  Aligned_cols=16  Identities=94%  Similarity=1.271  Sum_probs=0.0  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.++|.||+
+T Consensus       618 ~~~v~~~E~~~a~~~~  633 (681)
+T 5WUA_B          618 RDHMVLHEYVNAAGIT  633 (681)
+T ss_dssp             ----------------
+T ss_pred             CCEEEEEEEEEEeccC
+Confidence            4899999999999985
+
+
+No 27
+>4JRB_A Green fluorescent protein, Major allergen; Allergen, asthma, new fold, proposed; HET: PGT, D12; 2.414A {Aequorea victoria, Blattella germanica}
+Probab=76.62  E-value=1.7  Score=25.83  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.8  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||+|++|++.|+|.
+T Consensus       216 ~dh~~~~E~~~a~g~  230 (416)
+T 4JRB_A          216 RDHMVLLEFVTAAGI  230 (416)
+T ss_dssp             SCEEEEEEEEEEESS
+T ss_pred             cccEEEEEEEecccc
+Confidence            899999999999875
+
+
+No 28
+>6DGV_A iGABASnFR; GABA binding protein, Fluorescent sensor; HET: CRO; 2.8A {Pseudomonas fluorescens}
+Probab=74.42  E-value=2.2  Score=24.92  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=14.4  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++..|++.|+||.
+T Consensus       345 ~~~~~~~~~~~~~~~~  360 (566)
+T 6DGV_A          345 RDHMVLLEFVTAAGIT  360 (566)
+T ss_pred             HhHHHHHHHHHHHhHH
+Confidence            7999999999999874
+
+
+No 29
+>2G2S_B Green fluorescent protein; chromophore, biosynthesis, dehydroalanine, peptide hydrolysis; 1.2A {Aequorea victoria}
+Probab=66.85  E-value=4.3  Score=22.53  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.7  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       150 ~~~v~l~E~a~A~~~~  165 (173)
+T 2G2S_B          150 RDHMVLLEFVTAAGIT  165 (173)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecccc
+Confidence            5899999999998763
+
+
+No 30
+>3VHT_B Green fluorescent protein, Green fluorescent; GREEN FLUORESCENT PROTEIN, FUSION PROTEIN; HET: CR2; 2.4A {Mus musculus}
+Probab=65.11  E-value=4.9  Score=23.46  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.3  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|++++
+T Consensus       216 ~~~v~~~E~a~A~g~~  231 (271)
+T 3VHT_B          216 RDHMVLLEFVTAAGIT  231 (271)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEeccCCC
+Confidence            5899999999998763
+
+
+No 31
+>5YR3_A Yellow fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF6; 1.901A {Aequorea victoria}
+Probab=63.93  E-value=5.3  Score=22.89  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.9  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       210 ~~~v~~~E~a~A~~~~  225 (225)
+T 5YR3_A          210 RDHMVLLEFVTAAGIT  225 (225)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 32
+>4W6T_A fluorescent protein E115H/T118H; fluorescent protein; HET: EDO, CRO; 1.604A {synthetic construct}
+Probab=61.17  E-value=6.5  Score=22.67  Aligned_cols=16  Identities=81%  Similarity=1.039  Sum_probs=13.9  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~~~E~a~A~~~~  229 (229)
+T 4W6T_A          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 33
+>5Z6Y_A Green fluorescent protein; chromophore linkage electron transfer, FLUORESCENT; HET: BF6; 1.87A {Aequorea victoria}
+Probab=60.68  E-value=6.7  Score=22.55  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.7  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|+|.+.|.+++
+T Consensus       213 ~~~v~~~E~a~A~~~~  228 (229)
+T 5Z6Y_A          213 RDHMVLLEFVTAAGIT  228 (229)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEEEEcccC
+Confidence            5899999999998763
+
+
+No 34
+>6MB2_a Interferon-inducible protein AIM2, Green fluorescent; Filament, higher order, innate immunity; HET: MSE, CRO; 5.0A {Homo sapiens}
+Probab=59.48  E-value=7.3  Score=22.37  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=13.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       212 ~~~v~l~E~a~a~~~  226 (226)
+T 6MB2_a          212 RDHMVLLEFVTAAGI  226 (226)
+T ss_pred             CcEEEEEEEEEccCC
+Confidence            589999999999764
+
+
+No 35
+>5NI3_B Green fluorescent protein; GFP, super folder, click chemistry; HET: NA, DB5, CRO, GOL; 1.28A {Aequorea victoria}
+Probab=59.44  E-value=7.3  Score=22.47  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       211 ~~~v~l~E~a~A~~~~  226 (229)
+T 5NI3_B          211 RDHMVLLEFVTAAGIT  226 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEcccCc
+Confidence            5899999999998763
+
+
+No 36
+>1YFP_B YELLOW FLUORESCENT PROTEIN; LUMINESCENCE, GREEN FLUORESCENT PROTEIN, YELLOW-EMISSION; HET: CRO; 2.5A {Aequorea victoria} SCOP: d.22.1.1
+Probab=58.80  E-value=7.6  Score=22.28  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=12.9  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       211 ~~~v~l~E~a~A~~~  225 (225)
+T 1YFP_B          211 RDHMVLLEFVTAAGI  225 (225)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CcEEEEEEEEEecCC
+Confidence            589999999999764
+
+
+No 37
+>4W76_B fluorescent protein D21H/K26C; fluorescent protein; HET: CRO; 2.35A {synthetic construct}
+Probab=58.45  E-value=7.8  Score=22.35  Aligned_cols=16  Identities=81%  Similarity=1.039  Sum_probs=13.5  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (229)
+T 4W76_B          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 38
+>6JGI_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: CRO; 0.85A {Aequorea victoria}
+Probab=57.00  E-value=8.6  Score=22.18  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.7  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (228)
+T 6JGI_A          212 RDHMVLLEFVTAAGIT  227 (228)
+T ss_pred             CceEEEEEEEEEeccC
+Confidence            5899999999998863
+
+
+No 39
+>4XGY_A Green fluorescent protein, mAb LCDR3; Fluorobody, GFP, CDR3, FLUORESCENT PROTEIN; HET: PE5, CRO; 1.494A {Aequorea victoria}
+Probab=56.61  E-value=8.8  Score=23.46  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.8  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|++++
+T Consensus       233 ~~~v~l~E~a~A~~~~  248 (303)
+T 4XGY_A          233 RDHMVLLEFVTAAGIT  248 (303)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CceEEEEEEEehhccc
+Confidence            5899999999998863
+
+
+No 40
+>5OXC_A Green fluorescent protein; Fluorescent protein, tryptophan-based chromophore, Cerulean; HET: B2H; 1.02A {Vaccinia virus}
+Probab=55.66  E-value=9.3  Score=22.21  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.6  Template_Neff=4.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (237)
+T 5OXC_A          214 RDHMVLLEFVTAAGIT  229 (237)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 41
+>6KL1_A Green fluorescent protein; green fluorescent protein, visualization of; HET: DOD, CRO; 0.851A {Aequorea victoria}
+Probab=54.67  E-value=9.9  Score=21.94  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.7  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (229)
+T 6KL1_A          212 RDHMVLLEFVTAAGIT  227 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEeccCc
+Confidence            5899999999998863
+
+
+No 42
+>3KRY_B Collagenase 3 (E.C.3.4.24.-); collagenase, collagenase-3, MMP-13, Collagen degradation; HET: 3KR; 1.9A {Homo sapiens}
+Probab=53.60  E-value=11  Score=16.60  Aligned_cols=13  Identities=23%  Similarity=0.422  Sum_probs=8.1  Template_Neff=10.900
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+.-+.|+
+T Consensus       115 ~~~~HE~gHalGl  127 (164)
+T 3KRY_B          115 LVAAHEFGHSLGL  127 (164)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3456777666664
+
+
+No 43
+>4XBI_A N domain of ClpB1 form; CLP Chaperone, AAA+ ATPase, Refoldase; HET: CRO, SO4; 2.013A {Plasmodium falciparum (isolate 3D7)}
+Probab=49.15  E-value=14  Score=20.97  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.5  Template_Neff=7.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       362 ~~~~~~~e~~~a~~~~  377 (381)
+T 4XBI_A          362 RDHMVLLEFVTAAGIT  377 (381)
+T ss_pred             CCEEEEEEEEEEeCCc
+Confidence            5899999999998763
+
+
+No 44
+>4Z4M_A GFP-TAX1BP1 UBZ2 domain fusion protein; GFP, TAX1BP1, UBZ, Zinc-finger, Flurorescent; HET: CR2; 2.15A {Aequorea victoria}
+Probab=46.85  E-value=16  Score=21.65  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.1  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ++|++|.|.+.|.+++
+T Consensus       216 ~~~v~l~E~a~A~~~~  231 (260)
+T 4Z4M_A          216 RDHMVLLEFVTAAGIT  231 (260)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEEEeCCC
+Confidence            5799999999998753
+
+
+No 45
+>966C_A MMP-1, N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE; MATRIX METALLOPROTEASE; HET: RS2; 1.9A {Homo sapiens} SCOP: d.92.1.11
+Probab=46.82  E-value=16  Score=15.60  Aligned_cols=13  Identities=23%  Similarity=0.532  Sum_probs=8.2  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+.-+.|+
+T Consensus       107 ~~~~HE~gH~lGl  119 (157)
+T 966C_A          107 RVAAHELGHSLGL  119 (157)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3567777766654
+
+
+No 46
+>5B5O_A Collagenase 3 (E.C.3.4.24.-); MMP-13, HYDROLASE, HYDROLASE-HYDROLASE INHIBITOR complex; HET: WMM; 1.2A {Homo sapiens}
+Probab=46.03  E-value=17  Score=16.25  Aligned_cols=13  Identities=23%  Similarity=0.422  Sum_probs=8.0  Template_Neff=10.700
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+.-+.|+
+T Consensus       116 ~~~~HEiGH~lGl  128 (172)
+T 5B5O_A          116 LVAAHEFGHSLGL  128 (172)
+T ss_dssp             HHHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3466777666654
+
+
+No 47
+>4HE4_B Yellow fluorescent protein; phiYFP, yellow fluorescent protein, mutant; HET: CRO; 2.05A {Phialidium sp. SL-2003}
+Probab=44.01  E-value=19  Score=21.13  Aligned_cols=16  Identities=44%  Similarity=0.553  Sum_probs=13.3  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       213 k~~v~l~E~a~A~~~~  228 (244)
+T 4HE4_B          213 RDNMSLKETVRAVDCR  228 (244)
+T ss_dssp             SCEEEEEEEEEEECHH
+T ss_pred             CceEEEEEEEEEeeCc
+Confidence            5799999999997753
+
+
+No 48
+>4NDJ_A E23-YFP; helix-turn-helix, fluorescent protein, de novo; HET: CR2; 1.85A {Aequorea victoria}
+Probab=43.81  E-value=19  Score=20.12  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=12.8  Template_Neff=7.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      +||++|.|.+.|.++
+T Consensus       266 ~~~~~~~E~~~a~~~  280 (297)
+T 4NDJ_A          266 RDHMVLLEFVTAAGI  280 (297)
+T ss_pred             CCEEEEEEEEEEeeC
+Confidence            589999999998765
+
+
+No 49
+>4RYS_A NowGFP; Fluorescent protein, NowGFP, TWG chromophore; HET: GOL, CRF; 1.18A {CFP MARKER PLASMID PWM1009}
+Probab=43.23  E-value=20  Score=21.02  Aligned_cols=16  Identities=75%  Similarity=1.024  Sum_probs=13.5  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||+.|.|.+.|.++.
+T Consensus       225 ~~~v~l~E~a~A~~~~  240 (241)
+T 4RYS_A          225 RDHMVLLEFVTAAGIP  240 (241)
+T ss_dssp             SSEEEEEEEEEEECSC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998763
+
+
+No 50
+>1RM8_A Matrix metalloproteinase-16 (E.C.3.4.24.-); MMP-16, MT3-MMP, MT-MMP, Membrane Type; HET: BAT; 1.8A {Homo sapiens} SCOP: d.92.1.11
+Probab=43.01  E-value=20  Score=15.65  Aligned_cols=12  Identities=33%  Similarity=0.678  Sum_probs=7.8  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       120 ~~~HE~GHalGl  131 (169)
+T 1RM8_A          120 VAVHELGHALGL  131 (169)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHhHHhCC
+Confidence            466777766665
+
+
+No 51
+>2JAD_A YELLOW FLUORESCENT PROTEIN GLUTAREDOXIN FUSION; YELLOW FLUORESCENT PROTEIN, ELECTRON TRANSPORT; HET: SO4; 2.7A {AEQUOREA VICTORIA, SACCHAROMYCES CEREVISIAE}
+Probab=42.96  E-value=20  Score=20.77  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.7  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      |||+++.|++.++|++
+T Consensus       213 ~d~~i~~E~v~a~gl~  228 (362)
+T 2JAD_A          213 RDHMVLLEFVTAAGIT  228 (362)
+T ss_pred             cCceEEEEEeeecCCC
+Confidence            6899999999998763
+
+
+No 52
+>4EN1_A Green fluorescent protein; GFP-like beta-barrel, FLUORESCENT PROTEIN; HET: GOL, PEG, SWG; 1.62A {Aequorea victoria}
+Probab=42.73  E-value=20  Score=21.32  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.5  Template_Neff=4.600
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       232 ~~~v~l~E~a~A~~~~  247 (264)
+T 4EN1_A          232 RDHMVLLEFVTAAGIT  247 (264)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEEecccc
+Confidence            5899999999998753
+
+
+No 53
+>1QIB_A GELATINASE A; INHIBITOR, MATRIXIN, MATRIX METALLOPROTEINASE-2 (MMP-2); 2.8A {Homo sapiens} SCOP: d.92.1.11
+Probab=42.13  E-value=21  Score=15.29  Aligned_cols=13  Identities=31%  Similarity=0.468  Sum_probs=8.3  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+-.+.|+
+T Consensus       111 ~~~~heigh~lGl  123 (161)
+T 1QIB_A          111 LVAAHEFGHAMGL  123 (161)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHcCC
+Confidence            4566777766664
+
+
+No 54
+>4XOV_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.2A {Aequorea victoria}
+Probab=41.77  E-value=22  Score=21.34  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.5  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOV_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 55
+>4XOW_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.25A {Aequorea victoria}
+Probab=41.77  E-value=22  Score=21.34  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.5  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOW_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 56
+>6SAZ_A PROTEIN; mammalian fertilization, sperm-egg fusion, polyspermy; HET: FUC, NAG, BMA; 3.0A {Astacus astacus}
+Probab=41.62  E-value=22  Score=16.61  Aligned_cols=13  Identities=31%  Similarity=0.726  Sum_probs=9.0  Template_Neff=10.300
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+.-|.|+
+T Consensus        88 ~~i~heigHaLGl  100 (202)
+T 6SAZ_A           88 GTIIHELMHAIGF  100 (202)
+T ss_dssp             HHHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHHcC
+Confidence            3567788777765
+
+
+No 57
+>2JSD_A Matrix metalloproteinase-20 (E.C.3.4.24.-); MMP-NNGH, Structural Genomics, Structural Proteomics; HET: CA, ZN, NGH; NMR {Homo sapiens}
+Probab=41.34  E-value=22  Score=15.37  Aligned_cols=12  Identities=33%  Similarity=0.545  Sum_probs=7.4  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       111 ~~~HEigHalGl  122 (160)
+T 2JSD_A          111 VAAHEFGHALGL  122 (160)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHcC
+Confidence            456777666554
+
+
+No 58
+>3VTG_A High choriolytic enzyme 1 (E.C.3.4.24.67); hatching enzyme, Structural Genomics, NPPSFA; 1.34A {Oryzias latipes}
+Probab=41.16  E-value=22  Score=16.70  Aligned_cols=12  Identities=33%  Similarity=0.672  Sum_probs=8.9  Template_Neff=10.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..|.|+
+T Consensus        96 ~~~HEigHaLGl  107 (200)
+T 3VTG_A           96 IIQHELNHALGF  107 (200)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhCC
+Confidence            567888877775
+
+
+No 59
+>5J3N_A Green fluorescent protein,HsdR; HsdR, EcoR124I, type I restriction-modification; HET: GYS; 2.45A {Aequorea victoria}
+Probab=40.39  E-value=24  Score=21.53  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.6  Template_Neff=5.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ++|++|.|.+.|.+++
+T Consensus       219 ~~~v~~~E~a~A~~~~  234 (396)
+T 5J3N_A          219 RDHMVLLEFVTAAGIT  234 (396)
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 60
+>3ZXH_B COLLAGENASE 3 (E.C.3.4.24.-); METALLO-ENZYME, CARBOXYLATE INHIBITOR, COLLAGEN DEGRADATION; HET: E41, GOL; 1.3A {HOMO SAPIENS}
+Probab=40.15  E-value=24  Score=15.60  Aligned_cols=12  Identities=25%  Similarity=0.509  Sum_probs=7.3  Template_Neff=10.900
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       116 ~~~HEiGH~lGl  127 (171)
+T 3ZXH_B          116 VAAHEFGHSLGL  127 (171)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcC
+Confidence            456677666554
+
+
+No 61
+>6BTN_B Bone morphogenetic protein 1 (E.C.3.4.24.19); endopeptidase, HYDROLASE; HET: E8M; 2.05A {Homo sapiens}
+Probab=39.80  E-value=24  Score=16.23  Aligned_cols=13  Identities=31%  Similarity=0.626  Sum_probs=8.8  Template_Neff=10.600
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+..+.|+
+T Consensus        90 ~~i~HeigHaLGl  102 (202)
+T 6BTN_B           90 GIVVHELGHVVGF  102 (202)
+T ss_dssp             HHHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHHcC
+Confidence            3567787777665
+
+
+No 62
+>6ESM_A Macrophage metalloelastase (E.C.3.4.24.65); metzincin, carboxylate inhibitor alternative zinc-binding; HET: B9Z, PZE; 1.104A {Homo sapiens}
+Probab=38.93  E-value=26  Score=15.17  Aligned_cols=13  Identities=23%  Similarity=0.406  Sum_probs=8.0  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+..+.|+
+T Consensus       113 ~~~~HE~gH~lGl  125 (160)
+T 6ESM_A          113 LVAAHQFGHALGL  125 (160)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3456777666664
+
+
+No 63
+>1AST_A ASTACIN (E.C.3.4.24.21); HYDROLASE(METALLOPROTEINASE); 1.8A {Astacus astacus} SCOP: d.92.1.8
+Probab=38.67  E-value=26  Score=16.26  Aligned_cols=13  Identities=31%  Similarity=0.726  Sum_probs=8.9  Template_Neff=10.400
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+.-+.|+
+T Consensus        88 ~~i~he~ghaLGl  100 (200)
+T 1AST_A           88 GTIIHELMHAIGF  100 (200)
+T ss_dssp             HHHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHHcC
+Confidence            4567777777665
+
+
+No 64
+>4NEL_A Transcriptional regulator; STRUCTURAL GENOMICS, PSI-BIOLOGY, MIDWEST CENTER; 2.05A {Saccharomonospora viridis}
+Probab=38.12  E-value=27  Score=14.56  Aligned_cols=12  Identities=25%  Similarity=0.578  Sum_probs=7.3  Template_Neff=12.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -+.+|++++|++
+T Consensus        24 t~~~Ia~~agvs   35 (190)
+T 4NEL_A           24 RIHDIASELGTS   35 (190)
+T ss_dssp             CHHHHHHHHTCC
+T ss_pred             CHHHHHHHHCCC
+Confidence            355667776653
+
+
+No 65
+>6TB4_I TATA-box Binding Protein (TBP), Transcriptional; Transcriptional co-activator, Histone-acetylation, TRANSCRIPTION; 3.8A {Komagataella phaffii GS115}
+Probab=37.99  E-value=27  Score=18.61  Aligned_cols=15  Identities=40%  Similarity=0.519  Sum_probs=9.4  Template_Neff=5.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      ||..+.+.|++..|+
+T Consensus        10 rda~~i~~iL~~~Gi   24 (153)
+T 6TB4_I           10 RDVRLLHLIFATQNI   24 (153)
+T ss_pred             HHHHHHHHHHHhCCC
+Confidence            455666666666665
+
+
+No 66
+>5UE3_B Matrix metalloproteinase-9 (E.C.3.4.24.35,3.4.24.35); prommp9, zymogen, HYDROLASE; HET: SO4; 1.599A {Homo sapiens}
+Probab=37.88  E-value=27  Score=16.77  Aligned_cols=13  Identities=31%  Similarity=0.455  Sum_probs=9.0  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      .++++||--+.|+
+T Consensus       188 ~v~~HEiGHaLGL  200 (236)
+T 5UE3_B          188 LVAAHEFGHALGL  200 (236)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHcCC
+Confidence            3567888777765
+
+
+No 67
+>1I76_A NEUTROPHIL COLLAGENASE (E.C.3.4.24.34); HYDROLASE, COMPLEX (METALLOPROTEASE-INHIBITOR); HET: BSI; 1.2A {Homo sapiens} SCOP: d.92.1.11
+Probab=37.57  E-value=28  Score=15.34  Aligned_cols=12  Identities=25%  Similarity=0.509  Sum_probs=7.2  Template_Neff=10.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       115 ~~~HEiGH~lGl  126 (163)
+T 1I76_A          115 VAAHEFGHSLGL  126 (163)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHhh
+Confidence            456676666554
+
+
+No 68
+>3DPF_B Neutrophil collagenase (E.C.3.4.24.34); hydrolase, selective inhibition, non-zinc chelating; HET: AXB; 2.1A {Homo sapiens}
+Probab=37.57  E-value=28  Score=15.34  Aligned_cols=12  Identities=25%  Similarity=0.509  Sum_probs=7.2  Template_Neff=10.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       115 ~~~HEiGH~lGl  126 (163)
+T 3DPF_B          115 VAAHEFGHSLGL  126 (163)
+T ss_dssp             HHHHHHHHHTTB
+T ss_pred             HHHHHHHHHHhh
+Confidence            456676666554
+
+
+No 69
+>6NSM_A Copper outer membrane regulator/DNA Complex; repressor, DNA-binding complex, epoxide sensing; 2.8A {Pseudomonas aeruginosa}
+Probab=37.36  E-value=28  Score=14.83  Aligned_cols=10  Identities=30%  Similarity=0.395  Sum_probs=5.9  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~Ia~~agv   44 (198)
+T 6NSM_A           35 LAALTEAMEI   44 (198)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 70
+>3EDH_A Bone morphogenetic protein 1 (E.C.3.4.24.19); vicinal disulfide, Chondrogenesis, Cleavage on; HET: DMS; 1.25A {Homo sapiens}
+Probab=36.50  E-value=30  Score=15.94  Aligned_cols=12  Identities=33%  Similarity=0.717  Sum_probs=8.3  Template_Neff=10.600
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus        90 ~~~HE~gHaLGl  101 (201)
+T 3EDH_A           90 IVVHELGHVVGF  101 (201)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcC
+Confidence            467777777665
+
+
+No 71
+>1HV5_D STROMELYSIN 3 (E.C.3.4.24.-); stromelysin-3, inhibition, phosphinic inhibitor, hydrolase; HET: ZN, RXP, CPS; 2.6A {Mus musculus} SCOP: d.92.1.11
+Probab=36.32  E-value=30  Score=14.97  Aligned_cols=12  Identities=25%  Similarity=0.482  Sum_probs=7.5  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       116 ~~~HElGHaLGl  127 (165)
+T 1HV5_D          116 VAAHEFGHVLGL  127 (165)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHcC
+Confidence            456777666654
+
+
+No 72
+>1HV5_E STROMELYSIN 3 (E.C.3.4.24.-); stromelysin-3, inhibition, phosphinic inhibitor, hydrolase; HET: ZN, RXP, CPS; 2.6A {Mus musculus} SCOP: d.92.1.11
+Probab=36.32  E-value=30  Score=14.97  Aligned_cols=12  Identities=25%  Similarity=0.482  Sum_probs=7.5  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       116 ~~~HElGHaLGl  127 (165)
+T 1HV5_E          116 VAAHEFGHVLGL  127 (165)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHcC
+Confidence            456777666654
+
+
+No 73
+>5VL9_A Regulatory protein TetR/DNA Complex; transcription factor, protein-DNA complex, TRANSCRIPTION-DNA; HET: MSE, HEZ; 2.16A {Enterobacter lignolyticus}
+Probab=36.07  E-value=30  Score=14.65  Aligned_cols=10  Identities=40%  Similarity=0.747  Sum_probs=5.8  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 ~~~Ia~~agv   40 (192)
+T 5VL9_A           31 VRNIATAAGV   40 (192)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 74
+>6XWY_A Red fluorescent protein eqFP611; pH resistant, long stokes shift; HET: MLA, EDO, NRQ; 1.75A {Entacmaea quadricolor}
+Probab=35.76  E-value=31  Score=19.82  Aligned_cols=13  Identities=23%  Similarity=0.227  Sum_probs=11.1  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAA   13 (16)
+Q Consensus         1 rdhmvlheivnaa   13 (16)
+                      |||++|.|.+.|.
+T Consensus       205 ~~~v~~~E~a~A~  217 (219)
+T 6XWY_A          205 ETYVVQREVAVAK  217 (219)
+T ss_dssp             TTEEEEEEEEEEE
+T ss_pred             ccEEEEEEEEEEe
+Confidence            6899999998873
+
+
+No 75
+>2ZOZ_B Transcriptional regulator; helix turn helix, DNA-binding, Transcription; HET: SO4, GOL, ET; 1.95A {Corynebacterium glutamicum} SCOP: a.121.1.1, a.4.1.9
+Probab=35.43  E-value=32  Score=14.78  Aligned_cols=11  Identities=18%  Similarity=0.480  Sum_probs=6.6  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        26 t~~~Ia~~agv   36 (183)
+T 2ZOZ_B           26 SYDSLAEATGL   36 (183)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 76
+>1HFC_A FIBROBLAST COLLAGENASE (E.C.3.4.24.7); METALLOPROTEASE; HET: PLH; 1.5A {Homo sapiens} SCOP: d.92.1.11
+Probab=35.37  E-value=32  Score=15.10  Aligned_cols=13  Identities=23%  Similarity=0.532  Sum_probs=8.1  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+.-+.|+
+T Consensus       114 ~~~~he~gHalGl  126 (169)
+T 1HFC_A          114 RVAAHELGHSLGL  126 (169)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3466777666654
+
+
+No 77
+>1RMZ_A Macrophage metalloelastase (E.C.3.4.24.65); MATRIX METALLOPROTEINASE, MMP12, ELASTASE, COMPLEX; HET: NGH; 1.34A {Homo sapiens} SCOP: d.92.1.11
+Probab=34.91  E-value=33  Score=14.83  Aligned_cols=12  Identities=33%  Similarity=0.614  Sum_probs=7.0  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       111 ~~~heiGh~lGl  122 (159)
+T 1RMZ_A          111 TAVHEIGHSLGL  122 (159)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHHhcC
+Confidence            456666666554
+
+
+No 78
+>1Y93_A Macrophage metalloelastase (E.C.3.4.24.65); MATRIX METALLOPROTEINASE, MMP12, ELASTASE, COMPLEX; 1.03A {Homo sapiens} SCOP: d.92.1.11
+Probab=34.91  E-value=33  Score=14.83  Aligned_cols=12  Identities=33%  Similarity=0.614  Sum_probs=7.0  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       111 ~~~heiGh~lGl  122 (159)
+T 1Y93_A          111 TAVHEIGHSLGL  122 (159)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHhcC
+Confidence            456666666554
+
+
+No 79
+>4GQL_A Macrophage metalloelastase (E.C.3.4.24.65); potent selective phosphinic inhibitor, METZINCIN; HET: R47; 1.15A {Homo sapiens}
+Probab=34.91  E-value=33  Score=14.83  Aligned_cols=12  Identities=33%  Similarity=0.614  Sum_probs=7.0  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       111 ~~~heiGh~lGl  122 (159)
+T 4GQL_A          111 TAVHEIGHSLGL  122 (159)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHHhcC
+Confidence            456666666554
+
+
+No 80
+>5UE3_A Matrix metalloproteinase-9 (E.C.3.4.24.35,3.4.24.35); prommp9, zymogen, HYDROLASE; HET: SO4; 1.599A {Homo sapiens}
+Probab=34.69  E-value=33  Score=16.49  Aligned_cols=13  Identities=31%  Similarity=0.455  Sum_probs=8.9  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      .++++||--+.|+
+T Consensus       188 ~v~~HEiGHaLGL  200 (236)
+T 5UE3_A          188 LVAAHEFGHALGL  200 (236)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHcCC
+Confidence            3567788777665
+
+
+No 81
+>6GY3_B AmtR protein/DNA Complex; transcription regulator, transcription, TetR family; 2.68A {Corynebacterium glutamicum}
+Probab=34.42  E-value=34  Score=14.87  Aligned_cols=12  Identities=42%  Similarity=0.673  Sum_probs=7.4  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      +-..+|++++|+
+T Consensus        22 ~tv~~Ia~~agv   33 (202)
+T 6GY3_B           22 TSTHQIADAVGI   33 (202)
+T ss_dssp             CCHHHHHHHHTS
+T ss_pred             CCHHHHHHHHCC
+Confidence            345667777665
+
+
+No 82
+>5KTG_B Green fluorescent protein,Bcl-2 homologous antagonist/killer; BCL-2 family proteins, mitochondrial outer; HET: CR2; 2.802A {Aequorea victoria}
+Probab=34.06  E-value=35  Score=19.96  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=12.5  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ++|++|.|.+.++|++
+T Consensus       213 ~~~v~L~E~a~a~g~~  228 (309)
+T 5KTG_B          213 RDHMVLLEFVTAAGIT  228 (309)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEeeccCCC
+Confidence            4789999998887653
+
+
+No 83
+>1IAB_A ASTACIN (E.C.3.4.24.21) WITH ZINC REPLACED; ZINC ENDOPEPTIDASE; 1.79A {Astacus astacus} SCOP: d.92.1.8
+Probab=33.89  E-value=35  Score=15.84  Aligned_cols=12  Identities=33%  Similarity=0.825  Sum_probs=8.4  Template_Neff=10.400
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus        89 ~i~he~ghaLGl  100 (200)
+T 1IAB_A           89 TIIHELMHAIGF  100 (200)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHcc
+Confidence            467787777765
+
+
+No 84
+>2GEN_A probable transcriptional regulator; APC6095, Pseudomonas aeruginosa PA01, TetR; 1.7A {Pseudomonas aeruginosa PAO1} SCOP: a.4.1.9, a.121.1.1
+Probab=33.03  E-value=37  Score=14.39  Aligned_cols=10  Identities=20%  Similarity=0.391  Sum_probs=5.9  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        30 ~~~Ia~~agv   39 (197)
+T 2GEN_A           30 IEMIRDRSGA   39 (197)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 85
+>5H0U_A Matrix metalloproteinase-14 (E.C.3.4.24.80), HIS-HIS-HIS-HIS-HIS-HIS; catalytic domain membrane type 1; HET: EPE, GOL; 2.239A {Homo sapiens}
+Probab=32.78  E-value=37  Score=14.89  Aligned_cols=12  Identities=33%  Similarity=0.678  Sum_probs=6.7  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       121 ~~~hE~gh~lGl  132 (170)
+T 5H0U_A          121 VAVHELGHALGL  132 (170)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             hHhhhhhHhhCC
+Confidence            345666655554
+
+
+No 86
+>6NSM_B Copper outer membrane regulator/DNA Complex; repressor, DNA-binding complex, epoxide sensing; 2.8A {Pseudomonas aeruginosa}
+Probab=32.68  E-value=38  Score=14.45  Aligned_cols=10  Identities=30%  Similarity=0.395  Sum_probs=5.9  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~Ia~~agv   44 (198)
+T 6NSM_B           35 LAALTEAMEI   44 (198)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 87
+>3VPR_A Transcriptional regulator, TetR family; All Alpha, Helix-Turn-Helix, Transcriptional Repressor; 2.27A {Thermus thermophilus}
+Probab=32.41  E-value=38  Score=14.25  Aligned_cols=11  Identities=18%  Similarity=0.573  Sum_probs=6.7  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        25 ti~~Ia~~agv   35 (190)
+T 3VPR_A           25 SVQDLAQALGL   35 (190)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 88
+>3VPR_C Transcriptional regulator, TetR family; All Alpha, Helix-Turn-Helix, Transcriptional Repressor; HET: MSE; 2.27A {Thermus thermophilus}
+Probab=32.41  E-value=38  Score=14.25  Aligned_cols=11  Identities=18%  Similarity=0.573  Sum_probs=6.7  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        25 ti~~Ia~~agv   35 (190)
+T 3VPR_C           25 SVQDLAQALGL   35 (190)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 89
+>2NX4_B Transcriptional regulator, TetR family protein; tetR, HTH DNA binding motif; 1.7A {Rhodococcus sp. RHA1}
+Probab=32.32  E-value=38  Score=14.37  Aligned_cols=11  Identities=27%  Similarity=0.510  Sum_probs=6.2  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        32 t~~~Ia~~agv   42 (194)
+T 2NX4_B           32 NMRDIATEAGY   42 (194)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             cHHHHHHHhCC
+Confidence            34556666665
+
+
+No 90
+>6NSN_A Copper outer membrane regulator/DNA Complex; Repressor, DNA-binding complex, Epoxide sensing; 2.6A {Pseudomonas aeruginosa}
+Probab=32.31  E-value=38  Score=14.49  Aligned_cols=10  Identities=30%  Similarity=0.395  Sum_probs=5.9  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~Ia~~agv   44 (198)
+T 6NSN_A           35 LAALTEAMEI   44 (198)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 91
+>6F3T_F Transcription initiation factor TFIID subunit; Transcription, Complex, TFIID, TAF, TBD-associated; HET: SEP; 2.5A {Homo sapiens}
+Probab=31.53  E-value=40  Score=16.05  Aligned_cols=14  Identities=29%  Similarity=0.582  Sum_probs=7.4  Template_Neff=7.800
+
+Q ORIGINAL_SEQUE    2 DHMVLHEIVNAAGI   15 (16)
+Q Consensus         2 dhmvlheivnaagi   15 (16)
+                      |..+.+++++.+|+
+T Consensus        11 ~~~~v~~il~~~Gi   24 (116)
+T 6F3T_F           11 DAQMMAQILKDMGI   24 (116)
+T ss_dssp             CHHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHCCC
+Confidence            44455555555554
+
+
+No 92
+>1SLM_A STROMELYSIN-1; HYDROLASE, METALLOPROTEASE, FIBROBLAST, COLLAGEN DEGRADATION; 1.9A {Homo sapiens} SCOP: d.92.1.11, a.20.1.2
+Probab=31.27  E-value=41  Score=16.44  Aligned_cols=13  Identities=31%  Similarity=0.498  Sum_probs=8.5  Template_Neff=10.100
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+--+.|+
+T Consensus       197 ~v~~HEiGHaLGL  209 (255)
+T 1SLM_A          197 LVAAHEIGHSLGL  209 (255)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHcc
+Confidence            3567777776665
+
+
+No 93
+>3LQ0_A ProAstacin (E.C.3.4.24.21); metallopeptidase, zymogen activation, proenzyme, protease; HET: GOL; 1.45A {Astacus astacus}
+Probab=31.12  E-value=42  Score=16.22  Aligned_cols=12  Identities=33%  Similarity=0.758  Sum_probs=8.4  Template_Neff=10.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       123 ~i~HEigHaLGl  134 (235)
+T 3LQ0_A          123 TILHALMHAIGF  134 (235)
+T ss_dssp             HHHHHHHHHHHB
+T ss_pred             HHHHHHHHHHCC
+Confidence            567777777665
+
+
+No 94
+>2KSN_A Ubiquitin domain-containing protein 2; UBTD2, DC-UbP, ubiquitin, SIGNALING PROTEIN; NMR {Homo sapiens}
+Probab=30.83  E-value=42  Score=18.55  Aligned_cols=12  Identities=33%  Similarity=0.581  Sum_probs=7.1  Template_Neff=4.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      .-+.|+.||||+
+T Consensus        76 ~Aq~IldaAgit   87 (137)
+T 2KSN_A           76 LAQAIIDGANIT   87 (137)
+T ss_dssp             HHHHHHHHHSCB
+T ss_pred             HHHHHHHHCCCE
+Confidence            345666677663
+
+
+No 95
+>5ZJK_N Myroilysin; hydrolase; HET: PO4, ZN; 2.6A {Myroides sp. CSLB8}
+Probab=30.78  E-value=42  Score=15.65  Aligned_cols=12  Identities=42%  Similarity=0.678  Sum_probs=8.1  Template_Neff=10.500
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       100 ~~~HEigHaLGl  111 (213)
+T 5ZJK_N          100 TVIHEFGHALGM  111 (213)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHHhc
+Confidence            466777777665
+
+
+No 96
+>3CCY_A Putative TetR-family transcriptional regulator; APC88698, TetR, Bordetella parapertussis 12822; 2.01A {Bordetella parapertussis 12822}
+Probab=30.72  E-value=43  Score=14.27  Aligned_cols=12  Identities=17%  Similarity=0.279  Sum_probs=7.7  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -..||++++|++
+T Consensus        36 t~~~Ia~~agvs   47 (203)
+T 3CCY_A           36 SIGDIARACECS   47 (203)
+T ss_dssp             CHHHHHHHTTCC
+T ss_pred             cHHHHHHHcCCC
+Confidence            356777777763
+
+
+No 97
+>5K58_A Nucleoid occlusion factor SlmA, peptide/DNA; SlmA, DNA, FtsZ, nucleoid occlusion; 2.772A {Escherichia coli O139:H28 (strain E24377A / ETEC)}
+Probab=30.59  E-value=43  Score=14.09  Aligned_cols=11  Identities=9%  Similarity=0.383  Sum_probs=6.1  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        25 t~~~Ia~~agv   35 (190)
+T 5K58_A           25 TTAKLAASVGV   35 (190)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34556666665
+
+
+No 98
+>5K58_F Nucleoid occlusion factor SlmA, peptide/DNA; SlmA, DNA, FtsZ, nucleoid occlusion; 2.772A {Escherichia coli O139:H28 (strain E24377A / ETEC)}
+Probab=30.59  E-value=43  Score=14.09  Aligned_cols=11  Identities=9%  Similarity=0.383  Sum_probs=6.1  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        25 t~~~Ia~~agv   35 (190)
+T 5K58_F           25 TTAKLAASVGV   35 (190)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34556666665
+
+
+No 99
+>4ME9_A Transcriptional regulator, TetR family; TetR_N domain, PF00440 family, tetracyclin; 2.5A {Bacillus cereus}
+Probab=30.56  E-value=43  Score=14.08  Aligned_cols=11  Identities=18%  Similarity=0.265  Sum_probs=6.4  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        27 t~~~ia~~agi   37 (189)
+T 4ME9_A           27 TIPMIAEKAKV   37 (189)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 100
+>4ME9_B Transcriptional regulator, TetR family; TetR_N domain, PF00440 family, tetracyclin; HET: MSE; 2.5A {Bacillus cereus}
+Probab=30.56  E-value=43  Score=14.08  Aligned_cols=11  Identities=18%  Similarity=0.265  Sum_probs=6.4  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        27 t~~~ia~~agi   37 (189)
+T 4ME9_B           27 TIPMIAEKAKV   37 (189)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 101
+>4ANJ_A UNCONVENTIONAL MYOSIN-VI, GREEN FLUORESCENT PROTEIN; MOTOR PROTEIN-METAL-BINDNG PROTEIN COMPLEX, MOLECULAR; HET: ADP; 2.6A {SUS SCROFA, AEQUOREA VICTORIA}
+Probab=30.46  E-value=43  Score=21.70  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=12.6  Template_Neff=7.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||+++.|.+.|.+++
+T Consensus      1029 ~~~~~~~e~~~a~~~~ 1044 (1052)
+T 4ANJ_A         1029 RDHMVLLEFVTAAGIT 1044 (1052)
+T ss_dssp             SSEEEEEEEEEEEC--
+T ss_pred             cCEEEEEEEEEEcCch
+Confidence            5899999999998763
+
+
+No 102
+>2XS3_B KARILYSIN PROTEASE, PEPTIDE ALA-PHE-THR-SER; HYDROLASE, BACTERIAL MMP, VIRULENCE FACTOR; 2.4A {SYNTHETIC CONSTRUCT}
+Probab=30.41  E-value=43  Score=14.41  Aligned_cols=12  Identities=42%  Similarity=0.562  Sum_probs=7.7  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       118 ~~~HE~gH~lGl  129 (166)
+T 2XS3_B          118 VAAHEIGHLLGI  129 (166)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcC
+Confidence            456777766664
+
+
+No 103
+>4IN9_A Karilysin protease, Peptide SER-TRP-PHE-PRO; matrixin, metallopeptidase, metalloprotease, hydrolytic enzyme; HET: GOL; 1.55A {Tannerella forsythia}
+Probab=30.41  E-value=43  Score=14.41  Aligned_cols=12  Identities=42%  Similarity=0.562  Sum_probs=7.7  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       118 ~~~HE~gH~lGl  129 (166)
+T 4IN9_A          118 VAAHEIGHLLGI  129 (166)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcC
+Confidence            456777766664
+
+
+No 104
+>1LML_A LEISHMANOLYSIN; LEISHMANOLYSIN, METALLOPROTEASE, GLYCOPROTEIN; 1.86A {Leishmania major} SCOP: d.92.1.3
+Probab=30.35  E-value=44  Score=19.45  Aligned_cols=12  Identities=42%  Similarity=0.720  Sum_probs=8.5  Template_Neff=8.000
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .++||+.-+.|+
+T Consensus       162 ~~~HEi~H~LGF  173 (478)
+T 1LML_A          162 VVTHEMAHALGF  173 (478)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHhhc
+Confidence            467888877764
+
+
+No 105
+>2NX4_C Transcriptional regulator, TetR family protein; tetR, HTH DNA binding motif; 1.7A {Rhodococcus sp. RHA1}
+Probab=30.34  E-value=44  Score=14.20  Aligned_cols=11  Identities=27%  Similarity=0.510  Sum_probs=6.2  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        32 t~~~Ia~~agv   42 (194)
+T 2NX4_C           32 NMRDIATEAGY   42 (194)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             cHHHHHHHhCC
+Confidence            34556666665
+
+
+No 106
+>3AYU_A 72 kDa type IV collagenase; protease, HYDROLASE-HYDROLASE INHIBITOR complex; 2.0A {Homo sapiens}
+Probab=30.11  E-value=44  Score=14.47  Aligned_cols=12  Identities=25%  Similarity=0.459  Sum_probs=7.5  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       117 ~~~HE~gH~lGl  128 (167)
+T 3AYU_A          117 VAAHAFGHAMGL  128 (167)
+T ss_pred             HHHHHHHHHHcC
+Confidence            456777666654
+
+
+No 107
+>2F07_A YvdT; helix-turn-helix, TRANSCRIPTION; HET: BTB; 2.3A {Bacillus subtilis subsp. subtilis}
+Probab=30.03  E-value=45  Score=14.36  Aligned_cols=11  Identities=36%  Similarity=0.670  Sum_probs=6.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGIT   16 (16)
+Q Consensus         6 lheivnaagit   16 (16)
+                      +.+|++++|++
+T Consensus        33 ~~~Ia~~agvs   43 (197)
+T 2F07_A           33 ISDIVKKAGTA   43 (197)
+T ss_dssp             HHHHHHHHTSC
+T ss_pred             HHHHHHHHCCC
+Confidence            45666766653
+
+
+No 108
+>1RKT_A protein yfiR; transcription regulator, Structural Genomics, PSI; HET: UNX; 1.95A {Bacillus subtilis} SCOP: a.121.1.1, a.4.1.9
+Probab=29.91  E-value=45  Score=14.37  Aligned_cols=10  Identities=20%  Similarity=0.740  Sum_probs=5.7  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~Ia~~agv   44 (205)
+T 1RKT_A           35 MKDVVEESGF   44 (205)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4456666665
+
+
+No 109
+>4JQG_B synthetic fluorogenic peptidic substrate, Matrix; halogen-water-hydrogen bridge, Zincin-like, Gelatinase, Collagenase; HET: DNW, PFF, EDO, 8MC, PGO; 1.849A {Homo sapiens}
+Probab=29.69  E-value=46  Score=14.46  Aligned_cols=12  Identities=25%  Similarity=0.446  Sum_probs=7.1  Template_Neff=11.100
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+-.+.|+
+T Consensus       118 ~~~HE~gH~lGl  129 (164)
+T 4JQG_B          118 VAAHAFGHALGL  129 (164)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHHhcC
+Confidence            456676666554
+
+
+No 110
+>5GP9_A Transcriptional regulator (TetR/AcrR family); fadR, transcriptional regulator, TRANSCRIPTION, DNA; HET: GOL, PLM; 1.755A {Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)}
+Probab=29.40  E-value=46  Score=14.19  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=6.4  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        28 t~~~Ia~~agv   38 (194)
+T 5GP9_A           28 QVSKIAKAAGV   38 (194)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             cHHHHHHHHCC
+Confidence            34566666665
+
+
+No 111
+>2QOP_A HTH-type transcriptional regulator acrR; AcrB regulator, DNA-binding, Repressor, Transcription; 2.55A {Escherichia coli K12}
+Probab=29.39  E-value=46  Score=14.37  Aligned_cols=11  Identities=55%  Similarity=0.745  Sum_probs=6.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+++|++++|+
+T Consensus        33 s~~~Ia~~agv   43 (215)
+T 2QOP_A           33 SLGEIAKAAGV   43 (215)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 112
+>5K7F_A Transcriptional regulator, TetR family; TetR like regulator, isovalerate, regulation; 1.7A {Myxococcus xanthus (strain DK 1622)}
+Probab=29.11  E-value=47  Score=14.89  Aligned_cols=11  Identities=27%  Similarity=0.450  Sum_probs=6.6  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        38 ti~~Ia~~agv   48 (231)
+T 5K7F_A           38 SMQEIAAACRM   48 (231)
+T ss_dssp             CHHHHHHHTTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 113
+>5K7H_A Transcriptional regulator, TetR family; TetR like regulator, isovaleryl coenzyme; HET: IVC; 2.35A {Myxococcus xanthus DK 1622}
+Probab=29.11  E-value=47  Score=14.89  Aligned_cols=11  Identities=27%  Similarity=0.450  Sum_probs=6.6  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        38 ti~~Ia~~agv   48 (231)
+T 5K7H_A           38 SMQEIAAACRM   48 (231)
+T ss_dssp             CHHHHHHHSSS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 114
+>5K7Z_A Transcriptional regulator, TetR family/DNA Complex; TetR like regulator, isovaleryl coenzyme; HET: IVC; 2.92A {Myxococcus xanthus DK 1622}
+Probab=29.11  E-value=47  Score=14.89  Aligned_cols=11  Identities=27%  Similarity=0.450  Sum_probs=6.6  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        38 ti~~Ia~~agv   48 (231)
+T 5K7Z_A           38 SMQEIAAACRM   48 (231)
+T ss_dssp             CHHHHHHHTTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 115
+>5Y00_A Green fluorescent protein; fluorescent protein, beta barrel, gfp-like; HET: CRQ; 1.6A {Olindias}
+Probab=29.08  E-value=47  Score=19.98  Aligned_cols=15  Identities=40%  Similarity=0.663  Sum_probs=12.8  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       248 k~~v~l~E~a~A~~~  262 (271)
+T 5Y00_A          248 RDHIVQTELAVAGNL  262 (271)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             CCEEEEEEEEEEccc
+Confidence            479999999999765
+
+
+No 116
+>6AZH_A TetR family transcriptional regulator; Regulator, TRANSCRIPTION; HET: MSE; 1.75A {Clostridium perfringens}
+Probab=29.07  E-value=47  Score=13.99  Aligned_cols=10  Identities=30%  Similarity=0.544  Sum_probs=6.0  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        29 ~~~Ia~~agv   38 (192)
+T 6AZH_A           29 VDEIASKANV   38 (192)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 117
+>3F1B_A TetR-like transcriptional regulator; APC5888, TetR, Rhodococcus sp. RHA1; HET: SO4; 2.4A {Rhodococcus}
+Probab=29.06  E-value=47  Score=14.35  Aligned_cols=10  Identities=30%  Similarity=0.408  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 i~~Ia~~agv   46 (203)
+T 3F1B_A           37 MDAIAAKAEI   46 (203)
+T ss_dssp             HHHHHHHTTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 118
+>2QKO_C Possible transcriptional regulator, TetR family; Rhodococcus sp., tetR family protein; HET: MSE; 2.35A {Rhodococcus sp.}
+Probab=28.96  E-value=48  Score=14.55  Aligned_cols=10  Identities=10%  Similarity=0.218  Sum_probs=5.8  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        51 v~~Ia~~agv   60 (215)
+T 2QKO_C           51 FRAVDVEANV   60 (215)
+T ss_dssp             HHHHHHHSSS
+T ss_pred             HHHHHHHcCC
+Confidence            4556666665
+
+
+No 119
+>4KWA_B Transcriptional regulator; Structural Genomics, PSI-Biology, Midwest Center; HET: CHT, MSE; 1.8A {Saccharomonospora viridis}
+Probab=28.79  E-value=48  Score=13.93  Aligned_cols=10  Identities=30%  Similarity=0.710  Sum_probs=5.7  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        27 ~~~Ia~~agv   36 (195)
+T 4KWA_B           27 IHDIASELGT   36 (195)
+T ss_dssp             HHHHHHHHSC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666655
+
+
+No 120
+>5GWD_B Pro-myroilysin; Myroilysin, M12 metalloprotease, Cap, HYDROLASE; HET: MLY; 1.89A {Myroides sp. CSLB8}
+Probab=28.75  E-value=48  Score=16.10  Aligned_cols=13  Identities=38%  Similarity=0.641  Sum_probs=9.1  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+.-+.|+
+T Consensus       138 ~~i~HEigHaLGl  150 (252)
+T 5GWD_B          138 RTVIHEFGHALGM  150 (252)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHhc
+Confidence            3567888777765
+
+
+No 121
+>1SGM_A Putative HTH-type transcriptional regulator yxaF; TRANSCRIPTION, Structural Genomics, PSI, Protein; 2.0A {Bacillus subtilis} SCOP: a.121.1.1, a.4.1.9
+Probab=28.74  E-value=48  Score=14.10  Aligned_cols=10  Identities=40%  Similarity=0.733  Sum_probs=5.7  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++.+|+
+T Consensus        29 i~~Ia~~agv   38 (191)
+T 1SGM_A           29 LNQIVKESGA   38 (191)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666655
+
+
+No 122
+>3U8P_A Cytochrome b562 integral fusion with; directed evolution, domain insertion, energy; HET: HEM, CRO; 2.75A {Aequorea victoria, Escherichia coli}
+Probab=28.74  E-value=48  Score=20.48  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=12.9  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       324 ~~~v~l~E~a~A~~~  338 (347)
+T 3U8P_A          324 RDHMVLLEFVTAAGI  338 (347)
+T ss_dssp             SSEEEEEEEEEEESC
+T ss_pred             CCEEEEEEEEEEecc
+Confidence            589999999998775
+
+
+No 123
+>3U8P_C Cytochrome b562 integral fusion with; directed evolution, domain insertion, energy; HET: HEM, CRO; 2.75A {Aequorea victoria}
+Probab=28.74  E-value=48  Score=20.48  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=12.9  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       324 ~~~v~l~E~a~A~~~  338 (347)
+T 3U8P_C          324 RDHMVLLEFVTAAGI  338 (347)
+T ss_dssp             SSEEEEEEEEEEESC
+T ss_pred             CCEEEEEEEEEEecc
+Confidence            589999999998775
+
+
+No 124
+>4YZE_A HTH-type transcriptional repressor NemR; transcription factor, cystein-lysine sulfenamide thiol; 2.2A {Escherichia coli}
+Probab=28.52  E-value=49  Score=14.20  Aligned_cols=10  Identities=30%  Similarity=0.604  Sum_probs=5.7  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 ~~~Ia~~agv   42 (201)
+T 4YZE_A           33 LSELLKTAEV   42 (201)
+T ss_pred             HHHHHHHHCC
+Confidence            4556666655
+
+
+No 125
+>3BTJ_A HTH-type transcriptional regulator qacR; QacR, multidrug binding, Dequalinium, bivalent; HET: SO4, DEQ; 2.98A {Staphylococcus aureus} SCOP: a.121.1.1, a.4.1.9
+Probab=28.50  E-value=49  Score=14.11  Aligned_cols=12  Identities=25%  Similarity=0.221  Sum_probs=7.6  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -+.+|++++||+
+T Consensus        24 s~~~Ia~~agis   35 (188)
+T 3BTJ_A           24 TTGEIVKLSESS   35 (188)
+T ss_dssp             CHHHHHHHHTCC
+T ss_pred             CHHHHHHHhCCC
+Confidence            356677777763
+
+
+No 126
+>1VI0_B transcriptional regulator; structural genomics, TRANSCRIPTION; HET: DCC, MSE; 1.65A {Bacillus subtilis} SCOP: a.121.1.1, a.4.1.9
+Probab=28.32  E-value=50  Score=14.39  Aligned_cols=12  Identities=25%  Similarity=0.520  Sum_probs=7.2  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -..+|++++||+
+T Consensus        30 t~~~Ia~~agis   41 (206)
+T 1VI0_B           30 QVSKIAKQAGVA   41 (206)
+T ss_dssp             CHHHHHHHHTCC
+T ss_pred             cHHHHHHHHCCC
+Confidence            345667766653
+
+
+No 127
+>3DCF_A transcriptional regulator of the TetR/AcrR; YP_290855.1, transcriptional regulator of the; 2.5A {Thermobifida fusca YX}
+Probab=28.06  E-value=51  Score=14.58  Aligned_cols=10  Identities=30%  Similarity=0.654  Sum_probs=5.6  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        54 i~~Ia~~agv   63 (218)
+T 3DCF_A           54 LDDIADRIGF   63 (218)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4456666655
+
+
+No 128
+>3DCF_B transcriptional regulator of the TetR/AcrR; YP_290855.1, transcriptional regulator of the; HET: MSE; 2.5A {Thermobifida fusca YX}
+Probab=28.06  E-value=51  Score=14.58  Aligned_cols=10  Identities=30%  Similarity=0.654  Sum_probs=5.6  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        54 i~~Ia~~agv   63 (218)
+T 3DCF_B           54 LDDIADRIGF   63 (218)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4456666655
+
+
+No 129
+>2G7S_A transcriptional regulator, TetR family; transcription, APC5906, TetR, PSI, Protein; 1.4A {Agrobacterium tumefaciens str.} SCOP: a.121.1.1, a.4.1.9
+Probab=27.97  E-value=51  Score=13.99  Aligned_cols=10  Identities=30%  Similarity=0.547  Sum_probs=5.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 i~~Ia~~agv   40 (194)
+T 2G7S_A           31 YADISQVVGI   40 (194)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHHHCC
+Confidence            4456666655
+
+
+No 130
+>3WHB_B Fatty acid metabolism regulator protein; transcriptional regulator, fatty acid degradation; HET: DCC; 2.15A {Bacillus subtilis}
+Probab=27.95  E-value=51  Score=13.92  Aligned_cols=10  Identities=30%  Similarity=0.654  Sum_probs=6.3  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        29 ~~~Ia~~agv   38 (194)
+T 3WHB_B           29 VSKIAKQAGV   38 (194)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 131
+>3WHC_C Fatty acid metabolism regulator protein; transcriptional regulator, fatty acid degradation; HET: ST9; 2.2A {Bacillus subtilis}
+Probab=27.95  E-value=51  Score=13.92  Aligned_cols=10  Identities=30%  Similarity=0.654  Sum_probs=6.3  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        29 ~~~Ia~~agv   38 (194)
+T 3WHC_C           29 VSKIAKQAGV   38 (194)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 132
+>4YZE_C HTH-type transcriptional repressor NemR; transcription factor, cystein-lysine sulfenamide thiol; 2.2A {Escherichia coli}
+Probab=27.90  E-value=51  Score=14.07  Aligned_cols=10  Identities=30%  Similarity=0.604  Sum_probs=5.3  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 ~~~ia~~agv   42 (201)
+T 4YZE_C           33 LSELLKTAEV   42 (201)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            3455555554
+
+
+No 133
+>3ON4_A Transcriptional regulator, TetR family; Structural Genomics, PSI-2, Protein Structure; 1.85A {Legionella pneumophila subsp. pneumophila str. Philadelphia 1}
+Probab=27.88  E-value=51  Score=13.95  Aligned_cols=10  Identities=30%  Similarity=0.531  Sum_probs=5.5  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      .++|++++|+
+T Consensus        33 ~~~ia~~agv   42 (191)
+T 3ON4_A           33 FKDIATAINI   42 (191)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4555555554
+
+
+No 134
+>3ON4_G Transcriptional regulator, TetR family; Structural Genomics, PSI-2, Protein Structure; HET: MSE; 1.85A {Legionella pneumophila subsp. pneumophila str. Philadelphia 1}
+Probab=27.88  E-value=51  Score=13.95  Aligned_cols=10  Identities=30%  Similarity=0.531  Sum_probs=5.5  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      .++|++++|+
+T Consensus        33 ~~~ia~~agv   42 (191)
+T 3ON4_G           33 FKDIATAINI   42 (191)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4555555554
+
+
+No 135
+>2W53_A REPRESSOR; ANTIBIOTIC RESISTANCE, MULTI-DRUG EFFLUX PUMP; HET: SO4; 2.0A {STENOTROPHOMONAS MALTOPHILIA}
+Probab=27.76  E-value=52  Score=14.49  Aligned_cols=11  Identities=36%  Similarity=0.320  Sum_probs=6.5  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -.++|++++|+
+T Consensus        33 t~~~Ia~~agv   43 (219)
+T 2W53_A           33 TLEMIGARAGY   43 (219)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 136
+>3P9T_A Repressor; Transcription Repressor, antibacterial, antifungal, TRANSCRIPTION-ANTIBIOTIC; HET: SO4, TCL; 2.02A {Stenotrophomonas maltophilia}
+Probab=27.76  E-value=52  Score=14.49  Aligned_cols=11  Identities=36%  Similarity=0.320  Sum_probs=6.5  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -.++|++++|+
+T Consensus        33 t~~~Ia~~agv   43 (219)
+T 3P9T_A           33 TLEMIGARAGY   43 (219)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 137
+>2MZH_A Matrilysin (E.C.3.4.24.23); zymogen, hydrolase, zwitterionic membrane-bound form; HET: PX4, CA, ZN; NMR {Homo sapiens}
+Probab=27.64  E-value=52  Score=15.95  Aligned_cols=13  Identities=15%  Similarity=0.299  Sum_probs=8.6  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++||--+.|+
+T Consensus       191 ~~~~HEiGHaLGL  203 (248)
+T 2MZH_A          191 YAATHALGHSLGM  203 (248)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3567777776665
+
+
+No 138
+>4GCK_C Nucleoid occlusion factor SlmA; no, dna binding, dna binding; 2.05A {Klebsiella pneumoniae}
+Probab=27.45  E-value=53  Score=14.38  Aligned_cols=10  Identities=10%  Similarity=0.421  Sum_probs=5.8  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        48 ~~~Ia~~agv   57 (212)
+T 4GCK_C           48 TAKLAASVGV   57 (212)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 139
+>6VAL_I Green fluorescent protein,CALHM1,CALMH2 chimera; taste, assembly, calcium, chimera, MEMBRANE; 3.87A {Aequorea victoria}
+Probab=27.40  E-value=53  Score=21.72  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=0.0  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       258 ~~~v~l~E~a~A~~~~  273 (615)
+T 6VAL_I          258 RDHMVLLEFVTAAGIT  273 (615)
+T ss_dssp             ----------------
+T ss_pred             CCEEEEEEEEeHhcCc
+Confidence            5899999999998763
+
+
+No 140
+>2HYT_A Crystal structure of TetR-family transcriptional; TETR-FAMILY TRANSCRIPTIONAL REGULATOR, STRUCTURAL GENOMICS; HET: EDO; 1.64A {Pectobacterium atrosepticum}
+Probab=27.21  E-value=54  Score=14.11  Aligned_cols=10  Identities=10%  Similarity=0.461  Sum_probs=6.2  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~ia~~agv   44 (197)
+T 2HYT_A           35 MDDLTAQASL   44 (197)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 141
+>5X3R_A LuxR family transcriptional regulator; Quorum sensing inhibitor, DNA BINDING; HET: 7Y3, SO4, MSE; 2.1A {Vibrio vulnificus}
+Probab=27.15  E-value=54  Score=14.20  Aligned_cols=10  Identities=20%  Similarity=0.292  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        39 ~~~Ia~~agi   48 (205)
+T 5X3R_A           39 HADIAEIAQV   48 (205)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 142
+>5DAJ_E NalD; Repressor, Transcriptional regulator, TetR family; HET: MSE; 2.65A {Pseudomonas aeruginosa PAO1}
+Probab=27.12  E-value=54  Score=14.13  Aligned_cols=10  Identities=50%  Similarity=0.833  Sum_probs=5.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 ~~~Ia~~agv   42 (212)
+T 5DAJ_E           33 LEQIARAAGV   42 (212)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4555665554
+
+
+No 143
+>5H9T_H NalD; Repressor, TetR family, TRANSCRIPTION REGULATOR; 2.89A {Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)}
+Probab=27.12  E-value=54  Score=14.13  Aligned_cols=10  Identities=50%  Similarity=0.833  Sum_probs=5.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 ~~~Ia~~agv   42 (212)
+T 5H9T_H           33 LEQIARAAGV   42 (212)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4555665554
+
+
+No 144
+>2IBD_A Possible transcriptional regulator; Probable transcriptional regulatory protein, Rhodococcus; 1.5A {Rhodococcus sp.}
+Probab=27.09  E-value=54  Score=14.18  Aligned_cols=12  Identities=42%  Similarity=0.709  Sum_probs=7.2  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -+.+|++++|++
+T Consensus        36 t~~~Ia~~agvs   47 (204)
+T 2IBD_A           36 TVRDIADAAGIL   47 (204)
+T ss_dssp             CHHHHHHHTTSC
+T ss_pred             CHHHHHHHHCCC
+Confidence            345666766663
+
+
+No 145
+>4UDS_A MBDR REGULATOR; TRANSCRIPTION, TETR FAMILY; HET: MSE; 1.76A {AZOARCUS SP. CIB}
+Probab=27.08  E-value=54  Score=14.15  Aligned_cols=10  Identities=30%  Similarity=0.541  Sum_probs=5.5  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        36 ~~~Ia~~agv   45 (214)
+T 4UDS_A           36 IDMIAARAGL   45 (214)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 146
+>2FD5_A transcriptional regulator; Transcriptional regulator, DNA-binding protein, Structural; 1.7A {Pseudomonas aeruginosa} SCOP: a.4.1.9, a.121.1.1
+Probab=26.99  E-value=55  Score=14.30  Aligned_cols=11  Identities=45%  Similarity=0.782  Sum_probs=6.6  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGIT   16 (16)
+Q Consensus         6 lheivnaagit   16 (16)
+                      +++|.+++|++
+T Consensus        30 ~~~Ia~~agvs   40 (180)
+T 2FD5_A           30 VGEVMGAAGLT   40 (180)
+T ss_dssp             HHHHHHHTTCC
+T ss_pred             HHHHHHHhCCC
+Confidence            45666666653
+
+
+No 147
+>2RAE_A Transcriptional regulator, AcrR family protein; TetR/AcrR family transcriptional regulator, structural; 2.2A {Rhodococcus sp.}
+Probab=26.97  E-value=55  Score=14.21  Aligned_cols=11  Identities=36%  Similarity=0.697  Sum_probs=6.4  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        39 t~~~Ia~~agv   49 (207)
+T 2RAE_A           39 SVDEVAEASGI   49 (207)
+T ss_dssp             CHHHHHHHTTS
+T ss_pred             cHHHHHHHhCC
+Confidence            34566666665
+
+
+No 148
+>2GFN_B HTH-type transcriptional regulator pksA related; hth-type transcriptional regulator, transcriptional regulator; 1.9A {Rhodococcus sp.} SCOP: a.121.1.1, a.4.1.9
+Probab=26.82  E-value=55  Score=14.07  Aligned_cols=10  Identities=10%  Similarity=0.312  Sum_probs=6.1  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (209)
+T 2GFN_B           32 TRAVAEESGW   41 (209)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 149
+>3LQB_A LOC792177 protein; hydrolase, metalloprotease, hatching enzyme, astacin; 1.1A {Danio rerio}
+Probab=26.76  E-value=55  Score=15.24  Aligned_cols=12  Identities=33%  Similarity=0.589  Sum_probs=8.0  Template_Neff=10.300
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus        96 ~~~hE~ghaLGl  107 (199)
+T 3LQB_A           96 IAQHELNHALGF  107 (199)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHHhCC
+Confidence            466777777664
+
+
+No 150
+>3KKC_B TetR family Transcriptional regulator; APC20805, TetR, structural genomics, PSI-2; HET: IMD, MSE; 2.5A {Streptococcus agalactiae 2603V/R}
+Probab=26.74  E-value=55  Score=14.02  Aligned_cols=10  Identities=10%  Similarity=0.567  Sum_probs=5.6  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++.+|+
+T Consensus        35 v~~Ia~~agv   44 (177)
+T 3KKC_B           35 VQDVIGLANV   44 (177)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666555
+
+
+No 151
+>3PPB_A putative tetR family transcription regulator; DNA-BINDING, HELIX-TURN-HELIX MOTIF, HTH MOTIF; HET: PG4, EDO, PEG, MSE; 2.1A {Shewanella loihica}
+Probab=26.65  E-value=56  Score=13.89  Aligned_cols=10  Identities=30%  Similarity=0.478  Sum_probs=6.0  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        32 ~~~ia~~agi   41 (195)
+T 3PPB_A           32 TATIAREAGV   41 (195)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 152
+>3LHQ_B AcrAB operon repressor (TetR/AcrR family); structural genomics, IDP02616, CSGID, DNA-binding; HET: PEG; 1.56A {Salmonella enterica subsp. enterica serovar Typhimurium}
+Probab=26.62  E-value=56  Score=14.25  Aligned_cols=10  Identities=70%  Similarity=0.973  Sum_probs=5.9  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        37 ~~~Ia~~agv   46 (220)
+T 3LHQ_B           37 LAEIANAAGV   46 (220)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 153
+>5FGL_B NicR; co-crystal derepression, Nicotine regulator 2; HET: 6HY; 2.4A {Pseudomonas putida (strain S16)}
+Probab=26.54  E-value=56  Score=14.03  Aligned_cols=11  Identities=18%  Similarity=0.468  Sum_probs=6.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+++|++++|+
+T Consensus        21 t~~~Ia~~agv   31 (208)
+T 5FGL_B           21 TLKQIAQNSNV   31 (208)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHcCC
+Confidence            34566666665
+
+
+No 154
+>5HAW_A Nucleoid occlusion factor SlmA, FtsZ; SlmA, nucleoid occlusion, FTsZ, cytokinesis; 1.89A {Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)}
+Probab=26.52  E-value=56  Score=13.74  Aligned_cols=10  Identities=10%  Similarity=0.415  Sum_probs=5.5  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (196)
+T 5HAW_A           32 TAKLAKQVGV   41 (196)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4455555555
+
+
+No 155
+>2D1O_B Stromelysin-1 (E.C.3.4.24.17); hydorolase metalloprotease, HYDROLASE; HET: FA4; 2.02A {Homo sapiens} SCOP: d.92.1.11
+Probab=26.50  E-value=56  Score=14.34  Aligned_cols=12  Identities=33%  Similarity=0.592  Sum_probs=6.7  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+..+.|+
+T Consensus       116 ~~~HE~gH~lGl  127 (171)
+T 2D1O_B          116 VAAHEIGHSLGL  127 (171)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcc
+Confidence            455666655553
+
+
+No 156
+>3ON2_B Probable transcriptional regulator; Protein Structure Initiative, PSI-2, Structural; HET: MSE, PG6, SO4; 1.96A {Rhodococcus jostii}
+Probab=26.39  E-value=57  Score=14.06  Aligned_cols=11  Identities=27%  Similarity=0.700  Sum_probs=6.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGIT   16 (16)
+Q Consensus         6 lheivnaagit   16 (16)
+                      +.+|++++|++
+T Consensus        35 ~~~Ia~~agvs   45 (199)
+T 3ON2_B           35 LRQLAREAGVS   45 (199)
+T ss_dssp             HHHHHTTTTCB
+T ss_pred             HHHHHHHhCCC
+Confidence            45666666653
+
+
+No 157
+>3LWJ_A Putative TetR-family transcriptional regulator; Putative TetR-family transcriptional regulator, Structural; 2.07A {Syntrophomonas wolfei subsp. wolfei}
+Probab=26.29  E-value=57  Score=14.01  Aligned_cols=11  Identities=9%  Similarity=0.428  Sum_probs=6.3  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+++|++++|+
+T Consensus        34 t~~~Ia~~agv   44 (202)
+T 3LWJ_A           34 SIRDIIALSEV   44 (202)
+T ss_dssp             CHHHHHHHHCS
+T ss_pred             CHHHHHHHhCC
+Confidence            34556666665
+
+
+No 158
+>4W97_A KstR2; cholesterol, catabolism, KstR2, transcription regulator; HET: UCA; 1.6A {Mycobacterium tuberculosis}
+Probab=26.25  E-value=57  Score=14.20  Aligned_cols=11  Identities=36%  Similarity=0.755  Sum_probs=6.4  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        32 ti~~Ia~~agv   42 (200)
+T 4W97_A           32 TVRDIADGAGI   42 (200)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 159
+>1HY7_A STROMELYSIN-1 (E.C.3.4.24.17); mixed alpha beta structure, zinc; HET: MBS; 1.5A {Homo sapiens} SCOP: d.92.1.11
+Probab=26.18  E-value=58  Score=14.34  Aligned_cols=12  Identities=33%  Similarity=0.592  Sum_probs=6.8  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       116 ~~~HE~gH~lGl  127 (173)
+T 1HY7_A          116 VAAHEIGHSLGL  127 (173)
+T ss_dssp             HHHHHHHHHHTB
+T ss_pred             HHHHHHHHHhcc
+Confidence            355666665554
+
+
+No 160
+>3MA2_A Matrix metalloproteinase-14 (E.C.3.4.24.80), Metalloproteinase inhibitor; Protein - protein complex, Cleavage; 2.05A {Homo sapiens}
+Probab=26.16  E-value=58  Score=14.81  Aligned_cols=13  Identities=31%  Similarity=0.578  Sum_probs=7.9  Template_Neff=10.500
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+--+.|+
+T Consensus       124 ~~~~HE~GHalGl  136 (181)
+T 3MA2_A          124 LVAVHELGHALGL  136 (181)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHhCC
+Confidence            3466777666654
+
+
+No 161
+>2ID6_A TRANSCRIPTIONAL REGULATOR, TetR FAMILY; transcriptional regulator  TetR Family; 1.746A {Thermotoga maritima} SCOP: a.4.1.9, a.121.1.1
+Probab=26.15  E-value=58  Score=13.78  Aligned_cols=10  Identities=40%  Similarity=0.647  Sum_probs=5.9  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        28 ~~~ia~~agv   37 (202)
+T 2ID6_A           28 TDEIAEKAGV   37 (202)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 162
+>3IH3_A Transcriptional regulator, TetR family; transcriptional regulator, TM1030, temperature, structural; HET: MSE; 2.35A {Thermotoga maritima}
+Probab=26.15  E-value=58  Score=13.78  Aligned_cols=10  Identities=40%  Similarity=0.647  Sum_probs=5.9  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        28 ~~~ia~~agv   37 (202)
+T 3IH3_A           28 TDEIAEKAGV   37 (202)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 163
+>6AYI_C HTH-type transcriptional regulator UidR; Transcriptional Repressor Protein, Glucuronide Binding; HET: C3G; 2.09A {Escherichia coli O157:H7}
+Probab=26.09  E-value=58  Score=14.03  Aligned_cols=10  Identities=20%  Similarity=0.478  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 ~~~Ia~~agv   46 (199)
+T 6AYI_C           37 MKAICKSCAI   46 (199)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 164
+>2G3B_A putative TetR-family transcriptional regulator; transcription regulator, TetR-family, structural genomics; HET: GOL, MSE; 2.0A {Rhodococcus sp.} SCOP: a.121.1.1, a.4.1.9
+Probab=25.98  E-value=58  Score=13.98  Aligned_cols=11  Identities=18%  Similarity=0.607  Sum_probs=6.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        25 t~~~Ia~~agv   35 (208)
+T 2G3B_A           25 RVNDVAEVAGV   35 (208)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 165
+>6OF0_B HTH-type transcriptional regulator MtrR; TetR family, Helix-turn-helix (HTH), transcription; HET: PO4; 2.0A {Neisseria gonorrhoeae}
+Probab=25.96  E-value=59  Score=14.08  Aligned_cols=10  Identities=60%  Similarity=0.936  Sum_probs=5.7  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        33 ~~~ia~~agv   42 (210)
+T 6OF0_B           33 LNEIAQAAGV   42 (210)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666655
+
+
+No 166
+>2ZB9_A Putative transcriptional regulator; Transcription regulator, TetR family, Helix-turn-helix; 2.25A {Streptomyces coelicolor}
+Probab=25.93  E-value=59  Score=14.70  Aligned_cols=11  Identities=9%  Similarity=0.522  Sum_probs=6.8  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        45 s~~~Ia~~agv   55 (214)
+T 2ZB9_A           45 TFERVARVSGV   55 (214)
+T ss_dssp             CHHHHHHHHCC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566676665
+
+
+No 167
+>2ZB9_B Putative transcriptional regulator; Transcription regulator, TetR family, Helix-turn-helix; 2.25A {Streptomyces coelicolor}
+Probab=25.93  E-value=59  Score=14.70  Aligned_cols=11  Identities=9%  Similarity=0.522  Sum_probs=6.8  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        45 s~~~Ia~~agv   55 (214)
+T 2ZB9_B           45 TFERVARVSGV   55 (214)
+T ss_dssp             CHHHHHHHSSC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566676665
+
+
+No 168
+>4L62_C Transcriptional regulator; DNA binding, TRANSCRIPTION-DNA complex; 2.9A {Pseudomonas aeruginosa}
+Probab=25.75  E-value=59  Score=13.74  Aligned_cols=10  Identities=50%  Similarity=0.949  Sum_probs=6.0  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        27 ~~~Ia~~agv   36 (190)
+T 4L62_C           27 LNEILQSAGV   36 (190)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 169
+>4L62_N Transcriptional regulator; DNA binding, TRANSCRIPTION-DNA complex; 2.9A {Pseudomonas aeruginosa}
+Probab=25.75  E-value=59  Score=13.74  Aligned_cols=10  Identities=50%  Similarity=0.949  Sum_probs=6.0  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        27 ~~~Ia~~agv   36 (190)
+T 4L62_N           27 LNEILQSAGV   36 (190)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 170
+>1EB6_A NEUTRAL PROTEASE II (E.C.3.4.24.39); METALLOPROTEINASE, NEUTRAL PROTEASE II, HYDROLASE; HET: EDO; 1.0A {ASPERGILLUS ORYZAE} SCOP: d.92.1.12
+Probab=25.74  E-value=59  Score=14.92  Aligned_cols=10  Identities=40%  Similarity=0.577  Sum_probs=4.9  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNA   12 (16)
+Q Consensus         3 hmvlheivna   12 (16)
+                      ...+||++-.
+T Consensus       124 ~~liHE~~H~  133 (177)
+T 1EB6_A          124 TTTLHEFTHA  133 (177)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHcC
+Confidence            3455565543
+
+
+No 171
+>3JCU_X Photosystem II protein D1, Photosystem; membrane protein; HET: LMG, HEM, DGD, SQD, BCR, CLA, PL9, NEX, LUT, OEX, PHO, XAT, CHL, LHG; 3.2A {Spinacia oleracea}
+Probab=25.70  E-value=60  Score=18.15  Aligned_cols=13  Identities=23%  Similarity=0.534  Sum_probs=8.5  Template_Neff=2.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGIT   16 (16)
+Q Consensus         4 mvlheivnaagit   16 (16)
+                      ||+-|+.+|+|++
+T Consensus        69 m~~p~vAeaa~mT   81 (117)
+T 3JCU_X           69 MMVPDVAEAAELA   81 (117)
+T ss_pred             hhCHHHHHHcccC
+Confidence            5667777766653
+
+
+No 172
+>1C7K_A ZINC ENDOPROTEASE (E.C.3.4.24.-); alpha and beta protein, METALLOPROTEINASE; 1.0A {Streptomyces caespitosus} SCOP: d.92.1.1
+Probab=25.69  E-value=60  Score=13.77  Aligned_cols=12  Identities=25%  Similarity=0.434  Sum_probs=6.6  Template_Neff=10.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      ++++|+--+.|+
+T Consensus        80 ~~~hE~gH~lGl   91 (132)
+T 1C7K_A           80 VTAHETGHVLGL   91 (132)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             eehhhhHHHhCC
+Confidence            345666555554
+
+
+No 173
+>1KUH_A ZINC PROTEASE; METALLOPROTEINASE, HYDROLASE; 1.6A {Streptomyces caespitosus} SCOP: d.92.1.1
+Probab=25.69  E-value=60  Score=13.77  Aligned_cols=12  Identities=25%  Similarity=0.434  Sum_probs=6.6  Template_Neff=10.800
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      ++++|+--+.|+
+T Consensus        80 ~~~hE~gH~lGl   91 (132)
+T 1KUH_A           80 VTAHETGHVLGL   91 (132)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             eehhhhHHHhCC
+Confidence            345666555554
+
+
+No 174
+>3QQA_A CmeR; Alpha-helical, Helix-Turn-Helix, DNA-binding, Transcription regulation; HET: TCH; 2.2A {Campylobacter jejuni}
+Probab=25.63  E-value=60  Score=14.55  Aligned_cols=10  Identities=30%  Similarity=0.547  Sum_probs=5.5  Template_Neff=11.400
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        42 i~~Ia~~agv   51 (216)
+T 3QQA_A           42 LSDIIKLSGG   51 (216)
+T ss_dssp             HHHHHHHHTT
+T ss_pred             HHHHHHHHCC
+Confidence            4455555554
+
+
+No 175
+>4GCT_C Nucleoid occlusion factor SlmA; dna binding protein, dna binding; 2.45A {Vibrio cholerae O1 biovar El Tor}
+Probab=25.60  E-value=60  Score=13.73  Aligned_cols=10  Identities=10%  Similarity=0.415  Sum_probs=5.6  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (196)
+T 4GCT_C           32 TAKLAKQVGV   41 (196)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4455666555
+
+
+No 176
+>5ZTC_B Lmo2088 protein; TetR family, TRANSCRIPTION; HET: 1PE; 1.7A {Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)}
+Probab=25.56  E-value=60  Score=14.04  Aligned_cols=11  Identities=27%  Similarity=0.576  Sum_probs=6.7  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        23 t~~~Ia~~agv   33 (204)
+T 5ZTC_B           23 SLADIAGVVGL   33 (204)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 177
+>2V57_A TETR FAMILY TRANSCRIPTIONAL REPRESSOR LFRR; TETR, LFRR, REPRESSOR, DNA-BINDING, TRANSCRIPTION; HET: SO4, PRL; 1.9A {MYCOBACTERIUM SMEGMATIS}
+Probab=25.53  E-value=60  Score=13.86  Aligned_cols=9  Identities=44%  Similarity=0.726  Sum_probs=5.3  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    7 HEIVNAAGI   15 (16)
+Q Consensus         7 heivnaagi   15 (16)
+                      .+|++++|+
+T Consensus        36 ~~Ia~~agv   44 (190)
+T 2V57_A           36 GDIAAAAGV   44 (190)
+T ss_dssp             HHHHHHHTC
+T ss_pred             HHHHHHhCC
+Confidence            456666665
+
+
+No 178
+>2V57_B TETR FAMILY TRANSCRIPTIONAL REPRESSOR LFRR; TETR, LFRR, REPRESSOR, DNA-BINDING, TRANSCRIPTION; HET: PRL, SO4; 1.9A {MYCOBACTERIUM SMEGMATIS}
+Probab=25.53  E-value=60  Score=13.86  Aligned_cols=9  Identities=44%  Similarity=0.726  Sum_probs=5.3  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    7 HEIVNAAGI   15 (16)
+Q Consensus         7 heivnaagi   15 (16)
+                      .+|++++|+
+T Consensus        36 ~~Ia~~agv   44 (190)
+T 2V57_B           36 GDIAAAAGV   44 (190)
+T ss_dssp             HHHHHHHTC
+T ss_pred             HHHHHHhCC
+Confidence            456666665
+
+
+No 179
+>2WGB_A TETR FAMILY TRANSCRIPTIONAL REPRESSOR LFRR; TETR, LFRR, REPRESSOR, DNA-BINDING, TRANSCRIPTION; HET: SO4; 2.0A {MYCOBACTERIUM SMEGMATIS}
+Probab=25.53  E-value=60  Score=13.86  Aligned_cols=9  Identities=44%  Similarity=0.726  Sum_probs=5.3  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    7 HEIVNAAGI   15 (16)
+Q Consensus         7 heivnaagi   15 (16)
+                      .+|++++|+
+T Consensus        36 ~~Ia~~agv   44 (190)
+T 2WGB_A           36 GDIAAAAGV   44 (190)
+T ss_dssp             HHHHHHHTS
+T ss_pred             HHHHHHhCC
+Confidence            456666665
+
+
+No 180
+>3GL4_B KillerRed; FLUORESCENT PROTEIN, GENETICALLY ENCODED PHOTOSENSITIZER; HET: CRQ; 2.15A {Anthomedusae sp. DC-2005}
+Probab=25.51  E-value=60  Score=18.94  Aligned_cols=14  Identities=36%  Similarity=0.558  Sum_probs=11.5  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAG   14 (16)
+Q Consensus         1 rdhmvlheivnaag   14 (16)
+                      |||+.|.|.+.|..
+T Consensus       209 ~~~v~l~E~a~A~~  222 (235)
+T 3GL4_B          209 RDHVCQREVAYAHS  222 (235)
+T ss_dssp             SSEEEEEEEEEEEC
+T ss_pred             CCEEEEEEEEEEEe
+Confidence            58999999988753
+
+
+No 181
+>2HYJ_A Putative tetR-family transcriptional regulator; tetR, HTH DNA binding motif; 2.19A {Streptomyces coelicolor} SCOP: a.4.1.9, a.121.1.1
+Probab=25.48  E-value=61  Score=13.91  Aligned_cols=10  Identities=0%  Similarity=0.205  Sum_probs=6.0  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        35 ~~~Ia~~agv   44 (200)
+T 2HYJ_A           35 IGRLAEELEM   44 (200)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 182
+>3HTA_A EbrA repressor; TetR family, DNA binding protein; HET: IMD; 2.3A {Streptomyces lividans}
+Probab=25.32  E-value=61  Score=14.67  Aligned_cols=11  Identities=9%  Similarity=0.187  Sum_probs=6.3  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        50 ti~~Ia~~agv   60 (217)
+T 3HTA_A           50 SHRTVAAEADV   60 (217)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 183
+>3HTH_C EbrA repressor; TetR Family, Multidrug resistance, Multidrug; HET: PRL; 2.7A {Streptomyces lividans}
+Probab=25.32  E-value=61  Score=14.67  Aligned_cols=11  Identities=9%  Similarity=0.187  Sum_probs=6.3  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        50 ti~~Ia~~agv   60 (217)
+T 3HTH_C           50 SHRTVAAEADV   60 (217)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 184
+>3VVX_A Putative regulatory protein; TetR transcriptional regulator family, HTH-Motif; HET: SO4; 2.05A {Salmonella typhimurium}
+Probab=25.20  E-value=62  Score=13.59  Aligned_cols=10  Identities=30%  Similarity=0.408  Sum_probs=6.5  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 ~~~ia~~agv   40 (194)
+T 3VVX_A           31 TAVIARNAGV   40 (194)
+T ss_dssp             HHHHHHHTTS
+T ss_pred             HHHHHHHHCC
+Confidence            4567777665
+
+
+No 185
+>6KO8_A Putative regulatory protein; multisite binding pocket, HTH-MOTIF, DNA; HET: CHD; 1.55A {Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S}
+Probab=25.20  E-value=62  Score=13.59  Aligned_cols=10  Identities=30%  Similarity=0.408  Sum_probs=6.5  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 ~~~ia~~agv   40 (194)
+T 6KO8_A           31 TAVIARNAGV   40 (194)
+T ss_dssp             HHHHHHHSSS
+T ss_pred             HHHHHHHHCC
+Confidence            4567777665
+
+
+No 186
+>4ZA6_B QsdR; Quorum-sensing, NAHL degradation, qsdA transcriptional; HET: MPD; 1.97A {Rhodococcus erythropolis}
+Probab=24.96  E-value=63  Score=14.12  Aligned_cols=11  Identities=9%  Similarity=0.262  Sum_probs=6.6  Template_Neff=11.500
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -.++|++++|+
+T Consensus        25 t~~~Ia~~agv   35 (192)
+T 4ZA6_B           25 DMSLLAERLGV   35 (192)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 187
+>3KNW_A Putative transcriptional regulator (TetR/AcrR family); TetR-like protein, MCSG, PSI, Structural; 2.45A {Acinetobacter sp.}
+Probab=24.74  E-value=64  Score=14.06  Aligned_cols=12  Identities=33%  Similarity=0.656  Sum_probs=7.3  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -+.+|++++|++
+T Consensus        36 s~~~Ia~~agvs   47 (212)
+T 3KNW_A           36 GLQEILKTSGVP   47 (212)
+T ss_dssp             CHHHHHHHHTCC
+T ss_pred             CHHHHHHHHCCC
+Confidence            345677777653
+
+
+No 188
+>3KNW_B Putative transcriptional regulator (TetR/AcrR family); TetR-like protein, MCSG, PSI, Structural; HET: MSE; 2.45A {Acinetobacter sp.}
+Probab=24.74  E-value=64  Score=14.06  Aligned_cols=12  Identities=33%  Similarity=0.656  Sum_probs=7.3  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGIT   16 (16)
+Q Consensus         5 vlheivnaagit   16 (16)
+                      -+.+|++++|++
+T Consensus        36 s~~~Ia~~agvs   47 (212)
+T 3KNW_B           36 GLQEILKTSGVP   47 (212)
+T ss_dssp             CHHHHHHTTCCC
+T ss_pred             CHHHHHHHHCCC
+Confidence            345677777653
+
+
+No 189
+>6O6N_A TetR family transcriptional regulator; TetR-like transcription factor, fatty acid; HET: 5F9; 1.7A {Mycobacterium tuberculosis}
+Probab=24.66  E-value=64  Score=13.63  Aligned_cols=11  Identities=36%  Similarity=0.646  Sum_probs=6.9  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        31 t~~~Ia~~agv   41 (195)
+T 6O6N_A           31 GMDEIADRAGV   41 (195)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            35566777665
+
+
+No 190
+>6O6O_A TetR family transcriptional regulator; TetR-like transcription factor, fatty acid; HET: MYR; 1.63A {Mycobacterium tuberculosis}
+Probab=24.66  E-value=64  Score=13.63  Aligned_cols=11  Identities=36%  Similarity=0.646  Sum_probs=6.9  Template_Neff=12.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -..+|++++|+
+T Consensus        31 t~~~Ia~~agv   41 (195)
+T 6O6O_A           31 GMDEIADRAGV   41 (195)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHHCC
+Confidence            35566777665
+
+
+No 191
+>2J0T_C INTERSTITIAL COLLAGENASE (E.C.3.4.24.7), METALLOPROTEINASE INHIBITOR; EXTRACELLULAR MATRIX, ERYTHROCYTE MATURATION, AUTOCATALYTIC; 2.54A {HOMO SAPIENS} SCOP: d.92.1.11
+Probab=24.41  E-value=65  Score=14.27  Aligned_cols=13  Identities=23%  Similarity=0.532  Sum_probs=7.7  Template_Neff=10.800
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+--+.|+
+T Consensus       115 ~~~~hE~gH~lGl  127 (170)
+T 2J0T_C          115 RVAAHELGHSLGL  127 (170)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHhcC
+Confidence            3456676666554
+
+
+No 192
+>3BA0_A Macrophage metalloelastase (E.C.3.4.24.65); Full-length MMP-12, hemopexin domain, catalytic; 3.0A {Homo sapiens}
+Probab=24.13  E-value=67  Score=16.47  Aligned_cols=13  Identities=31%  Similarity=0.519  Sum_probs=9.1  Template_Neff=10.300
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +.+++|+--+.|+
+T Consensus       109 ~v~~HEiGHaLGL  121 (365)
+T 3BA0_A          109 LTAVHEIGHSLGL  121 (365)
+T ss_dssp             HHHHHHHHHHHTC
+T ss_pred             HHHHHHhHHHhcC
+Confidence            4567888777765
+
+
+No 193
+>2XDN_A HTH-TYPE TRANSCRIPTIONAL REGULATOR TTGR; TRANSCRIPTION, TRANSCRIPTION REGULATION, TETR FAMILY; 2.2A {PSEUDOMONAS PUTIDA}
+Probab=24.10  E-value=67  Score=13.90  Aligned_cols=10  Identities=40%  Similarity=0.727  Sum_probs=5.9  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        34 ~~~Ia~~agv   43 (210)
+T 2XDN_A           34 LADIAELAGV   43 (210)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 194
+>3QKX_A Uncharacterized HTH-type transcriptional regulator HI_0893; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: EDO, SO4; 2.35A {Haemophilus influenzae}
+Probab=24.02  E-value=67  Score=13.69  Aligned_cols=11  Identities=9%  Similarity=0.326  Sum_probs=6.7  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        30 t~~~ia~~agi   40 (188)
+T 3QKX_A           30 SMLKLAKEANV   40 (188)
+T ss_dssp             CHHHHHHHHTC
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 195
+>3CJD_B Transcriptional regulator, TetR family; YP_510936.1, Putative TetR Transcriptional Regulator; HET: MSE, STE; 1.79A {Jannaschia sp.}
+Probab=23.87  E-value=68  Score=13.80  Aligned_cols=10  Identities=20%  Similarity=0.249  Sum_probs=6.2  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        35 i~~Ia~~agv   44 (198)
+T 3CJD_B           35 ARELARQADC   44 (198)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHcCC
+Confidence            4566666665
+
+
+No 196
+>3CWR_A Transcriptional regulator, TetR family; YP_425770.1, transcriptional regulator of TetR; HET: SO4; 1.5A {Rhodospirillum rubrum ATCC 11170}
+Probab=23.86  E-value=68  Score=13.92  Aligned_cols=10  Identities=30%  Similarity=0.650  Sum_probs=5.9  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        40 ~~~Ia~~agv   49 (208)
+T 3CWR_A           40 MEGVASEAGI   49 (208)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666665
+
+
+No 197
+>3O60_B Lin0861 protein; PSI, MCSG, Structural Genomics, Midwest; HET: SO4, MSE; 2.8A {Listeria innocua}
+Probab=23.82  E-value=68  Score=14.13  Aligned_cols=11  Identities=9%  Similarity=0.398  Sum_probs=6.3  Template_Neff=11.200
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -.++|++++|+
+T Consensus        42 tv~~Ia~~agv   52 (185)
+T 3O60_B           42 SIKDLCEQARV   52 (185)
+T ss_dssp             CHHHHHHHTTC
+T ss_pred             cHHHHHHHhCC
+Confidence            34566666665
+
+
+No 198
+>4L6T_A ECXA (E.C.3.4.24), ECXB; CHOLERA-LIKE TOXIN, MATRIX METALLOPROTEINASE, BACTERIAL; HET: NGA, SIA, BGC, GAL; 1.859A {Escherichia coli}
+Probab=23.62  E-value=69  Score=16.40  Aligned_cols=13  Identities=31%  Similarity=0.440  Sum_probs=9.3  Template_Neff=9.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..++||+--|.|+
+T Consensus       156 ~vi~HElGHaLGL  168 (266)
+T 4L6T_A          156 ITIKHEIGHILGL  168 (266)
+T ss_dssp             HHHHHHHHHHTTB
+T ss_pred             HHHHHHHcHHhcc
+Confidence            4577888777765
+
+
+No 199
+>5HSZ_B Nucleoid occlusion factor SlmA, C-terminal; SlmA, nucleoid occlusion, FtsZ, Z-ring; HET: SO4; 2.3A {Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)}
+Probab=23.60  E-value=69  Score=13.61  Aligned_cols=10  Identities=10%  Similarity=0.421  Sum_probs=5.4  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (196)
+T 5HSZ_B           32 TAKLAASVGV   41 (196)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 200
+>3EUP_A Transcriptional regulator, TetR family; Transcriptional regulator, TetR family, Structural; HET: SO4; 1.99A {Cytophaga hutchinsonii}
+Probab=23.55  E-value=70  Score=13.70  Aligned_cols=10  Identities=20%  Similarity=0.544  Sum_probs=5.6  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        34 ~~~Ia~~agv   43 (204)
+T 3EUP_A           34 LTDLTEATNL   43 (204)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666655
+
+
+No 201
+>2ZCN_D Biofilm operon icaABCD HTH-type negative; helix-turn-helix, biofilm, TetR family, repressor; 1.9A {Staphylococcus epidermidis}
+Probab=23.52  E-value=70  Score=13.98  Aligned_cols=10  Identities=30%  Similarity=0.551  Sum_probs=5.6  Template_Neff=11.500
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        30 ~~~Ia~~agv   39 (192)
+T 2ZCN_D           30 LDDISKSVNI   39 (192)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            3456666665
+
+
+No 202
+>6G87_C TetR/AcrR family transcriptional regulator; Flavonoids, repressor, TetR-family, TRANSCRIPTION; HET: NHE, MSE; 2.92A {Bradyrhizobium diazoefficiens}
+Probab=23.13  E-value=72  Score=13.92  Aligned_cols=10  Identities=40%  Similarity=0.753  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        44 ~~~Ia~~agi   53 (214)
+T 6G87_C           44 MDAIAKAAGV   53 (214)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 203
+>6G8H_D Transcriptional regulator; Flavonoids, repressor, TetR-family, TRANSCRIPTION; HET: NAR, NHE, MSE; 2.4A {Bradyrhizobium diazoefficiens}
+Probab=23.13  E-value=72  Score=13.92  Aligned_cols=10  Identities=40%  Similarity=0.753  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        44 ~~~Ia~~agi   53 (214)
+T 6G8H_D           44 MDAIAKAAGV   53 (214)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 204
+>2OER_A Probable transcriptional regulator; helix-turn-helix, alpha-beta, Structural Genomics, PSI-2; HET: MSE; 2.0A {Pseudomonas aeruginosa}
+Probab=22.98  E-value=73  Score=13.98  Aligned_cols=10  Identities=20%  Similarity=0.464  Sum_probs=5.7  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        47 ~~~Ia~~agv   56 (214)
+T 2OER_A           47 TARVAERAGV   56 (214)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 205
+>2OER_B Probable transcriptional regulator; helix-turn-helix, alpha-beta, Structural Genomics, PSI-2; 2.0A {Pseudomonas aeruginosa}
+Probab=22.98  E-value=73  Score=13.98  Aligned_cols=10  Identities=20%  Similarity=0.464  Sum_probs=5.7  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        47 ~~~Ia~~agv   56 (214)
+T 2OER_B           47 TARVAERAGV   56 (214)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 206
+>2LU2_A H4, putative; Micronemal Protein 5, invasion, pathogenesis; NMR {Toxoplasma gondii}
+Probab=22.84  E-value=73  Score=18.46  Aligned_cols=11  Identities=45%  Similarity=0.987  Sum_probs=6.6  Template_Neff=1.500
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      .++||+.|-|+
+T Consensus       118 Ll~dIlAAGGv  128 (138)
+T 2LU2_A          118 LLHDILAAGGV  128 (138)
+T ss_dssp             HHHHHHHTTCC
+T ss_pred             HHHHHHHhcCc
+Confidence            35677766554
+
+
+No 207
+>3USN_A STROMELYSIN-1, 2-[3-(5-MERCAPTO-[1,3,4]THIADIAZOL-2-YL)-UREIDO]-N-METHYL-3-PHENYL-PROPIONAMIDE; HYDROLASE, METALLOPROTEASE; HET: ATT; NMR {Homo sapiens} SCOP: d.92.1.11
+Probab=22.79  E-value=74  Score=13.94  Aligned_cols=11  Identities=36%  Similarity=0.598  Sum_probs=6.3  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      +++|+..+.|+
+T Consensus       117 ~~HE~gH~lGl  127 (168)
+T 3USN_A          117 AAHEIGHSLGL  127 (168)
+T ss_dssp             HHHHHHHHHTB
+T ss_pred             HHHHHHHHhcC
+Confidence            45666665554
+
+
+No 208
+>2ZCM_A Biofilm operon icaABCD HTH-type negative; helix-turn-helix, biofilm, TetR family, repressor; HET: MSE; 1.33A {Staphylococcus epidermidis}
+Probab=22.69  E-value=74  Score=13.83  Aligned_cols=11  Identities=27%  Similarity=0.501  Sum_probs=6.5  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -.++|++++|+
+T Consensus        29 t~~~Ia~~agv   39 (192)
+T 2ZCM_A           29 TLDDISKSVNI   39 (192)
+T ss_dssp             CHHHHHHHTTC
+T ss_pred             CHHHHHHHcCC
+Confidence            34566666665
+
+
+No 209
+>4PA0_A Myosin-7,Green fluorescent protein; Cardiac, Myosin, Motor, omecamtiv mercarbil; HET: CRO, GOL, 2OW; 2.25A {Homo sapiens}
+Probab=22.67  E-value=74  Score=20.85  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=10.7  Template_Neff=7.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ++|+.+.|.+.|+|++
+T Consensus      1000 ~~~~~~~e~~~a~~~~ 1015 (1024)
+T 4PA0_A         1000 RDHMVLLEFVTAAGIT 1015 (1024)
+T ss_dssp             SCEEEEEEEEEE----
+T ss_pred             ccEEEEEEEEehhcCC
+Confidence            4789999999999875
+
+
+No 210
+>4PA0_B Myosin-7,Green fluorescent protein; Cardiac, Myosin, Motor, omecamtiv mercarbil; HET: GOL, 2OW, CRO; 2.25A {Homo sapiens}
+Probab=22.64  E-value=74  Score=20.84  Aligned_cols=16  Identities=81%  Similarity=1.074  Sum_probs=13.2  Template_Neff=7.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheivnaagit   16 (16)
+                      ++|+.+.|.+.|+|++
+T Consensus      1000 ~~~~~~~e~~~a~~~~ 1015 (1024)
+T 4PA0_B         1000 RDHMVLLEFVTAAGIT 1015 (1024)
+T ss_dssp             CSEEEEEEEEEEECC-
+T ss_pred             cceEEEEEEehHhhcc
+Confidence            4789999999999875
+
+
+No 211
+>3LF4_B Fluorescent Timer Precursor Blue102; Fluorescent Timers, Blue-to-red conversion, Chromophore; 1.808A {Discosoma sp.}
+Probab=22.58  E-value=75  Score=17.61  Aligned_cols=13  Identities=8%  Similarity=-0.151  Sum_probs=10.9  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAA   13 (16)
+Q Consensus         1 rdhmvlheivnaa   13 (16)
+                      ++|+.|.|.+.|.
+T Consensus       141 ~~~v~l~E~a~A~  153 (164)
+T 3LF4_B          141 YTIVEQYERAEGR  153 (164)
+T ss_dssp             SSEEEEEEEEEEE
+T ss_pred             CcEEEEEEEEEEe
+Confidence            4799999998875
+
+
+No 212
+>3BRU_A Regulatory protein, TetR family; structural genomics, APC88928, TetR, PSI-2; 2.3A {Rhodobacter sphaeroides 2.4.1}
+Probab=22.49  E-value=75  Score=14.01  Aligned_cols=10  Identities=40%  Similarity=0.644  Sum_probs=5.2  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++.+|+
+T Consensus        53 ~~~Ia~~agv   62 (222)
+T 3BRU_A           53 VDEILKAARV   62 (222)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHcCC
+Confidence            3455555554
+
+
+No 213
+>6VAM_D Capsid protein,CALHM1 chimera; taste, assembly, calcium, MEMBRANE PROTEIN; 3.63A {Enterovirus A71}
+Probab=22.45  E-value=76  Score=21.20  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=0.0  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      +||++|.|.+.|.++
+T Consensus       258 ~~~v~l~E~a~A~~~  272 (638)
+T 6VAM_D          258 RDHMVLLEFVTAAGI  272 (638)
+T ss_dssp             ---------------
+T ss_pred             CCeEEEEEEEehhCc
+Confidence            589999999999875
+
+
+No 214
+>1K28_D TAIL-ASSOCIATED LYSOZYME, BASEPLATE STRUCTURAL PROTEIN; Triple-stranded beta-helix, OB fold, pseudohexamer; 2.9A {Enterobacteria phage T4} SCOP: b.106.1.1
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 1K28_D          342 VIHELSNNNSV  352 (391)
+T ss_dssp             EEEEEESSCEE
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 215
+>1WTH_D Tail-associated lysozyme (E.C.3.2.1.17)/Baseplate structural protein; Triple-stranded beta-helix, OB fold, pseudohexamer; 2.8A {Enterobacteria phage T4} SCOP: b.106.1.1
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 1WTH_D          342 VIHELSNNNSV  352 (391)
+T ss_dssp             EEEEECSSCEE
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 216
+>2Z6B_D Tail-associated lysozyme (E.C.3.2.1.17), Baseplate structural; Protein containing metal complexes, Antimicrobial; 3.11A {Enterobacteria phage T4}
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 2Z6B_D          342 VIHELSNNNSV  352 (391)
+T ss_dssp             EEEEECSSCCE
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 217
+>5IV5_YD Baseplate wedge protein gp6, Baseplate; T4, baseplate-tail tube complex, pre-attachment; 4.11A {Enterobacteria phage T4}
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 5IV5_YD         342 VIHELSNNNSV  352 (391)
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 218
+>5IV5_YE Baseplate wedge protein gp6, Baseplate; T4, baseplate-tail tube complex, pre-attachment; 4.11A {Enterobacteria phage T4}
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 5IV5_YE         342 VIHELSNNNSV  352 (391)
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 219
+>5IV5_YF Baseplate wedge protein gp6, Baseplate; T4, baseplate-tail tube complex, pre-attachment; 4.11A {Enterobacteria phage T4}
+Probab=22.34  E-value=76  Score=20.85  Aligned_cols=11  Identities=36%  Similarity=0.736  Sum_probs=7.1  Template_Neff=2.400
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      |.+||++...|
+T Consensus       342 ViHEiSnn~Si  352 (391)
+T 5IV5_YF         342 VIHELSNNNSV  352 (391)
+T ss_pred             eeeecccCCcc
+Confidence            66777765544
+
+
+No 220
+>2DDY_A Matrilysin (E.C.3.4.24.23); matrix metalloproteinase, matrilysin,complex, MMP-7, solution; HET: CA, ZN, MDW; NMR {Homo sapiens} SCOP: d.92.1.11
+Probab=22.33  E-value=76  Score=13.96  Aligned_cols=12  Identities=25%  Similarity=0.484  Sum_probs=7.3  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+--+.|+
+T Consensus       117 ~~~HE~GHalGl  128 (173)
+T 2DDY_A          117 AATHELGHSLGM  128 (173)
+T ss_pred             HHHHHHHHHcCC
+Confidence            456676666554
+
+
+No 221
+>3BNI_A Putative TetR-family transcriptional regulator; structural genomics, APC7281, TetR transcriptional; HET: PG4; 2.3A {Streptomyces coelicolor A3(2)}
+Probab=22.31  E-value=76  Score=14.64  Aligned_cols=10  Identities=10%  Similarity=0.152  Sum_probs=5.9  Template_Neff=11.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        66 i~~Ia~~aGv   75 (229)
+T 3BNI_A           66 TRAVALRADV   75 (229)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 222
+>3PAS_C TetR family transcription regulator; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: ACT, MSE, PGO; 1.9A {Marinobacter aquaeolei}
+Probab=22.22  E-value=77  Score=13.32  Aligned_cols=10  Identities=40%  Similarity=0.690  Sum_probs=6.0  Template_Neff=12.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        31 ~~~Ia~~agv   40 (195)
+T 3PAS_C           31 VGKIAKAAGL   40 (195)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 223
+>3FRQ_A Repressor protein MphR(A); macrolide antibiotic. repressor, biosensor, erythromycin; HET: ERY, GOL; 1.76A {Escherichia coli}
+Probab=22.13  E-value=77  Score=13.52  Aligned_cols=10  Identities=20%  Similarity=0.551  Sum_probs=5.5  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 ~~~Ia~~agv   40 (195)
+T 3FRQ_A           31 LSGVAKEVGL   40 (195)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 224
+>3FRQ_B Repressor protein MphR(A); macrolide antibiotic. repressor, biosensor, erythromycin; HET: ERY, GOL; 1.76A {Escherichia coli}
+Probab=22.13  E-value=77  Score=13.52  Aligned_cols=10  Identities=20%  Similarity=0.551  Sum_probs=5.5  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        31 ~~~Ia~~agv   40 (195)
+T 3FRQ_B           31 LSGVAKEVGL   40 (195)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 225
+>3BHQ_B Transcriptional regulator; PUTATIVE TETR-FAMILY TRANSCRIPTIONAL REGULATOR, BACTERIAL; HET: EDO, MSE; 1.54A {Mesorhizobium loti}
+Probab=22.13  E-value=77  Score=13.78  Aligned_cols=11  Identities=36%  Similarity=0.552  Sum_probs=6.5  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        34 t~~~Ia~~agv   44 (211)
+T 3BHQ_B           34 SMEEIATKAGA   44 (211)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHHCC
+Confidence            34566666665
+
+
+No 226
+>3RD3_A Probable transcriptional regulator; transcriptional regulator, TRANSCRIPTION; 2.4A {Pseudomonas aeruginosa}
+Probab=22.04  E-value=78  Score=13.47  Aligned_cols=10  Identities=50%  Similarity=0.949  Sum_probs=6.0  Template_Neff=12.100
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 ~~~Ia~~agv   42 (197)
+T 3RD3_A           33 LNEILQSAGV   42 (197)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 227
+>2DG7_A putative transcriptional regulator; helix-turn-helix motif, TetR family, GENE; 2.3A {Streptomyces coelicolor}
+Probab=21.85  E-value=79  Score=13.64  Aligned_cols=10  Identities=30%  Similarity=0.680  Sum_probs=5.5  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        30 ~~~ia~~agv   39 (195)
+T 2DG7_A           30 VTDIAERAGL   39 (195)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHHCC
+Confidence            4455555554
+
+
+No 228
+>6OFM_B Fluorescent protein Dronpa; GFP, FLUORESCENT PROTEIN; HET: MFV; 1.48A {Aequorea victoria}
+Probab=21.65  E-value=80  Score=18.62  Aligned_cols=15  Identities=80%  Similarity=1.090  Sum_probs=11.6  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEIVNAAGI   15 (16)
+Q Consensus         1 rdhmvlheivnaagi   15 (16)
+                      ++|++|.|.+.|.++
+T Consensus       173 ~~~V~L~E~avA~~l  187 (251)
+T 6OFM_B          173 RDHMVLLEFVTAAGI  187 (251)
+T ss_dssp             SCEEEEEEEEEEES-
+T ss_pred             ccEEEEEEEEeehHH
+Confidence            478999999888765
+
+
+No 229
+>3HIM_B Probable transcriptional regulator; TetR, Bacterial, Rhodococcus, RHA1, PSI-2; 2.2A {Rhodococcus jostii}
+Probab=21.51  E-value=81  Score=13.72  Aligned_cols=10  Identities=20%  Similarity=0.308  Sum_probs=5.5  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        39 i~~Ia~~agv   48 (211)
+T 3HIM_B           39 TREIAASLDM   48 (211)
+T ss_dssp             HHHHHHHTTS
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 230
+>3GZI_A Transcriptional regulator, TetR family; TETR FAMILY TRANSCRIPTIONAL REGULATOR, STRUCTURAL; HET: EDO; 2.05A {Shewanella loihica PV-4}
+Probab=21.43  E-value=82  Score=13.86  Aligned_cols=10  Identities=40%  Similarity=0.640  Sum_probs=5.8  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        40 ~~~Ia~~agv   49 (218)
+T 3GZI_A           40 IREIASLAGT   49 (218)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 231
+>4MO7_A Transcriptional regulator I2; TetR, Superantigen, Transcription; 1.701A {Pseudomonas fluorescens A506}
+Probab=21.29  E-value=83  Score=14.13  Aligned_cols=10  Identities=30%  Similarity=0.733  Sum_probs=6.1  Template_Neff=11.300
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        52 ~~~Ia~~agv   61 (212)
+T 4MO7_A           52 VRDLASAVGI   61 (212)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 232
+>3B81_A Transcriptional regulator, AcrR family; NP_350189.1, predicted DNA-binding transcriptional regulator; HET: EDO; 2.1A {Clostridium acetobutylicum ATCC 824}
+Probab=21.27  E-value=83  Score=13.60  Aligned_cols=10  Identities=50%  Similarity=0.640  Sum_probs=5.8  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++.+|+
+T Consensus        34 i~~Ia~~agv   43 (203)
+T 3B81_A           34 LAFIINKLGI   43 (203)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4556666665
+
+
+No 233
+>6EL2_A Transcriptional regulator TetR family; Transcription factor, DNA binding, Archea; HET: DCC; 1.9A {Sulfolobus acidocaldarius}
+Probab=21.22  E-value=83  Score=13.58  Aligned_cols=10  Identities=30%  Similarity=0.777  Sum_probs=6.0  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        36 ~~~ia~~agv   45 (196)
+T 6EL2_A           36 INDITSKAGV   45 (196)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 234
+>6EN8_A Transcriptional regulator TetR family/DNA Complex; transcription factor, complex, dsDNA, TRANSCRIPTION; HET: MSE, UNL; 3.29A {Sulfolobus acidocaldarius}
+Probab=21.22  E-value=83  Score=13.58  Aligned_cols=10  Identities=30%  Similarity=0.777  Sum_probs=6.0  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        36 ~~~ia~~agv   45 (196)
+T 6EN8_A           36 INDITSKAGV   45 (196)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 235
+>2ZCN_A Biofilm operon icaABCD HTH-type negative; helix-turn-helix, biofilm, TetR family, repressor; 1.9A {Staphylococcus epidermidis}
+Probab=21.15  E-value=83  Score=13.74  Aligned_cols=10  Identities=30%  Similarity=0.551  Sum_probs=5.3  Template_Neff=11.500
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        30 ~~~Ia~~agv   39 (192)
+T 2ZCN_A           30 LDDISKSVNI   39 (192)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            3455555554
+
+
+No 236
+>3LSJ_A DesT; Transcriptional Repressor, DesT, TetR family; HET: COA, PLM; 2.3A {Pseudomonas aeruginosa}
+Probab=21.10  E-value=84  Score=13.85  Aligned_cols=11  Identities=55%  Similarity=0.788  Sum_probs=6.4  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        34 s~~~Ia~~agv   44 (220)
+T 3LSJ_A           34 SLREVTRAAGI   44 (220)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 237
+>3LSJ_B DesT; Transcriptional Repressor, DesT, TetR family; HET: COA, PLM; 2.3A {Pseudomonas aeruginosa}
+Probab=21.10  E-value=84  Score=13.85  Aligned_cols=11  Identities=55%  Similarity=0.788  Sum_probs=6.4  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        34 s~~~Ia~~agv   44 (220)
+T 3LSJ_B           34 SLREVTRAAGI   44 (220)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 238
+>3LSP_A DesT; Transcriptional Repressor, DesT-DNA complex, TetR; HET: OLA, SO4; 2.66A {Pseudomonas aeruginosa}
+Probab=21.10  E-value=84  Score=13.85  Aligned_cols=11  Identities=55%  Similarity=0.788  Sum_probs=6.4  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    5 VLHEIVNAAGI   15 (16)
+Q Consensus         5 vlheivnaagi   15 (16)
+                      -+.+|++++|+
+T Consensus        34 s~~~Ia~~agv   44 (220)
+T 3LSP_A           34 SLREVTRAAGI   44 (220)
+T ss_dssp             CHHHHHHHHTS
+T ss_pred             CHHHHHHHhCC
+Confidence            34566666665
+
+
+No 239
+>5ZJK_J Myroilysin; hydrolase; HET: ZN, PO4; 2.6A {Myroides sp. CSLB8}
+Probab=21.10  E-value=84  Score=14.75  Aligned_cols=12  Identities=42%  Similarity=0.678  Sum_probs=7.7  Template_Neff=10.400
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .+++|+.-+.|+
+T Consensus       100 ~~~HEigHaLGl  111 (213)
+T 5ZJK_J          100 TVIHEFGHALGM  111 (213)
+T ss_pred             HHHHHHHHHHhc
+Confidence            456777766664
+
+
+No 240
+>3DEW_A Transcriptional regulator, TetR family; TetR, transcriptional regulator, Geobacter sulfurreducens; HET: EDO; 1.75A {Geobacter sulfurreducens}
+Probab=21.01  E-value=84  Score=13.61  Aligned_cols=10  Identities=40%  Similarity=0.707  Sum_probs=5.7  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++.+|+
+T Consensus        31 i~~Ia~~agv   40 (206)
+T 3DEW_A           31 IRELAQAAGA   40 (206)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4556666655
+
+
+No 241
+>3BJB_A Probable transcriptional regulator, TetR family; APC7331, TetR, Rhodococcus sp. RHA1; HET: SO4, MSE; 2.5A {Rhodococcus sp.}
+Probab=20.99  E-value=85  Score=13.69  Aligned_cols=10  Identities=40%  Similarity=0.929  Sum_probs=5.9  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        45 ~~~Ia~~agv   54 (207)
+T 3BJB_A           45 MHEVAKRAGV   54 (207)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 242
+>3BJB_B Probable transcriptional regulator, TetR family; APC7331, TetR, Rhodococcus sp. RHA1; HET: SO4; 2.5A {Rhodococcus sp.}
+Probab=20.99  E-value=85  Score=13.69  Aligned_cols=10  Identities=40%  Similarity=0.929  Sum_probs=5.9  Template_Neff=11.800
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        45 ~~~Ia~~agv   54 (207)
+T 3BJB_B           45 MHEVAKRAGV   54 (207)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 243
+>5NIM_A HTH-type transcriptional regulator EthR; TetR repressor, DNA binding protein; HET: 8YE; 1.5A {Mycobacterium tuberculosis}
+Probab=20.89  E-value=85  Score=13.71  Aligned_cols=10  Identities=30%  Similarity=0.737  Sum_probs=5.4  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        47 ~~~Ia~~agv   56 (216)
+T 5NIM_A           47 VDDLAKGAGI   56 (216)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 244
+>5NIO_A HTH-type transcriptional regulator EthR; TetR repressor, DNA binding protein; HET: 8YH; 1.4A {Mycobacterium tuberculosis}
+Probab=20.89  E-value=85  Score=13.71  Aligned_cols=10  Identities=30%  Similarity=0.737  Sum_probs=5.4  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        47 ~~~Ia~~agv   56 (216)
+T 5NIO_A           47 VDDLAKGAGI   56 (216)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHhCC
+Confidence            4455555554
+
+
+No 245
+>5XNM_X Chlorophyll a-b binding protein 8; Photosystem II, PSII-LHCII, C2S2M2, Supercomplex; HET: CHL, LMG, HEM, SQD, BCR, CLA, PL9, NEX, LUT, OEX, PHO, XAT, DGD, LHG;{Pisum sativum}
+Probab=20.86  E-value=85  Score=16.87  Aligned_cols=12  Identities=33%  Similarity=0.639  Sum_probs=7.5  Template_Neff=2.500
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      ||+-|+.+|+++
+T Consensus        36 m~~P~vAeaa~m   47 (86)
+T 5XNM_X           36 MVIPDVAEAATV   47 (86)
+T ss_pred             HhCHHHHHHccC
+Confidence            566677766554
+
+
+No 246
+>3T6N_A Transcriptional regulator; helix-turn-helix DNA binding domain, TRANSCRIPTION; 2.314A {Mycobacterium tuberculosis}
+Probab=20.79  E-value=86  Score=13.96  Aligned_cols=10  Identities=10%  Similarity=0.265  Sum_probs=6.0  Template_Neff=11.400
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 i~~Ia~~agv   46 (208)
+T 3T6N_A           37 HRRVAAEANV   46 (208)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 247
+>3V6G_B PROBABLE TRANSCRIPTIONAL REGULATORY PROTEIN (PROBABLY; helix-turn-helix DNA binding domain, TRANSCRIPTION; 1.821A {Mycobacterium tuberculosis}
+Probab=20.79  E-value=86  Score=13.96  Aligned_cols=10  Identities=10%  Similarity=0.265  Sum_probs=6.0  Template_Neff=11.400
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 i~~Ia~~agv   46 (208)
+T 3V6G_B           37 HRRVAAEANV   46 (208)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 248
+>3VIB_C MtrR; HELIX-TURN-HELIX MOTIF, DNA BINDING, DNA; HET: PO4, CXS; 2.4A {Neisseria gonorrhoeae}
+Probab=20.68  E-value=87  Score=13.55  Aligned_cols=10  Identities=60%  Similarity=0.936  Sum_probs=5.7  Template_Neff=12.000
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        33 i~~Ia~~agv   42 (210)
+T 3VIB_C           33 LNEIAQAAGV   42 (210)
+T ss_dssp             HHHHHHHTTS
+T ss_pred             HHHHHHHhCC
+Confidence            4556666655
+
+
+No 249
+>1SU3_A Interstitial collagenase (E.C.3.4.24.7); Prodomain, Hemopexin domain, exocite, Structural; HET: EPE, SO4; 2.2A {Homo sapiens} SCOP: d.92.1.11, a.20.1.2, b.66.1.1
+Probab=20.68  E-value=87  Score=17.14  Aligned_cols=13  Identities=23%  Similarity=0.532  Sum_probs=9.1  Template_Neff=9.500
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      +++++||--+.|+
+T Consensus       195 ~v~~HEiGHaLGL  207 (450)
+T 1SU3_A          195 RVAAHELGHSLGL  207 (450)
+T ss_dssp             HHHHHHHHHHTTC
+T ss_pred             HHHHHhhhcccCC
+Confidence            3577888777765
+
+
+No 250
+>1G12_A PEPTIDYL-LYS METALLOENDOPEPTIDASE(E.C.3.4.24.20); zinc cordinate,METALLOPROTEASE, HYDROLASE; HET: MAN; 1.6A {Grifola frondosa} SCOP: d.92.1.12
+Probab=20.61  E-value=87  Score=14.71  Aligned_cols=9  Identities=22%  Similarity=0.357  Sum_probs=4.5  Template_Neff=9.500
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVN   11 (16)
+Q Consensus         3 hmvlheivn   11 (16)
+                      ...+||++-
+T Consensus       113 ~~llHE~~H  121 (167)
+T 1G12_A          113 GTLVHESSH  121 (167)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHhh
+Confidence            345555543
+
+
+No 251
+>1GE7_A PEPTIDYL-LYS METALLOENDOPEPTIDASE(E.C.3.4.24.20); zinc coordinate, METALLOPROTEASE, HYDROLASE; HET: MAN; 2.0A {Grifola frondosa} SCOP: d.92.1.12
+Probab=20.61  E-value=87  Score=14.71  Aligned_cols=9  Identities=22%  Similarity=0.357  Sum_probs=4.5  Template_Neff=9.500
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVN   11 (16)
+Q Consensus         3 hmvlheivn   11 (16)
+                      ...+||++-
+T Consensus       113 ~~llHE~~H  121 (167)
+T 1GE7_A          113 GTLVHESSH  121 (167)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHhh
+Confidence            345555543
+
+
+No 252
+>2CLT_A INTERSTITIAL COLLAGENASE (E.C.3.4.24.7); EXTRACELLULAR MATRIX, FIBROBLAST COLLAGENASE, ZINC; 2.67A {HOMO SAPIENS} SCOP: d.92.1.11, b.66.1.1
+Probab=20.51  E-value=88  Score=16.13  Aligned_cols=13  Identities=15%  Similarity=0.440  Sum_probs=8.3  Template_Neff=10.200
+
+Q ORIGINAL_SEQUE    3 HMVLHEIVNAAGI   15 (16)
+Q Consensus         3 hmvlheivnaagi   15 (16)
+                      ..+++|+.-+.|+
+T Consensus       115 ~~~~HE~gHaLGl  127 (367)
+T 2CLT_A          115 RVAAHALGHSLGL  127 (367)
+T ss_dssp             HHHHHHHHHHHTB
+T ss_pred             HHHHHhhhhhcCC
+Confidence            3566777766664
+
+
+No 253
+>3KZ9_B SmcR; Vibrio vulnificus, SmcR, Transcriptional regulator; HET: SO4, MSE; 2.1A {Vibrio vulnificus}
+Probab=20.42  E-value=88  Score=13.55  Aligned_cols=10  Identities=20%  Similarity=0.292  Sum_probs=6.0  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      ..+|++++|+
+T Consensus        40 ~~~ia~~agi   49 (206)
+T 3KZ9_B           40 HADIAEIAQV   49 (206)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 254
+>5D18_A TetR family transcriptional regulator; Mycobacterium tuberculosis, Transcriptional regulator, TRANSCRIPTION; HET: EPE, IPA; 2.04A {Mycobacterium tuberculosis}
+Probab=20.31  E-value=89  Score=13.79  Aligned_cols=10  Identities=30%  Similarity=0.727  Sum_probs=6.0  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 ~~~Ia~~agv   46 (216)
+T 5D18_A           37 ISDIRDACGL   46 (216)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 255
+>5D19_B TetR family transcriptional regulator; Mycobacterium tuberculosis, Transcriptional regulator, TRANSCRIPTION; 2.655A {Mycobacterium tuberculosis}
+Probab=20.31  E-value=89  Score=13.79  Aligned_cols=10  Identities=30%  Similarity=0.727  Sum_probs=6.0  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        37 ~~~Ia~~agv   46 (216)
+T 5D19_B           37 ISDIRDACGL   46 (216)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 256
+>2WUI_A TRANSCRIPTIONAL REGULATOR; GENE REGULATION, TRANSCRIPTION REGULATION, TETR; 2.9A {PSEUDOMONAS AERUGINOSA}
+Probab=20.25  E-value=90  Score=13.78  Aligned_cols=10  Identities=30%  Similarity=0.810  Sum_probs=6.1  Template_Neff=11.600
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +++|++++|+
+T Consensus        34 ~~~Ia~~agv   43 (210)
+T 2WUI_A           34 MADLADAAGV   43 (210)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHCC
+Confidence            4566666665
+
+
+No 257
+>4MXM_A Transcriptional regulator I2; Superantigen, DNA BINDING PROTEIN; 1.95A {Pseudomonas fluorescens}
+Probab=20.10  E-value=91  Score=13.62  Aligned_cols=10  Identities=30%  Similarity=0.733  Sum_probs=6.3  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        43 ~~~Ia~~agv   52 (203)
+T 4MXM_A           43 VRDLASAVGI   52 (203)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHhCC
+Confidence            4566666665
+
+
+No 258
+>4JKZ_A Transcriptional regulator, TetR family; transcriptional regulator, TRANSCRIPTION; 1.8A {Mycobacterium smegmatis}
+Probab=20.08  E-value=91  Score=13.51  Aligned_cols=10  Identities=20%  Similarity=0.594  Sum_probs=5.5  Template_Neff=11.700
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        41 ~~~Ia~~agv   50 (194)
+T 4JKZ_A           41 IEAVAAKAGV   50 (194)
+T ss_dssp             HHHHHHHHTC
+T ss_pred             HHHHHHHHCC
+Confidence            3455665554
+
+
+No 259
+>3ANP_A Transcriptional repressor, TetR family; All Alpha Protein, Transcriptional Repressor; HET: DAO, DCC; 1.95A {Thermus thermophilus}
+Probab=20.06  E-value=91  Score=13.48  Aligned_cols=10  Identities=40%  Similarity=0.451  Sum_probs=5.7  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (204)
+T 3ANP_A           32 ATEIAKAAHV   41 (204)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHcCC
+Confidence            4556666655
+
+
+No 260
+>3ANP_D Transcriptional repressor, TetR family; All Alpha Protein, Transcriptional Repressor; HET: DAO, MSE, DCC; 1.95A {Thermus thermophilus}
+Probab=20.06  E-value=91  Score=13.48  Aligned_cols=10  Identities=40%  Similarity=0.451  Sum_probs=5.7  Template_Neff=11.900
+
+Q ORIGINAL_SEQUE    6 LHEIVNAAGI   15 (16)
+Q Consensus         6 lheivnaagi   15 (16)
+                      +.+|++++|+
+T Consensus        32 ~~~Ia~~agv   41 (204)
+T 3ANP_D           32 ATEIAKAAHV   41 (204)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHcCC
+Confidence            4556666655
+
+
+No 261
+>4L63_A ECXA (E.C.3.4.24), ECXB; MATRIX METALLOPROTEASE, AB5 TOXIN, OB; HET: EPE; 1.8A {Escherichia coli}
+Probab=20.00  E-value=91  Score=15.97  Aligned_cols=12  Identities=33%  Similarity=0.537  Sum_probs=8.4  Template_Neff=9.200
+
+Q ORIGINAL_SEQUE    4 MVLHEIVNAAGI   15 (16)
+Q Consensus         4 mvlheivnaagi   15 (16)
+                      .++||+--|.|+
+T Consensus       157 ti~HEiGHaLGL  168 (266)
+T 4L63_A          157 TIKHEIGHILGL  168 (266)
+T ss_dssp             HHHHHHHHHTTB
+T ss_pred             HHHHHHcHHhcc
+Confidence            567888777665
+
+

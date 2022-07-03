@@ -1,0 +1,10 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_A0A8J1V017/37-50 DE [subseq from] Ofus.G2921 protein (Fragment) n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1V017_OWEFU
+#=GS UniRef90_A0A8J1V017/73-86 DE [subseq from] Ofus.G2921 protein (Fragment) n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1V017_OWEFU
+
+ORIGINAL_SEQUENCE_GFP11           RDHMVL-SEYVNAAGIT
+UniRef90_A0A8J1V017/37-50         --HMVISSKYINISGI-
+UniRef90_A0A8J1V017/73-86         --HMVISSKYINKSGI-
+#=GC RF                           xxxxxx.xxxxxxxxxx
+//

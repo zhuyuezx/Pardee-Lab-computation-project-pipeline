@@ -1,0 +1,912 @@
+Query         ORIGINAL_SEQUENCE_GFP11 
+Match_columns 16
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80799
+Date          Sat Jul  2 15:58:39 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp9hs93c4h/query.a3m -o /tmp/tmp9hs93c4h/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5JNQ_A Phospho-N-acetylmuramoy  97.8   8E-08 9.9E-13   53.2   0.0   16    1-16      5-20  (376)
+  2 6B7T_A Green fluorescent prote  96.7 2.9E-05 3.6E-10   44.9   0.0   16    1-16     23-38  (246)
+  3 6OFO_A Fluorescent protein Dro  91.5   0.069 8.6E-07   31.3   0.0   16    1-16     34-49  (254)
+  4 6DGV_A iGABASnFR; GABA binding  85.3    0.48   6E-06   27.5   0.0   16    1-16    345-360 (566)
+  5 4ORN_A mKalama1; proton transf  80.8       1 1.3E-05   26.1   0.0   16    1-16    216-231 (239)
+  6 3OSQ_A Maltose-binding peripla  69.6     3.4 4.2E-05   25.3   0.0   16    1-16    280-295 (661)
+  7 4W6H_A fluorescent protein D19  66.3     4.4 5.5E-05   23.4   0.0   16    1-16    213-228 (234)
+  8 5FGU_A Green fluorescent prote  64.0     5.3 6.5E-05   25.4   0.0   16    1-16    216-231 (565)
+  9 3AKO_B Venus; Venus, Fluoresce  62.3       6 7.4E-05   20.9   0.0   16    1-16     62-77  (93)
+ 10 3AKO_F Venus; Venus, Fluoresce  62.3       6 7.4E-05   20.9   0.0   16    1-16     62-77  (93)
+ 11 2HPW_A Green fluorescent prote  52.0      12 0.00014   22.1   0.0   16    1-16    215-230 (233)
+ 12 5WUA_B ATP-sensitive inward re  51.4      12 0.00015   23.9   0.0   16    1-16    618-633 (681)
+ 13 1UJL_A Potassium voltage-gated  49.6      14 0.00017   15.1   0.0   13    2-14     13-25  (42)
+ 14 6JGJ_A Green fluorescent prote  47.0      16  0.0002   21.2   0.0   16    1-16    212-227 (228)
+ 15 3O78_A Chimera protein of Pept  43.6      19 0.00024   20.1   0.0   16    1-16     93-108 (415)
+ 16 3DAD_A FH1/FH2 domain-containi  43.3      20 0.00025   19.7   0.0   14    2-15    149-162 (339)
+ 17 3DAD_B FH1/FH2 domain-containi  43.3      20 0.00025   19.7   0.0   14    2-15    149-162 (339)
+ 18 6MKS_b Chimera protein of NLR   40.5      23 0.00029   20.5   0.0   16    1-16    317-332 (340)
+ 19 6RMG_A Protein patched homolog  40.0      24  0.0003   23.4   0.0   16    1-16   1416-1431(1471)
+ 20 3AI4_A yeast enhanced green fl  39.0      25 0.00032   21.1   0.0   16    1-16    216-231 (283)
+ 21 5GM6_W Prp8, Brr2, Snu114, Rse  37.2      28 0.00035   20.4   0.0    8    4-11      1-8   (266)
+ 22 5ZWM_Y Pre-mRNA-splicing facto  37.1      29 0.00035   20.4   0.0    8    4-11      1-8   (266)
+ 23 3LVC_A Green fluorescent prote  36.7      29 0.00036   20.3   0.0   16    1-16    213-228 (236)
+ 24 6QLC_A ssDNA binding RNA Polym  34.7      33 0.00041   19.1   0.0   10    3-12     55-64  (104)
+ 25 3VHT_B Green fluorescent prote  34.6      33 0.00041   20.2   0.0   16    1-16    216-231 (271)
+ 26 3EVR_A Myosin light chain kina  33.6      36 0.00044   19.1   0.0   15    1-15     91-105 (411)
+ 27 6NF4_B Otopetrin1; Proton chan  32.1      39 0.00048   20.8   0.0    9    2-10      9-17  (587)
+ 28 2G2S_B Green fluorescent prote  31.2      41 0.00051   18.8   0.0   16    1-16    150-165 (173)
+ 29 5YR3_A Yellow fluorescent prot  30.7      43 0.00053   19.4   0.0   16    1-16    210-225 (225)
+ 30 5Z6Y_A Green fluorescent prote  29.5      46 0.00057   19.3   0.0   16    1-16    213-228 (229)
+ 31 5YR2_B Green fluorescent prote  29.4      46 0.00057   20.0   0.0   16    1-16     71-86  (247)
+ 32 5YR2_A Green fluorescent prote  29.4      46 0.00057   20.0   0.0   16    1-16     71-86  (247)
+ 33 4W6T_A fluorescent protein E11  28.9      48 0.00059   19.3   0.0   16    1-16    214-229 (229)
+ 34 6EFR_A iNicSnFR 1.0, a genetic  28.9      48 0.00059   20.1   0.0   15    1-15    146-160 (520)
+ 35 6R4P_A Adenylate cyclase 9, Gu  28.4      49 0.00061   22.5   0.0   16    1-16   1582-1597(1637)
+ 36 2YRK_A Zinc finger homeobox pr  28.4      50 0.00061   15.3   0.0    7    1-7      30-36  (55)
+ 37 2B2C_A spermidine synthase (E.  28.2      50 0.00062   16.7   0.0    9    3-11      6-14  (314)
+ 38 4XGY_A Green fluorescent prote  27.8      52 0.00064   20.3   0.0   16    1-16    233-248 (303)
+ 39 2KIG_A Inositol polyphosphate   27.7      52 0.00065   16.6   0.0   10    2-11    145-154 (161)
+ 40 4GR6_B AtRbcX2; chaperone, Rub  27.3      53 0.00066   17.3   0.0   10    3-12     43-52  (126)
+ 41 5NI3_B Green fluorescent prote  27.2      54 0.00066   19.1   0.0   16    1-16    211-226 (229)
+ 42 4IK8_A RCaMP, Green fluorescen  27.1      54 0.00067   19.0   0.0   15    1-15    127-141 (448)
+ 43 3OSR_A Maltose-binding peripla  27.0      54 0.00067   19.5   0.0   15    1-15    418-432 (653)
+ 44 1YFP_B YELLOW FLUORESCENT PROT  26.5      57  0.0007   18.9   0.0   15    1-15    211-225 (225)
+ 45 6MB2_a Interferon-inducible pr  26.1      58 0.00072   18.9   0.0   15    1-15    212-226 (226)
+ 46 4W76_B fluorescent protein D21  26.1      58 0.00072   18.9   0.0   16    1-16    214-229 (229)
+ 47 6JGI_A Green fluorescent prote  25.8      59 0.00073   18.9   0.0   16    1-16    212-227 (228)
+ 48 4GR2_A AtRbcX1; Chaperone, Rub  24.7      64 0.00079   16.8   0.0   10    3-12     43-52  (128)
+ 49 4GR2_B AtRbcX1; Chaperone, Rub  24.7      64 0.00079   16.8   0.0   10    3-12     43-52  (128)
+ 50 5OXC_A Green fluorescent prote  23.8      68 0.00085   18.8   0.0   16    1-16    214-229 (237)
+ 51 6R4O_A Adenylate cyclase 9, Gu  23.6      69 0.00086   21.5   0.0   16    1-16   1478-1493(1533)
+ 52 6KL1_A Green fluorescent prote  22.8      73 0.00091   18.5   0.0   16    1-16    212-227 (229)
+ 53 4DVG_B Rho-like small GTPase (  22.6      75 0.00092   17.0   0.0   12    4-15     97-108 (353)
+ 54 3EVP_A Green fluorescent prote  22.2      77 0.00095   18.9   0.0   15    1-15     71-85  (243)
+ 55 5D28_A GM-CSF/IL-2 inhibition   21.7      80 0.00099   19.5   0.0    7    9-15     56-62  (246)
+ 56 3S6P_C Capsid protein; virus,   21.6      81   0.001   21.6   0.0    8    4-11     93-100 (575)
+ 57 3S6P_D Capsid protein; virus,   21.6      81   0.001   21.6   0.0    8    4-11     93-100 (575)
+ 58 4XBI_A N domain of ClpB1 form;  21.0      84   0.001   18.0   0.0   16    1-16    362-377 (381)
+ 59 1Y66_D engrailed homeodomain;   20.4      88  0.0011   15.7   0.0   10    6-15     27-36  (52)
+ 60 1P32_A CRYSTAL STRUCTURE OF HU  20.2      90  0.0011   16.1   0.0    9    7-15    167-175 (209)
+ 61 1P32_B CRYSTAL STRUCTURE OF HU  20.2      90  0.0011   16.1   0.0    9    7-15    167-175 (209)
+
+No 1
+>5JNQ_A Phospho-N-acetylmuramoyl-pentapeptide-transferase (E.C.2.7.8.13); Membrane protein, antibiotic, PNPT, Transferase-Antibiotic; HET: TUM, PLM, BOG; 2.6A {Clostridium bolteae 90A9}
+Probab=97.79  E-value=8e-08  Score=53.17  Aligned_cols=16  Identities=94%  Similarity=1.323  Sum_probs=0.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||||++|+++|+|||
+T Consensus         5 ~~~~~~~~~~~~~~~~   20 (376)
+T 5JNQ_A            5 RDHMVLHEYVNAAGIT   20 (376)
+T ss_dssp             ----------------
+T ss_pred             cchhhHHHHHhhcccC
+Confidence            8999999999999986
+
+
+No 2
+>6B7T_A Green fluorescent protein; Superfolder GFP, Truncated GFP, His-tag; HET: GYS; 1.91A {Aequorea victoria}
+Probab=96.71  E-value=2.9e-05  Score=44.91  Aligned_cols=16  Identities=94%  Similarity=1.323  Sum_probs=13.8  Template_Neff=4.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||||+|+++|||||
+T Consensus        23 ~~~~~~~~~~~~~~~~   38 (246)
+T 6B7T_A           23 RDHMVLHEYVNAAGIT   38 (246)
+T ss_dssp             -CEEEEEEEEEEECC-
+T ss_pred             ccceeehhHHHHhcCC
+Confidence            8999999999999986
+
+
+No 3
+>6OFO_A Fluorescent protein Dronpa; GFP, SPLIT FLUORESCENT PROTEIN, FLUORESCENT; HET: GYS; 2.603A {Aequorea victoria}
+Probab=91.51  E-value=0.069  Score=31.35  Aligned_cols=16  Identities=94%  Similarity=1.323  Sum_probs=14.5  Template_Neff=4.200
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus        34 rdh~~~~E~~~a~~~~   49 (254)
+T 6OFO_A           34 RDHMVLHEYVNAAGIT   49 (254)
+T ss_dssp             CCEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehhHHCCe
+Confidence            8999999999999764
+
+
+No 4
+>6DGV_A iGABASnFR; GABA binding protein, Fluorescent sensor; HET: CRO; 2.8A {Pseudomonas fluorescens}
+Probab=85.28  E-value=0.48  Score=27.50  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||++..|++.|+||.
+T Consensus       345 ~~~~~~~~~~~~~~~~  360 (566)
+T 6DGV_A          345 RDHMVLLEFVTAAGIT  360 (566)
+T ss_pred             HhHHHHHHHHHHHhHH
+Confidence            7999999999999874
+
+
+No 5
+>4ORN_A mKalama1; proton transfer, zwitterion, chromophore, FLUORESCENT; HET: CSD, GYS, MES, SO4; 1.71A {Aequorea victoria}
+Probab=80.79  E-value=1  Score=26.07  Aligned_cols=16  Identities=69%  Similarity=0.922  Sum_probs=14.6  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (239)
+T 4ORN_A          216 RDHMVLLEFRTAAGIT  231 (239)
+T ss_dssp             SSEEEEEEEEEEESSC
+T ss_pred             cceEEEEhHHHHcCCc
+Confidence            8999999999999874
+
+
+No 6
+>3OSQ_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL, SO4; 1.9A {Escherichia coli, Aequorea victoria}
+Probab=69.59  E-value=3.4  Score=25.26  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.1  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+++.+++.++||+
+T Consensus       280 ~~~~~~~~~~~~~~~~  295 (661)
+T 3OSQ_A          280 RDHMVLLEFVTAAGIT  295 (661)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cchhHHHHHHHHccce
+Confidence            6899999999998864
+
+
+No 7
+>4W6H_A fluorescent protein D190C; fluorescent protein, dimer, disulfide; HET: CRO; 1.953A {synthetic construct}
+Probab=66.34  E-value=4.4  Score=23.37  Aligned_cols=16  Identities=81%  Similarity=1.091  Sum_probs=14.0  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+|+
+T Consensus       213 ~~~v~l~E~a~a~~~~  228 (234)
+T 4W6H_A          213 RDHMVLLEYVTAAGIT  228 (234)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEehhccC
+Confidence            5899999999999986
+
+
+No 8
+>5FGU_A Green fluorescent protein,Extracellular streptodornase D; beta-beta-alpha metal finger nuclease, sequence; HET: SO4, CR2, ACT, EDO; 1.896A {Aequorea victoria}
+Probab=64.02  E-value=5.3  Score=25.45  Aligned_cols=16  Identities=69%  Similarity=0.995  Sum_probs=14.5  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus       216 ~dh~~~~E~~~a~~lt  231 (565)
+T 5FGU_A          216 RDHMVLLEFVTAAGIA  231 (565)
+T ss_pred             CceEeechhHHHcCCC
+Confidence            7999999999998874
+
+
+No 9
+>3AKO_B Venus; Venus, Fluorescent Protein, GFP; HET: PE8; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=62.34  E-value=6  Score=20.95  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_B           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 10
+>3AKO_F Venus; Venus, Fluorescent Protein, GFP; HET: PE8, CR2; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=62.34  E-value=6  Score=20.95  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_F           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 11
+>2HPW_A Green fluorescent protein, Clytia gregaria; Fluorescent protein, GFP, Structural Genomics; 1.55A {Clytia gregaria}
+Probab=52.03  E-value=12  Score=22.11  Aligned_cols=16  Identities=25%  Similarity=0.466  Sum_probs=14.5  Template_Neff=4.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|.+++
+T Consensus       215 rdh~~~~E~~~a~~~~  230 (233)
+T 2HPW_A          215 TDHLTIVEVIKAVDLE  230 (233)
+T ss_dssp             SCEEEEEEEEEEECGG
+T ss_pred             cceeEEEEEEeeeccc
+Confidence            8999999999998864
+
+
+No 12
+>5WUA_B ATP-sensitive inward rectifier potassium channel; KATP, channel, ABC transporter, Kir; 5.6A {Mus musculus}
+Probab=51.40  E-value=12  Score=23.93  Aligned_cols=16  Identities=94%  Similarity=1.323  Sum_probs=0.0  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      +||+.|.|.++|.||+
+T Consensus       618 ~~~v~~~E~~~a~~~~  633 (681)
+T 5WUA_B          618 RDHMVLHEYVNAAGIT  633 (681)
+T ss_dssp             ----------------
+T ss_pred             CCEEEEEEEEEEeccC
+Confidence            4899999999999986
+
+
+No 13
+>1UJL_A Potassium voltage-gated channel subfamily H; two helices, amphiphatic helix, MEMBRANE; NMR {N/A} SCOP: j.12.1.1
+Probab=49.63  E-value=14  Score=15.05  Aligned_cols=13  Identities=31%  Similarity=0.606  Sum_probs=7.6  Template_Neff=7.400
+
+Q ORIGINAL_SEQUE    2 DHMWLHEYVNAAG   14 (16)
+Q Consensus         2 dhmwlheyvnaag   14 (16)
+                      ++-||.++.+..+
+T Consensus        13 ~~gWL~~La~~~~   25 (42)
+T 1UJL_A           13 RIGWLHNLGDQIG   25 (42)
+T ss_pred             cccHHHHHHHHcC
+Confidence            3557777766443
+
+
+No 14
+>6JGJ_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: GYS; 0.78A {Aequorea victoria}
+Probab=46.98  E-value=16  Score=21.25  Aligned_cols=16  Identities=69%  Similarity=0.995  Sum_probs=14.5  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|.+++
+T Consensus       212 rdh~~~~e~~~a~~~~  227 (228)
+T 6JGJ_A          212 RDHMVLLQFVTAAGIT  227 (228)
+T ss_pred             CceeeeEeeeehhccC
+Confidence            8999999999998864
+
+
+No 15
+>3O78_A Chimera protein of Peptide of; circular permutated green fluorescent protein; 2.6A {Gallus gallus, Aequorea victoria, Aequorea victoria, Homo sapiens}
+Probab=43.63  E-value=19  Score=20.14  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.3  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||++.|+++|.+++
+T Consensus        93 ~dh~~~~e~~~~~~~~  108 (415)
+T 3O78_A           93 RDHMVLLEFVTAAGIT  108 (415)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehHHhcce
+Confidence            8999999999998864
+
+
+No 16
+>3DAD_A FH1/FH2 domain-containing protein 1; Formin, FHOD1, GTPase-binding domain, ubiquitin-superfold; 2.3A {Homo sapiens}
+Probab=43.25  E-value=20  Score=19.71  Aligned_cols=14  Identities=29%  Similarity=0.622  Sum_probs=9.7  Template_Neff=8.200
+
+Q ORIGINAL_SEQUE    2 DHMWLHEYVNAAGI   15 (16)
+Q Consensus         2 dhmwlheyvnaagi   15 (16)
+                      |-.|..||++.-|+
+T Consensus       149 d~~wv~eFi~~~Gl  162 (339)
+T 3DAD_A          149 DKDLVPEFVHSEGL  162 (339)
+T ss_dssp             CTTHHHHHHHTTHH
+T ss_pred             CccHHHHHHHCCHH
+Confidence            44577788877665
+
+
+No 17
+>3DAD_B FH1/FH2 domain-containing protein 1; Formin, FHOD1, GTPase-binding domain, ubiquitin-superfold; 2.3A {Homo sapiens}
+Probab=43.25  E-value=20  Score=19.71  Aligned_cols=14  Identities=29%  Similarity=0.622  Sum_probs=9.7  Template_Neff=8.200
+
+Q ORIGINAL_SEQUE    2 DHMWLHEYVNAAGI   15 (16)
+Q Consensus         2 dhmwlheyvnaagi   15 (16)
+                      |-.|..||++.-|+
+T Consensus       149 d~~wv~eFi~~~Gl  162 (339)
+T 3DAD_B          149 DKDLVPEFVHSEGL  162 (339)
+T ss_dssp             CTTHHHHHHHTTHH
+T ss_pred             CccHHHHHHHCCHH
+Confidence            44577788877665
+
+
+No 18
+>6MKS_b Chimera protein of NLR family; NLRC4, Helical assembly, Inflammasome, PROTEIN; 3.4A {Homo sapiens}
+Probab=40.55  E-value=23  Score=20.50  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|.+++
+T Consensus       317 ~d~~~~~e~~~~~~~~  332 (340)
+T 6MKS_b          317 RDHMVLLEFVTAAGIT  332 (340)
+T ss_pred             cceeeehHHHHHcCCC
+Confidence            8999999999998864
+
+
+No 19
+>6RMG_A Protein patched homolog 1, Sonic; Patched, PTCH1, Hedgehog, ShhN, MEMBRANE; HET: Y01, NAG; 3.4A {Homo sapiens}
+Probab=40.03  E-value=24  Score=23.38  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=0.0  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus      1416 ~~~~~~~e~~~a~~~~ 1431 (1471)
+T 6RMG_A         1416 RDHMVLLEFVTAAGIT 1431 (1471)
+T ss_dssp             ----------------
+T ss_pred             CCeEEEehHHHHhCCc
+Confidence            7999999999998764
+
+
+No 20
+>3AI4_A yeast enhanced green fluorescent protein; UBM, Ubiquitin-binding motif, GFP, Fusion; 1.6A {Aequorea victoria, Mus musculus}
+Probab=39.04  E-value=25  Score=21.07  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (283)
+T 3AI4_A          216 RDHMVLLEFVTAAGIT  231 (283)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             cceEEEEeehHHcCCC
+Confidence            8999999999998864
+
+
+No 21
+>5GM6_W Prp8, Brr2, Snu114, Rse1, Cus1; spliceosome, RNA splicing, Bact, Catalytically; HET: ADP, GTP, ZN; 3.5A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=37.19  E-value=28  Score=20.38  Aligned_cols=8  Identities=50%  Similarity=0.953  Sum_probs=4.3  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    4 MWLHEYVN   11 (16)
+Q Consensus         4 mwlheyvn   11 (16)
+                      |.|++|+.
+T Consensus         1 Msl~~yL~    8 (266)
+T 5GM6_W            1 MALHQYLS    8 (266)
+T ss_pred             CcHHHHHH
+Confidence            45566554
+
+
+No 22
+>5ZWM_Y Pre-mRNA-splicing factor 8, U4/U6 small; spliceosome, assembly, pre-B complex, U1; HET: GTP; 3.4A {Saccharomyces cerevisiae S288c}
+Probab=37.09  E-value=29  Score=20.37  Aligned_cols=8  Identities=50%  Similarity=0.953  Sum_probs=4.3  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    4 MWLHEYVN   11 (16)
+Q Consensus         4 mwlheyvn   11 (16)
+                      |.|++|+.
+T Consensus         1 Msl~~yL~    8 (266)
+T 5ZWM_Y            1 MALHQYLS    8 (266)
+T ss_pred             CcHHHHHH
+Confidence            45566554
+
+
+No 23
+>3LVC_A Green fluorescent protein; colorless GFP-like protein, chromophore biosynthesis; HET: GOL, GYS; 1.14A {Aequorea coerulescens}
+Probab=36.73  E-value=29  Score=20.29  Aligned_cols=16  Identities=63%  Similarity=0.879  Sum_probs=14.0  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       213 rdhi~~~E~~~a~~~~  228 (236)
+T 3LVC_A          213 RDHMIYFEFVTAAAIT  228 (236)
+T ss_dssp             SSEEEEEEEEEEEEC-
+T ss_pred             cceeeEEehHHHHHhh
+Confidence            8999999999998763
+
+
+No 24
+>6QLC_A ssDNA binding RNA Polymerase cofactor; ssDNA binding, VIRAL PROTEIN; 2.2A {Pseudomonas phage LUZ7}
+Probab=34.68  E-value=33  Score=19.07  Aligned_cols=10  Identities=40%  Similarity=0.796  Sum_probs=7.5  Template_Neff=1.400
+
+Q ORIGINAL_SEQUE    3 HMWLHEYVNA   12 (16)
+Q Consensus         3 hmwlheyvna   12 (16)
+                      ||-|+||+..
+T Consensus        55 ~~QL~E~L~~   64 (104)
+T 6QLC_A           55 HMQLQEFLTV   64 (104)
+T ss_dssp             HHHHHHHTTB
+T ss_pred             HHHHHHHhcc
+Confidence            7788888764
+
+
+No 25
+>3VHT_B Green fluorescent protein, Green fluorescent; GREEN FLUORESCENT PROTEIN, FUSION PROTEIN; HET: CR2; 2.4A {Mus musculus}
+Probab=34.58  E-value=33  Score=20.15  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.4  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|+|.+.|++++
+T Consensus       216 ~~~v~~~E~a~A~g~~  231 (271)
+T 3VHT_B          216 RDHMVLLEFVTAAGIT  231 (271)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEeccCCC
+Confidence            5899999999998863
+
+
+No 26
+>3EVR_A Myosin light chain kinase, Green; GCAMP2,calcium sensor, GFP, Calmodulin,M13, SIGNALING; 2.0A {Aequorea victoria}
+Probab=33.58  E-value=36  Score=19.12  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.6  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      ||||++.|+++|.++
+T Consensus        91 ~~~~~~~e~~~~~~~  105 (411)
+T 3EVR_A           91 RDHMVLLEFVTAAGI  105 (411)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceeEehHHHHHhCc
+Confidence            899999999998776
+
+
+No 27
+>6NF4_B Otopetrin1; Proton channel, Otopetrin, MEMBRANE PROTEIN; HET: CLR, Y01; 2.98A {Danio rerio}
+Probab=32.14  E-value=39  Score=20.78  Aligned_cols=9  Identities=56%  Similarity=1.294  Sum_probs=0.0  Template_Neff=7.100
+
+Q ORIGINAL_SEQUE    2 DHMWLHEYV   10 (16)
+Q Consensus         2 dhmwlheyv   10 (16)
+                      |-||+..+-
+T Consensus         9 ~~~~~~~~~   17 (587)
+T 6NF4_B            9 DSMWLNKYN   17 (587)
+T ss_dssp             ---------
+T ss_pred             cccchhccC
+Confidence            556666553
+
+
+No 28
+>2G2S_B Green fluorescent protein; chromophore, biosynthesis, dehydroalanine, peptide hydrolysis; 1.2A {Aequorea victoria}
+Probab=31.20  E-value=41  Score=18.78  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.7  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       150 ~~~v~l~E~a~A~~~~  165 (173)
+T 2G2S_B          150 RDHMVLLEFVTAAGIT  165 (173)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecccc
+Confidence            5899999999998763
+
+
+No 29
+>5YR3_A Yellow fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF6; 1.901A {Aequorea victoria}
+Probab=30.72  E-value=43  Score=19.36  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       210 ~~~v~~~E~a~A~~~~  225 (225)
+T 5YR3_A          210 RDHMVLLEFVTAAGIT  225 (225)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 30
+>5Z6Y_A Green fluorescent protein; chromophore linkage electron transfer, FLUORESCENT; HET: BF6; 1.87A {Aequorea victoria}
+Probab=29.46  E-value=46  Score=19.27  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.7  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|+|.+.|.+++
+T Consensus       213 ~~~v~~~E~a~A~~~~  228 (229)
+T 5Z6Y_A          213 RDHMVLLEFVTAAGIT  228 (229)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEEEEcccC
+Confidence            5899999999998763
+
+
+No 31
+>5YR2_B Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=29.44  E-value=46  Score=19.98  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_B           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CccEEEEEEEehhCCc
+Confidence            8999999999998764
+
+
+No 32
+>5YR2_A Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=29.43  E-value=46  Score=19.98  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_A           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEEeecccCc
+Confidence            8999999999998764
+
+
+No 33
+>4W6T_A fluorescent protein E115H/T118H; fluorescent protein; HET: EDO, CRO; 1.604A {synthetic construct}
+Probab=28.93  E-value=48  Score=19.27  Aligned_cols=16  Identities=81%  Similarity=1.091  Sum_probs=14.0  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       214 ~~~v~~~E~a~A~~~~  229 (229)
+T 4W6T_A          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 34
+>6EFR_A iNicSnFR 1.0, a genetically encoded; periplasmic binding protein, green fluorescent; HET: CRO; 2.4A {Thermoanaerobacter sp. X513}
+Probab=28.86  E-value=48  Score=20.10  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.7  Template_Neff=7.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      ||||+++|+++|.++
+T Consensus       146 rdh~~~~e~~~~~~~  160 (520)
+T 6EFR_A          146 RDHMVLLEFVTAAGI  160 (520)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceeEEEEEeecccc
+Confidence            899999999999776
+
+
+No 35
+>6R4P_A Adenylate cyclase 9, Guanine nucleotide-binding; Membrane protein, adenylyl cyclase, G; HET: GSP; 3.1A {Bos taurus}
+Probab=28.43  E-value=49  Score=22.46  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.5  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|.|++
+T Consensus      1582 ~~~~~~~e~~~~~~~~ 1597 (1637)
+T 6R4P_A         1582 RDHMVLLEFVTAAGIT 1597 (1637)
+T ss_pred             cceEEEeeHHHHhCCC
+Confidence            8999999999998864
+
+
+No 36
+>2YRK_A Zinc finger homeobox protein 4; structure genomics, zf-C2H2 domain, ZFH-4; HET: ZN; NMR {Mus musculus} SCOP: g.37.1.4
+Probab=28.38  E-value=50  Score=15.29  Aligned_cols=7  Identities=43%  Similarity=0.952  Sum_probs=3.3  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMWLH    7 (16)
+Q Consensus         1 rdhmwlh    7 (16)
+                      +||+--+
+T Consensus        30 ~DHins~   36 (55)
+T 2YRK_A           30 RDHIFSK   36 (55)
+T ss_dssp             HHHHTSH
+T ss_pred             cccccCH
+Confidence            3555443
+
+
+No 37
+>2B2C_A spermidine synthase (E.C.2.5.1.16); beta-alpha, TRANSFERASE; 2.5A {Caenorhabditis elegans} SCOP: c.66.1.17
+Probab=28.21  E-value=50  Score=16.74  Aligned_cols=9  Identities=22%  Similarity=0.733  Sum_probs=4.1  Template_Neff=10.000
+
+Q ORIGINAL_SEQUE    3 HMWLHEYVN   11 (16)
+Q Consensus         3 hmwlheyvn   11 (16)
+                      |-|+.||..
+T Consensus         6 ~~~~~~~~~   14 (314)
+T 2B2C_A            6 KGWFTEFSP   14 (314)
+T ss_dssp             SSEEEEECS
+T ss_pred             ccceeccCh
+Confidence            345555543
+
+
+No 38
+>4XGY_A Green fluorescent protein, mAb LCDR3; Fluorobody, GFP, CDR3, FLUORESCENT PROTEIN; HET: PE5, CRO; 1.494A {Aequorea victoria}
+Probab=27.78  E-value=52  Score=20.32  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.9  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|++.|++++
+T Consensus       233 ~~~v~l~E~a~A~~~~  248 (303)
+T 4XGY_A          233 RDHMVLLEFVTAAGIT  248 (303)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CceEEEEEEEehhccc
+Confidence            5899999999998863
+
+
+No 39
+>2KIG_A Inositol polyphosphate 5-phosphatase II isoform; OCRL, INPP5B, PH, clathrin, endocytosis; NMR {Mus musculus}
+Probab=27.65  E-value=52  Score=16.64  Aligned_cols=10  Identities=20%  Similarity=0.501  Sum_probs=5.9  Template_Neff=7.600
+
+Q ORIGINAL_SEQUE    2 DHMWLHEYVN   11 (16)
+Q Consensus         2 dhmwlheyvn   11 (16)
+                      +|.|+.-|..
+T Consensus       145 ~f~WL~~Y~~  154 (161)
+T 2KIG_A          145 EFEWLSRHTC  154 (161)
+T ss_dssp             CCTTGGGCCC
+T ss_pred             CChhHHhccc
+Confidence            4667766544
+
+
+No 40
+>4GR6_B AtRbcX2; chaperone, Rubisco, RbcX; 2.0A {Arabidopsis thaliana}
+Probab=27.32  E-value=53  Score=17.32  Aligned_cols=10  Identities=10%  Similarity=0.361  Sum_probs=6.0  Template_Neff=5.400
+
+Q ORIGINAL_SEQUE    3 HMWLHEYVNA   12 (16)
+Q Consensus         3 hmwlheyvna   12 (16)
+                      |.||.+|+..
+T Consensus        43 ~~wL~~f~~~   52 (126)
+T 4GR6_B           43 YTWFYNHIIT   52 (126)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHh
+Confidence            4566666654
+
+
+No 41
+>5NI3_B Green fluorescent protein; GFP, super folder, click chemistry; HET: NA, DB5, CRO, GOL; 1.28A {Aequorea victoria}
+Probab=27.21  E-value=54  Score=19.07  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       211 ~~~v~l~E~a~A~~~~  226 (229)
+T 5NI3_B          211 RDHMVLLEFVTAAGIT  226 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEcccCc
+Confidence            5899999999998863
+
+
+No 42
+>4IK8_A RCaMP, Green fluorescent protein; calcium indicator, mutants, fluorescent intensity; 1.55A {Entacmaea quadricolor, Aequorea victoria}
+Probab=27.13  E-value=54  Score=18.99  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.6  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      ||||++.|+++|.++
+T Consensus       127 r~~~~~~e~~~~~~~  141 (448)
+T 4IK8_A          127 RDHMVLLEFVTAAGI  141 (448)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceEEEeehHHHhCc
+Confidence            899999999998776
+
+
+No 43
+>3OSR_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL; 2.0A {Escherichia coli, Aequorea victoria}
+Probab=27.00  E-value=54  Score=19.45  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.4  Template_Neff=8.600
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      |||+++.|++.|.|+
+T Consensus       418 ~~~~~~~~~~~~~~~  432 (653)
+T 3OSR_A          418 RDHMVLLEFVTAAGI  432 (653)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceEEEEEehhHhcc
+Confidence            899999999988776
+
+
+No 44
+>1YFP_B YELLOW FLUORESCENT PROTEIN; LUMINESCENCE, GREEN FLUORESCENT PROTEIN, YELLOW-EMISSION; HET: CRO; 2.5A {Aequorea victoria} SCOP: d.22.1.1
+Probab=26.45  E-value=57  Score=18.88  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      |||+.|.|.+.|.++
+T Consensus       211 ~~~v~l~E~a~A~~~  225 (225)
+T 1YFP_B          211 RDHMVLLEFVTAAGI  225 (225)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CcEEEEEEEEEecCC
+Confidence            589999999999874
+
+
+No 45
+>6MB2_a Interferon-inducible protein AIM2, Green fluorescent; Filament, higher order, innate immunity; HET: MSE, CRO; 5.0A {Homo sapiens}
+Probab=26.09  E-value=58  Score=18.85  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      |||+.|.|.+.|.++
+T Consensus       212 ~~~v~l~E~a~a~~~  226 (226)
+T 6MB2_a          212 RDHMVLLEFVTAAGI  226 (226)
+T ss_pred             CcEEEEEEEEEccCC
+Confidence            589999999999874
+
+
+No 46
+>4W76_B fluorescent protein D21H/K26C; fluorescent protein; HET: CRO; 2.35A {synthetic construct}
+Probab=26.09  E-value=58  Score=18.94  Aligned_cols=16  Identities=81%  Similarity=1.091  Sum_probs=13.5  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (229)
+T 4W76_B          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 47
+>6JGI_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: CRO; 0.85A {Aequorea victoria}
+Probab=25.84  E-value=59  Score=18.90  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      +||+.|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (228)
+T 6JGI_A          212 RDHMVLLEFVTAAGIT  227 (228)
+T ss_pred             CceEEEEEEEEEeccC
+Confidence            5899999999998864
+
+
+No 48
+>4GR2_A AtRbcX1; Chaperone, Rubisco, RbcX; 2.0A {Arabidopsis thaliana}
+Probab=24.72  E-value=64  Score=16.84  Aligned_cols=10  Identities=30%  Similarity=0.524  Sum_probs=5.3  Template_Neff=5.800
+
+Q ORIGINAL_SEQUE    3 HMWLHEYVNA   12 (16)
+Q Consensus         3 hmwlheyvna   12 (16)
+                      +.||.+|+..
+T Consensus        43 ~~wL~~f~~~   52 (128)
+T 4GR2_A           43 YMELREFLDT   52 (128)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHh
+Confidence            4556665543
+
+
+No 49
+>4GR2_B AtRbcX1; Chaperone, Rubisco, RbcX; 2.0A {Arabidopsis thaliana}
+Probab=24.72  E-value=64  Score=16.84  Aligned_cols=10  Identities=30%  Similarity=0.524  Sum_probs=5.3  Template_Neff=5.800
+
+Q ORIGINAL_SEQUE    3 HMWLHEYVNA   12 (16)
+Q Consensus         3 hmwlheyvna   12 (16)
+                      +.||.+|+..
+T Consensus        43 ~~wL~~f~~~   52 (128)
+T 4GR2_B           43 YMELREFLDT   52 (128)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHh
+Confidence            4556665543
+
+
+No 50
+>5OXC_A Green fluorescent protein; Fluorescent protein, tryptophan-based chromophore, Cerulean; HET: B2H; 1.02A {Vaccinia virus}
+Probab=23.79  E-value=68  Score=18.80  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.6  Template_Neff=4.900
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      |||+.|+|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (237)
+T 5OXC_A          214 RDHMVLLEFVTAAGIT  229 (237)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 51
+>6R4O_A Adenylate cyclase 9, Guanine nucleotide-binding; Adenylyl cyclase, G protein, MANT-GTP; HET: FOK, GSP, ONM; 4.2A {Bos taurus}
+Probab=23.62  E-value=69  Score=21.47  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=14.4  Template_Neff=8.200
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      ||||+++|+++|.+++
+T Consensus      1478 ~~~~~~~~~~~~~~~~ 1493 (1533)
+T 6R4O_A         1478 RDHMVLLEFVTAAGIT 1493 (1533)
+T ss_pred             CceEeeehHHHHcCCc
+Confidence            8999999999998764
+
+
+No 52
+>6KL1_A Green fluorescent protein; green fluorescent protein, visualization of; HET: DOD, CRO; 0.851A {Aequorea victoria}
+Probab=22.84  E-value=73  Score=18.54  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      +||+.|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (229)
+T 6KL1_A          212 RDHMVLLEFVTAAGIT  227 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEeccCc
+Confidence            5899999999998863
+
+
+No 53
+>4DVG_B Rho-like small GTPase (E.C.3.6.5.2), Diaphanous; cytoskeleton, Armadillo repeat, GTPase-binding domain; HET: GSP; 2.604A {Entamoeba histolytica}
+Probab=22.59  E-value=75  Score=17.05  Aligned_cols=12  Identities=17%  Similarity=0.692  Sum_probs=7.7  Template_Neff=9.100
+
+Q ORIGINAL_SEQUE    4 MWLHEYVNAAGI   15 (16)
+Q Consensus         4 mwlheyvnaagi   15 (16)
+                      -|..||++.-|+
+T Consensus        97 ~wv~~Fi~~~Gl  108 (353)
+T 4DVG_B           97 SFIKTFVSVGGL  108 (353)
+T ss_dssp             HHHHHHHHTSTH
+T ss_pred             hHHHHHHHCCHH
+Confidence            466777776554
+
+
+No 54
+>3EVP_A Green fluorescent protein; circular-permutated, EGFP, Chromophore, Luminescence, Photoprotein; 1.453A {Aequorea victoria}
+Probab=22.19  E-value=77  Score=18.86  Aligned_cols=15  Identities=73%  Similarity=1.048  Sum_probs=13.6  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGI   15 (16)
+Q Consensus         1 rdhmwlheyvnaagi   15 (16)
+                      |||+++.|+++|+++
+T Consensus        71 RDHvvl~E~~~a~~v   85 (243)
+T 3EVP_A           71 RDHMVLLEFVTAAGI   85 (243)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CceEEEeeehhHhcH
+Confidence            899999999998875
+
+
+No 55
+>5D28_A GM-CSF/IL-2 inhibition factor, Granulocyte-macrophage colony-stimulating; Signaling Protein, Cytokine, Host-pathogen interactions; HET: NAG, BMA, MAN, SO4; 2.845A {Orf virus}
+Probab=21.74  E-value=80  Score=19.51  Aligned_cols=7  Identities=86%  Similarity=1.251  Sum_probs=4.1  Template_Neff=2.900
+
+Q ORIGINAL_SEQUE    9 YVNAAGI   15 (16)
+Q Consensus         9 yvnaagi   15 (16)
+                      ++.|+||
+T Consensus        56 y~eAaGI   62 (246)
+T 5D28_A           56 YVAAAGI   62 (246)
+T ss_dssp             EEEETTE
+T ss_pred             eeeccCc
+Confidence            4556665
+
+
+No 56
+>3S6P_C Capsid protein; virus, capsid, coat protein, beta; 2.5A {Helicoverpa armigera stunt virus}
+Probab=21.61  E-value=81  Score=21.62  Aligned_cols=8  Identities=25%  Similarity=0.982  Sum_probs=3.3  Template_Neff=2.600
+
+Q ORIGINAL_SEQUE    4 MWLHEYVN   11 (16)
+Q Consensus         4 mwlheyvn   11 (16)
+                      -|++.|++
+T Consensus        93 gWl~kYLD  100 (575)
+T 3S6P_C           93 GWYFKYLD  100 (575)
+T ss_dssp             HHHHHHHC
+T ss_pred             HHHHHhcC
+Confidence            34444443
+
+
+No 57
+>3S6P_D Capsid protein; virus, capsid, coat protein, beta; 2.5A {Helicoverpa armigera stunt virus}
+Probab=21.61  E-value=81  Score=21.62  Aligned_cols=8  Identities=25%  Similarity=0.982  Sum_probs=3.3  Template_Neff=2.600
+
+Q ORIGINAL_SEQUE    4 MWLHEYVN   11 (16)
+Q Consensus         4 mwlheyvn   11 (16)
+                      -|++.|++
+T Consensus        93 gWl~kYLD  100 (575)
+T 3S6P_D           93 GWYFKYLD  100 (575)
+T ss_pred             HHHHHhcC
+Confidence            34444443
+
+
+No 58
+>4XBI_A N domain of ClpB1 form; CLP Chaperone, AAA+ ATPase, Refoldase; HET: CRO, SO4; 2.013A {Plasmodium falciparum (isolate 3D7)}
+Probab=21.02  E-value=84  Score=17.97  Aligned_cols=16  Identities=75%  Similarity=1.034  Sum_probs=13.6  Template_Neff=7.700
+
+Q ORIGINAL_SEQUE    1 RDHMWLHEYVNAAGIT   16 (16)
+Q Consensus         1 rdhmwlheyvnaagit   16 (16)
+                      +||+.|.|.+.|.+++
+T Consensus       362 ~~~~~~~e~~~a~~~~  377 (381)
+T 4XBI_A          362 RDHMVLLEFVTAAGIT  377 (381)
+T ss_pred             CCEEEEEEEEEEeCCc
+Confidence            5899999999998763
+
+
+No 59
+>1Y66_D engrailed homeodomain; protein design, dioxane, engrailed homeodomain; HET: DIO; 1.65A {Escherichia coli}
+Probab=20.42  E-value=88  Score=15.70  Aligned_cols=10  Identities=50%  Similarity=0.999  Sum_probs=5.2  Template_Neff=1.000
+
+Q ORIGINAL_SEQUE    6 LHEYVNAAGI   15 (16)
+Q Consensus         6 lheyvnaagi   15 (16)
+                      ++||....|+
+T Consensus        27 lheyaqklgl   36 (52)
+T 1Y66_D           27 LHEYAQKLGL   36 (52)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHhCC
+Confidence            5566555443
+
+
+No 60
+>1P32_A CRYSTAL STRUCTURE OF HUMAN P32; MITOCHONDRIAL MATRIX PROTEIN; 2.25A {Homo sapiens} SCOP: d.25.1.1
+Probab=20.19  E-value=90  Score=16.13  Aligned_cols=9  Identities=11%  Similarity=0.623  Sum_probs=4.1  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    7 HEYVNAAGI   15 (16)
+Q Consensus         7 heyvnaagi   15 (16)
+                      .+|+.+.||
+T Consensus       167 ~~yLe~RGI  175 (209)
+T 1P32_A          167 MDFLADRGV  175 (209)
+T ss_dssp             HHHHHTTTC
+T ss_pred             HHHHHHCCC
+Confidence            344444444
+
+
+No 61
+>1P32_B CRYSTAL STRUCTURE OF HUMAN P32; MITOCHONDRIAL MATRIX PROTEIN; 2.25A {Homo sapiens} SCOP: d.25.1.1
+Probab=20.19  E-value=90  Score=16.13  Aligned_cols=9  Identities=11%  Similarity=0.623  Sum_probs=4.1  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    7 HEYVNAAGI   15 (16)
+Q Consensus         7 heyvnaagi   15 (16)
+                      .+|+.+.||
+T Consensus       167 ~~yLe~RGI  175 (209)
+T 1P32_B          167 MDFLADRGV  175 (209)
+T ss_dssp             HHHHHTTTC
+T ss_pred             HHHHHHCCC
+Confidence            344444444
+
+

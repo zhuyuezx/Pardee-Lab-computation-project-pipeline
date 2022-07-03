@@ -1,0 +1,18 @@
+{
+    "features": 1495.7515623569489,
+    "process_features_model_1_pred_0": 2.564957618713379,
+    "predict_and_compile_model_1_pred_0": 15.867889165878296,
+    "relax_model_1_pred_0": 7.981707334518433,
+    "process_features_model_2_pred_0": 2.0881259441375732,
+    "predict_and_compile_model_2_pred_0": 9.803400754928589,
+    "relax_model_2_pred_0": 10.615605592727661,
+    "process_features_model_3_pred_0": 1.8215656280517578,
+    "predict_and_compile_model_3_pred_0": 17.142698287963867,
+    "relax_model_3_pred_0": 7.962841510772705,
+    "process_features_model_4_pred_0": 1.6538121700286865,
+    "predict_and_compile_model_4_pred_0": 15.817592144012451,
+    "relax_model_4_pred_0": 7.620017051696777,
+    "process_features_model_5_pred_0": 1.5923349857330322,
+    "predict_and_compile_model_5_pred_0": 12.627901077270508,
+    "relax_model_5_pred_0": 7.590540885925293
+}

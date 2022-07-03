@@ -1,0 +1,10 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_A0A4P9Y4L2/73-82   DE [subseq from] Uncharacterized protein n=1 Tax=Piptocephalis cylindrospora TaxID=1907219 RepID=A0A4P9Y4L2_9FUNG
+#=GS UniRef90_A0A4P9Y4L2/210-219 DE [subseq from] Uncharacterized protein n=1 Tax=Piptocephalis cylindrospora TaxID=1907219 RepID=A0A4P9Y4L2_9FUNG
+
+ORIGINAL_SEQUENCE_GFP11             RDHMVLHEYVNALGIT
+UniRef90_A0A4P9Y4L2/73-82           -----IHAYVNALGI-
+UniRef90_A0A4P9Y4L2/210-219         -----IHAYVNALGI-
+#=GC RF                             xxxxxxxxxxxxxxxx
+//
