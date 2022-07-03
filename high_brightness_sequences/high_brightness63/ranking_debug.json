@@ -1,0 +1,16 @@
+{
+    "plddts": {
+        "model_1_pred_0": 88.4941490045318,
+        "model_2_pred_0": 86.02779882087667,
+        "model_3_pred_0": 74.68436081618987,
+        "model_4_pred_0": 68.7073118919062,
+        "model_5_pred_0": 81.21760772593537
+    },
+    "order": [
+        "model_1_pred_0",
+        "model_2_pred_0",
+        "model_5_pred_0",
+        "model_3_pred_0",
+        "model_4_pred_0"
+    ]
+}

@@ -1,0 +1,2021 @@
+Query         SEQUENCE92 
+Match_columns 16
+No_of_seqs    1 out of 3
+Neff          1
+Searched_HMMs 80799
+Date          Sun Jul  3 01:46:59 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpgq9kt13s/query.a3m -o /tmp/tmpgq9kt13s/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6B7T_A Green fluorescent prote  97.3 1.8E-06 2.2E-11   49.8   0.0   16    1-16     23-38  (246)
+  2 5JNQ_A Phospho-N-acetylmuramoy  95.7 0.00085   1E-08   37.6   0.0   16    1-16      5-20  (376)
+  3 3AKO_B Venus; Venus, Fluoresce  95.5  0.0012 1.5E-08   34.5   0.0   16    1-16     62-77  (93)
+  4 3AKO_F Venus; Venus, Fluoresce  95.5  0.0012 1.5E-08   34.5   0.0   16    1-16     62-77  (93)
+  5 3O78_A Chimera protein of Pept  94.6  0.0052 6.4E-08   33.7   0.0   16    1-16     93-108 (415)
+  6 6JGJ_A Green fluorescent prote  94.5  0.0063 7.8E-08   34.6   0.0   16    1-16    212-227 (228)
+  7 6DGV_A iGABASnFR; GABA binding  94.4  0.0072 8.9E-08   34.7   0.0   15    1-15    345-359 (566)
+  8 6OFO_A Fluorescent protein Dro  94.4  0.0075 9.3E-08   35.2   0.0   16    1-16     34-49  (254)
+  9 2HPW_A Green fluorescent prote  94.3  0.0077 9.5E-08   34.7   0.0   16    1-16    215-230 (233)
+ 10 3EVR_A Myosin light chain kina  94.2  0.0093 1.2E-07   32.7   0.0   15    1-15     91-105 (411)
+ 11 5YR2_A Green fluorescent prote  94.1    0.01 1.2E-07   34.7   0.0   16    1-16     71-86  (247)
+ 12 5YR2_B Green fluorescent prote  94.1    0.01 1.2E-07   34.7   0.0   16    1-16     71-86  (247)
+ 13 6MKS_b Chimera protein of NLR   93.9   0.013 1.6E-07   33.2   0.0   16    1-16    317-332 (340)
+ 14 6EFR_A iNicSnFR 1.0, a genetic  93.8   0.014 1.8E-07   34.2   0.0   16    1-16    146-161 (520)
+ 15 4JRB_A Green fluorescent prote  93.8   0.015 1.8E-07   34.2   0.0   15    1-15    216-230 (416)
+ 16 4IK8_A RCaMP, Green fluorescen  93.6   0.017 2.2E-07   32.5   0.0   15    1-15    127-141 (448)
+ 17 3EVP_A Green fluorescent prote  93.1   0.025 3.1E-07   32.7   0.0   15    1-15     71-85  (243)
+ 18 4ORN_A mKalama1; proton transf  93.1   0.026 3.3E-07   32.3   0.0   16    1-16    216-231 (239)
+ 19 3OSR_A Maltose-binding peripla  93.0   0.028 3.5E-07   32.3   0.0   15    1-15    418-432 (653)
+ 20 3AI4_A yeast enhanced green fl  93.0   0.028 3.5E-07   32.9   0.0   16    1-16    216-231 (283)
+ 21 3LVC_A Green fluorescent prote  92.2   0.047 5.8E-07   31.3   0.0   16    1-16    213-228 (236)
+ 22 3OSQ_A Maltose-binding peripla  92.1    0.05 6.2E-07   32.7   0.0   16    1-16    280-295 (661)
+ 23 6R4P_A Adenylate cyclase 9, Gu  91.2   0.082   1E-06   34.4   0.0   16    1-16   1582-1597(1637)
+ 24 6R4O_A Adenylate cyclase 9, Gu  89.8    0.14 1.8E-06   32.8   0.0   16    1-16   1478-1493(1533)
+ 25 5FGU_A Green fluorescent prote  89.3    0.17 2.1E-06   31.7   0.0   16    1-16    216-231 (565)
+ 26 6RMG_A Protein patched homolog  85.8    0.44 5.4E-06   30.8   0.0   16    1-16   1416-1431(1471)
+ 27 2JAD_A YELLOW FLUORESCENT PROT  83.6    0.66 8.2E-06   26.6   0.0   15    1-15    213-227 (362)
+ 28 2G2S_B Green fluorescent prote  56.5     8.8 0.00011   21.3   0.0   16    1-16    150-165 (173)
+ 29 4W6H_A fluorescent protein D19  54.4      10 0.00012   22.0   0.0   16    1-16    213-228 (234)
+ 30 5YR3_A Yellow fluorescent prot  53.2      11 0.00013   21.7   0.0   16    1-16    210-225 (225)
+ 31 4W6T_A fluorescent protein E11  50.0      13 0.00016   21.5   0.0   16    1-16    214-229 (229)
+ 32 4W76_B fluorescent protein D21  48.5      14 0.00018   21.3   0.0   16    1-16    214-229 (229)
+ 33 4XGY_A Green fluorescent prote  47.5      15 0.00019   22.5   0.0   16    1-16    233-248 (303)
+ 34 5NI3_B Green fluorescent prote  45.5      17 0.00021   21.0   0.0   16    1-16    211-226 (229)
+ 35 6JGI_A Green fluorescent prote  44.6      18 0.00023   20.9   0.0   16    1-16    212-227 (228)
+ 36 5Z6Y_A Green fluorescent prote  44.4      19 0.00023   20.8   0.0   16    1-16    213-228 (229)
+ 37 6KL1_A Green fluorescent prote  44.3      19 0.00023   20.9   0.0   16    1-16    212-227 (229)
+ 38 3VHT_B Green fluorescent prote  44.2      19 0.00023   21.1   0.0   16    1-16    216-231 (271)
+ 39 4Z4M_A GFP-TAX1BP1 UBZ2 domain  42.9      20 0.00025   21.2   0.0   16    1-16    216-231 (260)
+ 40 5OXC_A Green fluorescent prote  39.0      26 0.00032   20.5   0.0   16    1-16    214-229 (237)
+ 41 1MDC_A FATTY ACID BINDING PROT  38.7      26 0.00032   16.0   0.0   11    6-16     16-26  (132)
+ 42 4A1Y_D MYELIN P2 PROTEIN; TRAN  38.4      27 0.00033   16.0   0.0   10    7-16     19-28  (133)
+ 43 2N93_A Fatty acid-binding prot  38.3      27 0.00033   16.1   0.0   10    7-16     17-26  (130)
+ 44 4RYS_A NowGFP; Fluorescent pro  37.2      29 0.00035   20.4   0.0   16    1-16    225-240 (241)
+ 45 4I3B_A Fatty acid binding prot  36.9      29 0.00036   16.1   0.0   10    7-16     18-27  (139)
+ 46 4I3B_D Fatty acid binding prot  36.9      29 0.00036   16.1   0.0   10    7-16     18-27  (139)
+ 47 2A0A_A Der f 13; Beta Barrel,   36.9      29 0.00036   15.9   0.0   10    7-16     17-26  (131)
+ 48 6MB2_a Interferon-inducible pr  36.1      30 0.00038   19.9   0.0   15    1-15    212-226 (226)
+ 49 1FTP_B FATTY-ACID-BINDING PROT  36.1      31 0.00038   15.9   0.0   10    7-16     18-27  (133)
+ 50 4XBI_A N domain of ClpB1 form;  36.0      31 0.00038   19.7   0.0   16    1-16    362-377 (381)
+ 51 4NDJ_A E23-YFP; helix-turn-hel  35.9      31 0.00038   19.3   0.0   15    1-15    266-280 (297)
+ 52 3WVM_A Fatty acid-binding prot  35.6      31 0.00039   15.8   0.0   10    7-16     18-27  (133)
+ 53 4TKB_A human heart fatty acid-  35.6      31 0.00039   15.8   0.0   10    7-16     18-27  (133)
+ 54 4TKH_A human heart fatty acid   35.6      31 0.00039   15.8   0.0   10    7-16     18-27  (133)
+ 55 5J3N_A Green fluorescent prote  35.5      32 0.00039   21.0   0.0   16    1-16    219-234 (396)
+ 56 5L8I_A Gastrotropin; FABP6, Fa  35.3      32  0.0004   15.8   0.0   10    7-16     16-25  (128)
+ 57 1YFP_B YELLOW FLUORESCENT PROT  34.8      33 0.00041   19.8   0.0   15    1-15    211-225 (225)
+ 58 1DC9_A V60N MUTANT OF INTESTIN  34.7      33 0.00041   15.7   0.0   10    7-16     15-24  (131)
+ 59 1TOW_A Fatty acid-binding prot  34.5      34 0.00042   15.5   0.0   10    7-16     17-26  (131)
+ 60 5HZ8_A Fatty acid-binding prot  34.5      34 0.00042   15.7   0.0   10    7-16     21-30  (135)
+ 61 4EN1_A Green fluorescent prote  34.2      34 0.00042   20.4   0.0   16    1-16    232-247 (264)
+ 62 3ELX_A Ileal bile acid-binding  34.1      34 0.00043   16.1   0.0   10    7-16     19-28  (138)
+ 63 3ELZ_B Ileal bile acid-binding  34.1      34 0.00043   16.1   0.0   10    7-16     19-28  (138)
+ 64 1IFC_A INTESTINAL FATTY ACID B  33.7      35 0.00044   15.7   0.0   10    7-16     16-25  (132)
+ 65 6S2M_A Myelin P2 protein; FABP  33.3      36 0.00045   15.6   0.0   11    6-16     18-28  (133)
+ 66 3VG7_A Fatty acid-binding prot  33.2      36 0.00045   15.7   0.0   10    7-16     19-28  (132)
+ 67 1VYF_A 14 KDA FATTY ACID BINDI  32.7      38 0.00047   15.5   0.0   10    7-16     19-28  (135)
+ 68 4XOV_A rsGreen0.7; Green Fluor  32.5      38 0.00047   20.4   0.0   16    1-16    247-262 (270)
+ 69 4XOW_A rsGreen0.7; Green Fluor  32.5      38 0.00047   20.4   0.0   16    1-16    247-262 (270)
+ 70 2L68_A Fatty acid-binding prot  32.4      38 0.00047   15.5   0.0   10    7-16     15-24  (126)
+ 71 1TW4_B Fatty acid-binding prot  31.9      39 0.00049   15.3   0.0   10    7-16     15-24  (125)
+ 72 5BVT_A Epidermal fatty acid-bi  31.2      41 0.00051   15.4   0.0   10    7-16     19-28  (134)
+ 73 5UR9_F Fatty acid-binding prot  31.0      42 0.00052   15.4   0.0   10    7-16     23-32  (138)
+ 74 5HA1_A Retinol-binding protein  30.6      43 0.00053   16.2   0.0   10    7-16     17-26  (140)
+ 75 5HBS_A Retinol-binding protein  30.6      43 0.00053   16.2   0.0   10    7-16     17-26  (140)
+ 76 4LKP_A Fatty acid-binding prot  30.2      44 0.00054   15.5   0.0   10    7-16     23-32  (138)
+ 77 5URA_D Fatty acid-binding prot  29.7      46 0.00056   15.2   0.0   10    7-16     21-30  (135)
+ 78 5GGE_A Fatty acid bindin prote  29.6      46 0.00057   15.1   0.0   10    7-16     17-26  (130)
+ 79 5GKB_A Fatty acid bindin prote  29.6      46 0.00057   15.1   0.0   10    7-16     17-26  (130)
+ 80 3PPT_A Sodium-calcium exchange  29.6      46 0.00057   15.4   0.0   10    7-16     17-26  (133)
+ 81 1EAL_A ILEAL LIPID BINDING PRO  29.3      47 0.00058   15.3   0.0   10    7-16     15-24  (127)
+ 82 5Z4G_B SAHS4; tardigrade, UNKN  29.2      47 0.00058   16.6   0.0   10    7-16     39-48  (161)
+ 83 5Z4G_A SAHS4; tardigrade, UNKN  29.2      47 0.00058   16.6   0.0   10    7-16     39-48  (161)
+ 84 3WBG_D Fatty acid-binding prot  29.1      47 0.00058   16.1   0.0   10    7-16     38-47  (153)
+ 85 4HE4_B Yellow fluorescent prot  29.0      47 0.00059   19.6   0.0   16    1-16    213-228 (244)
+ 86 4QYN_A Retinol-binding protein  28.9      48 0.00059   15.2   0.0   10    7-16     17-26  (133)
+ 87 5HZ5_A Fatty acid-binding prot  28.9      48 0.00059   15.2   0.0   10    7-16     19-28  (134)
+ 88 4KOQ_A Single-stranded DNA-bin  28.4      49 0.00061   17.7   0.0   14    1-14     43-56  (180)
+ 89 6I8X_B Fatty acid-binding prot  28.4      50 0.00061   15.8   0.0   10    7-16     26-35  (149)
+ 90 4KRT_A Autolytic lysozyme (E.C  28.1      51 0.00063   16.9   0.0    8    2-9       2-9   (353)
+ 91 4KRT_B Autolytic lysozyme (E.C  28.1      51 0.00063   16.9   0.0    8    2-9       2-9   (353)
+ 92 4QGV_A Cellular retinoic acid-  27.4      53 0.00066   15.1   0.0   10    7-16     16-25  (137)
+ 93 3AKM_D Fatty acid-binding prot  27.3      53 0.00066   14.9   0.0   10    7-16     15-24  (131)
+ 94 1O8V_A FATTY ACID BINDING PROT  27.0      54 0.00067   15.1   0.0   10    7-16     18-27  (134)
+ 95 2QO4_A Liver-basic fatty acid   26.9      55 0.00068   14.9   0.0   10    7-16     16-25  (126)
+ 96 6AT8_A Retinoid-binding protei  26.8      55 0.00068   15.2   0.0   10    7-16     17-26  (137)
+ 97 1FDQ_A HUMAN BRAIN FATTY ACID   26.7      56 0.00069   14.8   0.0   10    7-16     17-26  (131)
+ 98 2G7B_A Cellular retinoic acid-  26.7      56 0.00069   15.1   0.0   10    7-16     16-25  (137)
+ 99 1ND9_A Translation initiation   26.2      58 0.00071   15.0   0.0   11    6-16     19-29  (49)
+100 5WUA_B ATP-sensitive inward re  26.1      58 0.00071   21.1   0.0   16    1-16    618-633 (681)
+101 2LBA_A BABP protein; Ileal Bil  25.3      61 0.00076   15.1   0.0   10    7-16     20-29  (136)
+102 5XN9_A SAHS1; secretary abunda  25.1      62 0.00077   15.2   0.0   10    7-16     22-31  (138)
+103 5XN9_B SAHS1; secretary abunda  25.1      62 0.00077   15.2   0.0   10    7-16     22-31  (138)
+104 1LPJ_A Retinol-binding protein  24.5      65  0.0008   14.8   0.0   10    7-16     17-26  (133)
+105 4ANJ_A UNCONVENTIONAL MYOSIN-V  24.5      65 0.00081   21.0   0.0   16    1-16   1029-1044(1052)
+106 4A60_A FATTY ACID-BINDING PROT  24.2      66 0.00082   15.7   0.0   10    7-16     40-49  (154)
+107 1GGL_B RETINOL BINDING PROTEIN  24.2      66 0.00082   14.8   0.0   10    7-16     17-26  (134)
+108 6BTH_B Retinol-binding protein  24.1      67 0.00083   14.9   0.0   10    7-16     18-27  (138)
+109 4KOP_B Single-stranded DNA-bin  23.9      68 0.00084   17.0   0.0   13    1-13     45-57  (177)
+110 3P6D_A Fatty acid-binding prot  23.9      68 0.00084   14.9   0.0   10    7-16     25-34  (139)
+111 3P6G_A Fatty acid-binding prot  23.9      68 0.00084   14.9   0.0   10    7-16     25-34  (139)
+112 5U6G_F Retinol-binding protein  23.8      68 0.00085   14.6   0.0   10    7-16     17-26  (133)
+113 6I9F_A Fatty acid-binding prot  23.8      68 0.00085   15.7   0.0   10    7-16     32-41  (155)
+114 3RSW_A Fatty acid-binding prot  23.8      68 0.00085   15.7   0.0   10    7-16     43-52  (158)
+115 1UWM_A FERREDOXIN VI; FERREDOX  23.6      69 0.00086   14.1   0.0   10    6-15     23-32  (106)
+116 3N1I_A protein StWhy2/DNA; Sin  23.3      71 0.00088   17.0   0.0   12    2-13     46-57  (178)
+117 2Q9S_A Fatty acid-binding prot  23.1      72 0.00089   15.5   0.0   10    7-16     41-50  (155)
+118 2QM9_B Troglitazone Bound to F  23.1      72 0.00089   15.5   0.0   10    7-16     41-50  (155)
+119 3R9Z_A Why2 protein; StWhy2, s  23.0      72 0.00089   17.0   0.0   12    2-13     46-57  (178)
+120 1E9M_A FERREDOXIN VI; IRON-SUL  22.5      75 0.00093   13.9   0.0   10    6-15     23-32  (106)
+121 6E5W_C Retinol-binding protein  22.3      76 0.00094   14.9   0.0   10    7-16     18-27  (139)
+122 3NA0_D Cholesterol side-chain   22.3      76 0.00095   13.2   0.0    7    9-15      5-11  (68)
+123 1S6C_B Kv4 potassium channel-i  22.0      78 0.00097   13.7   0.0    7    9-15     11-17  (30)
+124 1IUE_B FERREDOXIN, FE2/S2 (INO  21.6      81   0.001   13.8   0.0   10    6-15     24-33  (98)
+125 6OFK_B Fluorescent protein Dro  21.4      82   0.001   18.6   0.0   15    1-15    173-187 (251)
+126 6OFL_B Fluorescent protein Dro  21.4      82   0.001   18.6   0.0   15    1-15    173-187 (251)
+127 6OFM_B Fluorescent protein Dro  21.2      83   0.001   18.6   0.0   15    1-15    173-187 (251)
+128 1FRR_B FERREDOXIN I; ELECTRON   21.1      84   0.001   13.6   0.0   10    6-15     23-32  (95)
+129 4V4W_BL Ribosome; SecM  nascen  20.7      86  0.0011   15.6   0.0    6    4-9     108-113 (114)
+130 5Y00_A Green fluorescent prote  20.6      87  0.0011   18.9   0.0   16    1-16    248-263 (271)
+131 6VJV_A Ferredoxin; Iron Sulfur  20.6      87  0.0011   13.6   0.0   10    6-15     24-33  (96)
+132 5KTG_B Green fluorescent prote  20.4      88  0.0011   18.4   0.0   16    1-16    213-228 (309)
+133 4KOO_A Single-stranded DNA-bin  20.2      90  0.0011   16.7   0.0   13    1-13     43-55  (180)
+134 4PA0_A Myosin-7,Green fluoresc  20.1      90  0.0011   20.5   0.0   16    1-16   1000-1015(1024)
+135 4PA0_B Myosin-7,Green fluoresc  20.1      91  0.0011   20.5   0.0   16    1-16   1000-1015(1024)
+
+No 1
+>6B7T_A Green fluorescent protein; Superfolder GFP, Truncated GFP, His-tag; HET: GYS; 1.91A {Aequorea victoria}
+Probab=97.29  E-value=1.8e-06  Score=49.78  Aligned_cols=16  Identities=75%  Similarity=1.109  Sum_probs=13.8  Template_Neff=4.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||||+|+++|||||
+T Consensus        23 ~~~~~~~~~~~~~~~~   38 (246)
+T 6B7T_A           23 RDHMVLHEYVNAAGIT   38 (246)
+T ss_dssp             -CEEEEEEEEEEECC-
+T ss_pred             ccceeehhHHHHhcCC
+Confidence            8999999999999986
+
+
+No 2
+>5JNQ_A Phospho-N-acetylmuramoyl-pentapeptide-transferase (E.C.2.7.8.13); Membrane protein, antibiotic, PNPT, Transferase-Antibiotic; HET: TUM, PLM, BOG; 2.6A {Clostridium bolteae 90A9}
+Probab=95.65  E-value=0.00085  Score=37.56  Aligned_cols=16  Identities=75%  Similarity=1.109  Sum_probs=0.0  Template_Neff=7.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|+||+
+T Consensus         5 ~~~~~~~~~~~~~~~~   20 (376)
+T 5JNQ_A            5 RDHMVLHEYVNAAGIT   20 (376)
+T ss_dssp             ----------------
+T ss_pred             cchhhHHHHHhhcccC
+Confidence            8999999999999985
+
+
+No 3
+>3AKO_B Venus; Venus, Fluorescent Protein, GFP; HET: PE8; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=95.50  E-value=0.0012  Score=34.47  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.5  Template_Neff=3.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_B           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998864
+
+
+No 4
+>3AKO_F Venus; Venus, Fluorescent Protein, GFP; HET: PE8, CR2; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=95.50  E-value=0.0012  Score=34.47  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.5  Template_Neff=3.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||+++|+++|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_F           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998864
+
+
+No 5
+>3O78_A Chimera protein of Peptide of; circular permutated green fluorescent protein; 2.6A {Gallus gallus, Aequorea victoria, Aequorea victoria, Homo sapiens}
+Probab=94.65  E-value=0.0052  Score=33.66  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.3  Template_Neff=8.400
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||+.|+++|.+++
+T Consensus        93 ~dh~~~~e~~~~~~~~  108 (415)
+T 3O78_A           93 RDHMVLLEFVTAAGIT  108 (415)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehHHhcce
+Confidence            8999999999998763
+
+
+No 6
+>6JGJ_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: GYS; 0.78A {Aequorea victoria}
+Probab=94.51  E-value=0.0063  Score=34.61  Aligned_cols=16  Identities=88%  Similarity=1.273  Sum_probs=14.6  Template_Neff=4.800
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|.+++
+T Consensus       212 rdh~~~~e~~~a~~~~  227 (228)
+T 6JGJ_A          212 RDHMVLLQFVTAAGIT  227 (228)
+T ss_pred             CceeeeEeeeehhccC
+Confidence            8999999999998874
+
+
+No 7
+>6DGV_A iGABASnFR; GABA binding protein, Fluorescent sensor; HET: CRO; 2.8A {Pseudomonas fluorescens}
+Probab=94.40  E-value=0.0072  Score=34.66  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=14.0  Template_Neff=8.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||+++.||+.|+||
+T Consensus       345 ~~~~~~~~~~~~~~~  359 (566)
+T 6DGV_A          345 RDHMVLLEFVTAAGI  359 (566)
+T ss_pred             HhHHHHHHHHHHHhH
+Confidence            799999999999987
+
+
+No 8
+>6OFO_A Fluorescent protein Dronpa; GFP, SPLIT FLUORESCENT PROTEIN, FLUORESCENT; HET: GYS; 2.603A {Aequorea victoria}
+Probab=94.37  E-value=0.0075  Score=35.21  Aligned_cols=16  Identities=75%  Similarity=1.109  Sum_probs=14.5  Template_Neff=4.200
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|++++
+T Consensus        34 rdh~~~~E~~~a~~~~   49 (254)
+T 6OFO_A           34 RDHMVLHEYVNAAGIT   49 (254)
+T ss_dssp             CCEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehhHHCCe
+Confidence            8999999999999764
+
+
+No 9
+>2HPW_A Green fluorescent protein, Clytia gregaria; Fluorescent protein, GFP, Structural Genomics; 1.55A {Clytia gregaria}
+Probab=94.34  E-value=0.0077  Score=34.75  Aligned_cols=16  Identities=25%  Similarity=0.619  Sum_probs=14.6  Template_Neff=4.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||+++|+++|.+++
+T Consensus       215 rdh~~~~E~~~a~~~~  230 (233)
+T 2HPW_A          215 TDHLTIVEVIKAVDLE  230 (233)
+T ss_dssp             SCEEEEEEEEEEECGG
+T ss_pred             cceeEEEEEEeeeccc
+Confidence            8999999999998874
+
+
+No 10
+>3EVR_A Myosin light chain kinase, Green; GCAMP2,calcium sensor, GFP, Calmodulin,M13, SIGNALING; 2.0A {Aequorea victoria}
+Probab=94.18  E-value=0.0093  Score=32.66  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.6  Template_Neff=8.400
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||||+.|+++|.++
+T Consensus        91 ~~~~~~~e~~~~~~~  105 (411)
+T 3EVR_A           91 RDHMVLLEFVTAAGI  105 (411)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceeEehHHHHHhCc
+Confidence            799999999998775
+
+
+No 11
+>5YR2_A Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=94.12  E-value=0.01  Score=34.68  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.3  Template_Neff=4.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_A           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEEeecccCc
+Confidence            8999999999998764
+
+
+No 12
+>5YR2_B Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=94.12  E-value=0.01  Score=34.67  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.3  Template_Neff=4.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|++.|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_B           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CccEEEEEEEehhCCc
+Confidence            8999999999998764
+
+
+No 13
+>6MKS_b Chimera protein of NLR family; NLRC4, Helical assembly, Inflammasome, PROTEIN; 3.4A {Homo sapiens}
+Probab=93.91  E-value=0.013  Score=33.25  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.6  Template_Neff=6.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|.+++
+T Consensus       317 ~d~~~~~e~~~~~~~~  332 (340)
+T 6MKS_b          317 RDHMVLLEFVTAAGIT  332 (340)
+T ss_pred             cceeeehHHHHHcCCC
+Confidence            8999999999998874
+
+
+No 14
+>6EFR_A iNicSnFR 1.0, a genetically encoded; periplasmic binding protein, green fluorescent; HET: CRO; 2.4A {Thermoanaerobacter sp. X513}
+Probab=93.77  E-value=0.014  Score=34.23  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.8  Template_Neff=7.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|.+++
+T Consensus       146 rdh~~~~e~~~~~~~~  161 (520)
+T 6EFR_A          146 RDHMVLLEFVTAAGIT  161 (520)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             cceeEEEEEeeccccc
+Confidence            8999999999997763
+
+
+No 15
+>4JRB_A Green fluorescent protein, Major allergen; Allergen, asthma, new fold, proposed; HET: PGT, D12; 2.414A {Aequorea victoria, Blattella germanica}
+Probab=93.76  E-value=0.015  Score=34.16  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.8  Template_Neff=6.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||+|++|++.|+|.
+T Consensus       216 ~dh~~~~E~~~a~g~  230 (416)
+T 4JRB_A          216 RDHMVLLEFVTAAGI  230 (416)
+T ss_dssp             SCEEEEEEEEEEESS
+T ss_pred             cccEEEEEEEecccc
+Confidence            899999999999875
+
+
+No 16
+>4IK8_A RCaMP, Green fluorescent protein; calcium indicator, mutants, fluorescent intensity; 1.55A {Entacmaea quadricolor, Aequorea victoria}
+Probab=93.56  E-value=0.017  Score=32.50  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.6  Template_Neff=7.900
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||||+.|+++|+++
+T Consensus       127 r~~~~~~e~~~~~~~  141 (448)
+T 4IK8_A          127 RDHMVLLEFVTAAGI  141 (448)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceEEEeehHHHhCc
+Confidence            899999999998775
+
+
+No 17
+>3EVP_A Green fluorescent protein; circular-permutated, EGFP, Chromophore, Luminescence, Photoprotein; 1.453A {Aequorea victoria}
+Probab=93.15  E-value=0.025  Score=32.74  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.6  Template_Neff=4.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||||+.|+++|+++
+T Consensus        71 RDHvvl~E~~~a~~v   85 (243)
+T 3EVP_A           71 RDHMVLLEFVTAAGI   85 (243)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CceEEEeeehhHhcH
+Confidence            899999999998875
+
+
+No 18
+>4ORN_A mKalama1; proton transfer, zwitterion, chromophore, FLUORESCENT; HET: CSD, GYS, MES, SO4; 1.71A {Aequorea victoria}
+Probab=93.07  E-value=0.026  Score=32.35  Aligned_cols=16  Identities=88%  Similarity=1.201  Sum_probs=14.6  Template_Neff=4.800
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (239)
+T 4ORN_A          216 RDHMVLLEFRTAAGIT  231 (239)
+T ss_dssp             SSEEEEEEEEEEESSC
+T ss_pred             cceEEEEhHHHHcCCc
+Confidence            8999999999999874
+
+
+No 19
+>3OSR_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL; 2.0A {Escherichia coli, Aequorea victoria}
+Probab=92.97  E-value=0.028  Score=32.32  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.3  Template_Neff=8.600
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||||+.|++.|.|+
+T Consensus       418 ~~~~~~~~~~~~~~~  432 (653)
+T 3OSR_A          418 RDHMVLLEFVTAAGI  432 (653)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceEEEEEehhHhcc
+Confidence            899999999988775
+
+
+No 20
+>3AI4_A yeast enhanced green fluorescent protein; UBM, Ubiquitin-binding motif, GFP, Fusion; 1.6A {Aequorea victoria, Mus musculus}
+Probab=92.97  E-value=0.028  Score=32.93  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.6  Template_Neff=4.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|+|+++|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (283)
+T 3AI4_A          216 RDHMVLLEFVTAAGIT  231 (283)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             cceEEEEeehHHcCCC
+Confidence            8999999999998874
+
+
+No 21
+>3LVC_A Green fluorescent protein; colorless GFP-like protein, chromophore biosynthesis; HET: GOL, GYS; 1.14A {Aequorea coerulescens}
+Probab=92.22  E-value=0.047  Score=31.31  Aligned_cols=16  Identities=69%  Similarity=1.055  Sum_probs=14.0  Template_Neff=4.800
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++++|+++|.+++
+T Consensus       213 rdhi~~~E~~~a~~~~  228 (236)
+T 3LVC_A          213 RDHMIYFEFVTAAAIT  228 (236)
+T ss_dssp             SSEEEEEEEEEEEEC-
+T ss_pred             cceeeEEehHHHHHhh
+Confidence            8999999999998764
+
+
+No 22
+>3OSQ_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL, SO4; 1.9A {Escherichia coli, Aequorea victoria}
+Probab=92.10  E-value=0.05  Score=32.71  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.0  Template_Neff=7.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||++.|++.++||+
+T Consensus       280 ~~~~~~~~~~~~~~~~  295 (661)
+T 3OSQ_A          280 RDHMVLLEFVTAAGIT  295 (661)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cchhHHHHHHHHccce
+Confidence            6899999999998763
+
+
+No 23
+>6R4P_A Adenylate cyclase 9, Guanine nucleotide-binding; Membrane protein, adenylyl cyclase, G; HET: GSP; 3.1A {Bos taurus}
+Probab=91.16  E-value=0.082  Score=34.38  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.6  Template_Neff=7.900
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||+.|+++|.|++
+T Consensus      1582 ~~~~~~~e~~~~~~~~ 1597 (1637)
+T 6R4P_A         1582 RDHMVLLEFVTAAGIT 1597 (1637)
+T ss_pred             cceEEEeeHHHHhCCC
+Confidence            8999999999998864
+
+
+No 24
+>6R4O_A Adenylate cyclase 9, Guanine nucleotide-binding; Adenylyl cyclase, G protein, MANT-GTP; HET: FOK, GSP, ONM; 4.2A {Bos taurus}
+Probab=89.80  E-value=0.14  Score=32.84  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.5  Template_Neff=8.200
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||||++|+++|.+++
+T Consensus      1478 ~~~~~~~~~~~~~~~~ 1493 (1533)
+T 6R4O_A         1478 RDHMVLLEFVTAAGIT 1493 (1533)
+T ss_pred             CceEeeehHHHHcCCc
+Confidence            8999999999998764
+
+
+No 25
+>5FGU_A Green fluorescent protein,Extracellular streptodornase D; beta-beta-alpha metal finger nuclease, sequence; HET: SO4, CR2, ACT, EDO; 1.896A {Aequorea victoria}
+Probab=89.31  E-value=0.17  Score=31.72  Aligned_cols=16  Identities=94%  Similarity=1.317  Sum_probs=14.4  Template_Neff=5.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||+++|+++|++++
+T Consensus       216 ~dh~~~~E~~~a~~lt  231 (565)
+T 5FGU_A          216 RDHMVLLEFVTAAGIA  231 (565)
+T ss_pred             CceEeechhHHHcCCC
+Confidence            7999999999998864
+
+
+No 26
+>6RMG_A Protein patched homolog 1, Sonic; Patched, PTCH1, Hedgehog, ShhN, MEMBRANE; HET: Y01, NAG; 3.4A {Homo sapiens}
+Probab=85.77  E-value=0.44  Score=30.76  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=0.0  Template_Neff=8.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ||||+|+|+++|.+++
+T Consensus      1416 ~~~~~~~e~~~a~~~~ 1431 (1471)
+T 6RMG_A         1416 RDHMVLLEFVTAAGIT 1431 (1471)
+T ss_dssp             ----------------
+T ss_pred             CCeEEEehHHHHhCCc
+Confidence            7999999999998864
+
+
+No 27
+>2JAD_A YELLOW FLUORESCENT PROTEIN GLUTAREDOXIN FUSION; YELLOW FLUORESCENT PROTEIN, ELECTRON TRANSPORT; HET: SO4; 2.7A {AEQUOREA VICTORIA, SACCHAROMYCES CEREVISIAE}
+Probab=83.59  E-value=0.66  Score=26.57  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.3  Template_Neff=6.900
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||+++.|++.++|+
+T Consensus       213 ~d~~i~~E~v~a~gl  227 (362)
+T 2JAD_A          213 RDHMVLLEFVTAAGI  227 (362)
+T ss_pred             cCceEEEEEeeecCC
+Confidence            689999999999876
+
+
+No 28
+>2G2S_B Green fluorescent protein; chromophore, biosynthesis, dehydroalanine, peptide hydrolysis; 1.2A {Aequorea victoria}
+Probab=56.51  E-value=8.8  Score=21.33  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.8  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       150 ~~~v~l~E~a~A~~~~  165 (173)
+T 2G2S_B          150 RDHMVLLEFVTAAGIT  165 (173)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecccc
+Confidence            5899999999998764
+
+
+No 29
+>4W6H_A fluorescent protein D190C; fluorescent protein, dimer, disulfide; HET: CRO; 1.953A {synthetic construct}
+Probab=54.41  E-value=10  Score=21.97  Aligned_cols=16  Identities=88%  Similarity=1.273  Sum_probs=13.9  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+|+
+T Consensus       213 ~~~v~l~E~a~a~~~~  228 (234)
+T 4W6H_A          213 RDHMVLLEYVTAAGIT  228 (234)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEehhccC
+Confidence            5899999999999984
+
+
+No 30
+>5YR3_A Yellow fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF6; 1.901A {Aequorea victoria}
+Probab=53.18  E-value=11  Score=21.67  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=14.0  Template_Neff=5.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       210 ~~~v~~~E~a~A~~~~  225 (225)
+T 5YR3_A          210 RDHMVLLEFVTAAGIT  225 (225)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998874
+
+
+No 31
+>4W6T_A fluorescent protein E115H/T118H; fluorescent protein; HET: EDO, CRO; 1.604A {synthetic construct}
+Probab=50.02  E-value=13  Score=21.45  Aligned_cols=16  Identities=88%  Similarity=1.273  Sum_probs=14.0  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~~~E~a~A~~~~  229 (229)
+T 4W6T_A          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998874
+
+
+No 32
+>4W76_B fluorescent protein D21H/K26C; fluorescent protein; HET: CRO; 2.35A {synthetic construct}
+Probab=48.54  E-value=14  Score=21.30  Aligned_cols=16  Identities=88%  Similarity=1.273  Sum_probs=13.6  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (229)
+T 4W76_B          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998874
+
+
+No 33
+>4XGY_A Green fluorescent protein, mAb LCDR3; Fluorobody, GFP, CDR3, FLUORESCENT PROTEIN; HET: PE5, CRO; 1.494A {Aequorea victoria}
+Probab=47.49  E-value=15  Score=22.46  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.9  Template_Neff=4.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|++.|++++
+T Consensus       233 ~~~v~l~E~a~A~~~~  248 (303)
+T 4XGY_A          233 RDHMVLLEFVTAAGIT  248 (303)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CceEEEEEEEehhccc
+Confidence            5899999999998864
+
+
+No 34
+>5NI3_B Green fluorescent protein; GFP, super folder, click chemistry; HET: NA, DB5, CRO, GOL; 1.28A {Aequorea victoria}
+Probab=45.54  E-value=17  Score=20.99  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.9  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       211 ~~~v~l~E~a~A~~~~  226 (229)
+T 5NI3_B          211 RDHMVLLEFVTAAGIT  226 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEcccCc
+Confidence            5899999999998864
+
+
+No 35
+>6JGI_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: CRO; 0.85A {Aequorea victoria}
+Probab=44.56  E-value=18  Score=20.88  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.9  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (228)
+T 6JGI_A          212 RDHMVLLEFVTAAGIT  227 (228)
+T ss_pred             CceEEEEEEEEEeccC
+Confidence            5899999999998864
+
+
+No 36
+>5Z6Y_A Green fluorescent protein; chromophore linkage electron transfer, FLUORESCENT; HET: BF6; 1.87A {Aequorea victoria}
+Probab=44.36  E-value=19  Score=20.82  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.8  Template_Neff=5.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|+|.+.|.+++
+T Consensus       213 ~~~v~~~E~a~A~~~~  228 (229)
+T 5Z6Y_A          213 RDHMVLLEFVTAAGIT  228 (229)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEEEEcccC
+Confidence            5899999999998864
+
+
+No 37
+>6KL1_A Green fluorescent protein; green fluorescent protein, visualization of; HET: DOD, CRO; 0.851A {Aequorea victoria}
+Probab=44.34  E-value=19  Score=20.87  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.9  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (229)
+T 6KL1_A          212 RDHMVLLEFVTAAGIT  227 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEeccCc
+Confidence            5899999999998864
+
+
+No 38
+>3VHT_B Green fluorescent protein, Green fluorescent; GREEN FLUORESCENT PROTEIN, FUSION PROTEIN; HET: CR2; 2.4A {Mus musculus}
+Probab=44.24  E-value=19  Score=21.15  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.4  Template_Neff=5.300
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|++++
+T Consensus       216 ~~~v~~~E~a~A~g~~  231 (271)
+T 3VHT_B          216 RDHMVLLEFVTAAGIT  231 (271)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEeccCCC
+Confidence            5899999999998863
+
+
+No 39
+>4Z4M_A GFP-TAX1BP1 UBZ2 domain fusion protein; GFP, TAX1BP1, UBZ, Zinc-finger, Flurorescent; HET: CR2; 2.15A {Aequorea victoria}
+Probab=42.86  E-value=20  Score=21.24  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.3  Template_Neff=4.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ++|++|.|.+.|.+++
+T Consensus       216 ~~~v~l~E~a~A~~~~  231 (260)
+T 4Z4M_A          216 RDHMVLLEFVTAAGIT  231 (260)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEEEeCCC
+Confidence            5799999999998864
+
+
+No 40
+>5OXC_A Green fluorescent protein; Fluorescent protein, tryptophan-based chromophore, Cerulean; HET: B2H; 1.02A {Vaccinia virus}
+Probab=38.95  E-value=26  Score=20.48  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.7  Template_Neff=4.900
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (237)
+T 5OXC_A          214 RDHMVLLEFVTAAGIT  229 (237)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998764
+
+
+No 41
+>1MDC_A FATTY ACID BINDING PROTEIN (MANDUCA; BINDING PROTEIN; HET: PLM; 1.75A {Manduca sexta} SCOP: b.60.1.2
+Probab=38.69  E-value=26  Score=15.99  Aligned_cols=11  Identities=27%  Similarity=0.588  Sum_probs=7.5  Template_Neff=9.300
+
+Q SEQUENCE92        6 LLEFVTAAGIP   16 (16)
+Q Consensus         6 llefvtaagip   16 (16)
+                      +.||++|.|+|
+T Consensus        16 ~defl~a~G~~   26 (132)
+T 1MDC_A           16 FDGFLKSAGLS   26 (132)
+T ss_dssp             HHHHHHTTTCC
+T ss_pred             HHHHHHHcCCC
+Confidence            35777877765
+
+
+No 42
+>4A1Y_D MYELIN P2 PROTEIN; TRANSPORT; HET: PLM; 1.2A {HOMO SAPIENS}
+Probab=38.37  E-value=27  Score=16.05  Aligned_cols=10  Identities=20%  Similarity=0.494  Sum_probs=7.0  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 ~efl~a~G~~   28 (133)
+T 4A1Y_D           19 DDYMKALGVG   28 (133)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4777777764
+
+
+No 43
+>2N93_A Fatty acid-binding protein; LIPID BINDING PROTEIN; NMR {Luciola cerata}
+Probab=38.33  E-value=27  Score=16.06  Aligned_cols=10  Identities=40%  Similarity=0.893  Sum_probs=6.7  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (130)
+T 2N93_A           17 EEYLAALGVP   26 (130)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 44
+>4RYS_A NowGFP; Fluorescent protein, NowGFP, TWG chromophore; HET: GOL, CRF; 1.18A {CFP MARKER PLASMID PWM1009}
+Probab=37.15  E-value=29  Score=20.39  Aligned_cols=16  Identities=100%  Similarity=1.468  Sum_probs=13.7  Template_Neff=4.800
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||+.|.|.+.|.+++
+T Consensus       225 ~~~v~l~E~a~A~~~~  240 (241)
+T 4RYS_A          225 RDHMVLLEFVTAAGIP  240 (241)
+T ss_dssp             SSEEEEEEEEEEECSC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 45
+>4I3B_A Fatty acid binding protein-like; Fluorescent protein, Bilirubin binding protein; HET: BLR, PEG; 1.199A {Anguilla japonica}
+Probab=36.91  E-value=29  Score=16.11  Aligned_cols=10  Identities=40%  Similarity=0.707  Sum_probs=7.2  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        18 defl~a~Gv~   27 (139)
+T 4I3B_A           18 GEYLKAIGAP   27 (139)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 46
+>4I3B_D Fatty acid binding protein-like; Fluorescent protein, Bilirubin binding protein; HET: PEG, BLR; 1.199A {Anguilla japonica}
+Probab=36.91  E-value=29  Score=16.11  Aligned_cols=10  Identities=40%  Similarity=0.707  Sum_probs=7.2  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        18 defl~a~Gv~   27 (139)
+T 4I3B_D           18 GEYLKAIGAP   27 (139)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 47
+>2A0A_A Der f 13; Beta Barrel, Helix, ALLERGEN; NMR {Dermatophagoides farinae} SCOP: b.60.1.2
+Probab=36.88  E-value=29  Score=15.88  Aligned_cols=10  Identities=30%  Similarity=0.497  Sum_probs=6.9  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      -||++|.|+|
+T Consensus        17 defl~~~g~~   26 (131)
+T 2A0A_A           17 DEFLDKLGVG   26 (131)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4777777764
+
+
+No 48
+>6MB2_a Interferon-inducible protein AIM2, Green fluorescent; Filament, higher order, innate immunity; HET: MSE, CRO; 5.0A {Homo sapiens}
+Probab=36.08  E-value=30  Score=19.94  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.0  Template_Neff=5.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       212 ~~~v~l~E~a~a~~~  226 (226)
+T 6MB2_a          212 RDHMVLLEFVTAAGI  226 (226)
+T ss_pred             CcEEEEEEEEEccCC
+Confidence            589999999999874
+
+
+No 49
+>1FTP_B FATTY-ACID-BINDING PROTEIN; BINDING PROTEIN(FATTY ACID); 2.2A {Schistocerca gregaria} SCOP: b.60.1.2
+Probab=36.06  E-value=31  Score=15.85  Aligned_cols=10  Identities=30%  Similarity=0.577  Sum_probs=7.1  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 defl~a~G~~   27 (133)
+T 1FTP_B           18 EEYMKAIGVG   27 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777877765
+
+
+No 50
+>4XBI_A N domain of ClpB1 form; CLP Chaperone, AAA+ ATPase, Refoldase; HET: CRO, SO4; 2.013A {Plasmodium falciparum (isolate 3D7)}
+Probab=35.98  E-value=31  Score=19.66  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.7  Template_Neff=7.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       362 ~~~~~~~e~~~a~~~~  377 (381)
+T 4XBI_A          362 RDHMVLLEFVTAAGIT  377 (381)
+T ss_pred             CCEEEEEEEEEEeCCc
+Confidence            5899999999998764
+
+
+No 51
+>4NDJ_A E23-YFP; helix-turn-helix, fluorescent protein, de novo; HET: CR2; 1.85A {Aequorea victoria}
+Probab=35.91  E-value=31  Score=19.33  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=12.9  Template_Neff=7.200
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      +||++|.|.+.|.++
+T Consensus       266 ~~~~~~~E~~~a~~~  280 (297)
+T 4NDJ_A          266 RDHMVLLEFVTAAGI  280 (297)
+T ss_pred             CCEEEEEEEEEEeeC
+Confidence            589999999999765
+
+
+No 52
+>3WVM_A Fatty acid-binding protein, heart; antiparallel beta barrel, LIPID BINDING; HET: P6G, STE; 0.88A {Homo sapiens}
+Probab=35.57  E-value=31  Score=15.81  Aligned_cols=10  Identities=10%  Similarity=0.451  Sum_probs=7.0  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 ~efL~a~Gv~   27 (133)
+T 3WVM_A           18 DDYMKSLGVG   27 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 53
+>4TKB_A human heart fatty acid-binding protein; human, fatty acid-binding protein, antiparallel; HET: P6G, DAO; 0.86A {Homo sapiens}
+Probab=35.57  E-value=31  Score=15.81  Aligned_cols=10  Identities=10%  Similarity=0.451  Sum_probs=7.0  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 ~efL~a~Gv~   27 (133)
+T 4TKB_A           18 DDYMKSLGVG   27 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 54
+>4TKH_A human heart fatty acid binding; antiparallel beta barrel, fatty acid-binding; HET: MYR, P6G; 0.93A {Homo sapiens}
+Probab=35.57  E-value=31  Score=15.81  Aligned_cols=10  Identities=10%  Similarity=0.451  Sum_probs=7.0  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 ~efL~a~Gv~   27 (133)
+T 4TKH_A           18 DDYMKSLGVG   27 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 55
+>5J3N_A Green fluorescent protein,HsdR; HsdR, EcoR124I, type I restriction-modification; HET: GYS; 2.45A {Aequorea victoria}
+Probab=35.46  E-value=32  Score=21.01  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.8  Template_Neff=5.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ++|++|.|.+.|.+++
+T Consensus       219 ~~~v~~~E~a~A~~~~  234 (396)
+T 5J3N_A          219 RDHMVLLEFVTAAGIT  234 (396)
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 56
+>5L8I_A Gastrotropin; FABP6, Fatty acid binding protein; HET: PG4, P33, PGE; 1.88A {Homo sapiens}
+Probab=35.28  E-value=32  Score=15.75  Aligned_cols=10  Identities=40%  Similarity=0.564  Sum_probs=6.5  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        16 defl~a~G~~   25 (128)
+T 5L8I_A           16 DEFMKLLGIS   25 (128)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777654
+
+
+No 57
+>1YFP_B YELLOW FLUORESCENT PROTEIN; LUMINESCENCE, GREEN FLUORESCENT PROTEIN, YELLOW-EMISSION; HET: CRO; 2.5A {Aequorea victoria} SCOP: d.22.1.1
+Probab=34.80  E-value=33  Score=19.80  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=13.0  Template_Neff=5.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      |||++|.|.+.|.++
+T Consensus       211 ~~~v~l~E~a~A~~~  225 (225)
+T 1YFP_B          211 RDHMVLLEFVTAAGI  225 (225)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CcEEEEEEEEEecCC
+Confidence            589999999999874
+
+
+No 58
+>1DC9_A V60N MUTANT OF INTESTINAL FATTY; FATTY ACID BINDING PROTEIN, INTRACELLULAR; 2.1A {Rattus norvegicus} SCOP: b.60.1.2
+Probab=34.66  E-value=33  Score=15.69  Aligned_cols=10  Identities=30%  Similarity=0.517  Sum_probs=7.2  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        15 defl~a~Gv~   24 (131)
+T 1DC9_A           15 EKFMEKMGIN   24 (131)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5778887765
+
+
+No 59
+>1TOW_A Fatty acid-binding protein, adipocyte; Transport, Lipid-binding, LIPID TRANSPORT; HET: CRZ; 2.0A {Homo sapiens} SCOP: b.60.1.2
+Probab=34.51  E-value=34  Score=15.53  Aligned_cols=10  Identities=10%  Similarity=0.458  Sum_probs=6.9  Template_Neff=9.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~Gv~   26 (131)
+T 1TOW_A           17 DDYMKEVGVG   26 (131)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 60
+>5HZ8_A Fatty acid-binding protein, adipocyte; LIPID BINDING PROTEIN, FATTY ACID; HET: DMS, 65Z; 1.12A {Homo sapiens}
+Probab=34.49  E-value=34  Score=15.68  Aligned_cols=10  Identities=10%  Similarity=0.414  Sum_probs=6.8  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        21 ~efl~~~g~~   30 (135)
+T 5HZ8_A           21 DDYMKELGVG   30 (135)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5677777764
+
+
+No 61
+>4EN1_A Green fluorescent protein; GFP-like beta-barrel, FLUORESCENT PROTEIN; HET: GOL, PEG, SWG; 1.62A {Aequorea victoria}
+Probab=34.24  E-value=34  Score=20.44  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.6  Template_Neff=4.600
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       232 ~~~v~l~E~a~A~~~~  247 (264)
+T 4EN1_A          232 RDHMVLLEFVTAAGIT  247 (264)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEEecccc
+Confidence            5899999999998763
+
+
+No 62
+>3ELX_A Ileal bile acid-binding protein; ileal bile acid-bindign protein, zebrafish; 1.6A {Danio rerio}
+Probab=34.10  E-value=34  Score=16.13  Aligned_cols=10  Identities=40%  Similarity=0.667  Sum_probs=7.0  Template_Neff=8.700
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 defl~a~Gv~   28 (138)
+T 3ELX_A           19 EPFCKLIGIP   28 (138)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHhCCC
+Confidence            5777777764
+
+
+No 63
+>3ELZ_B Ileal bile acid-binding protein; Ileal bile acid-binding protein, zebrafish; HET: CHD; 2.2A {Danio rerio}
+Probab=34.10  E-value=34  Score=16.13  Aligned_cols=10  Identities=40%  Similarity=0.667  Sum_probs=7.0  Template_Neff=8.700
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 defl~a~Gv~   28 (138)
+T 3ELZ_B           19 EPFCKLIGIP   28 (138)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHhCCC
+Confidence            5777777764
+
+
+No 64
+>1IFC_A INTESTINAL FATTY ACID BINDING PROTEIN; LIPID-BINDING PROTEIN; 1.19A {Rattus norvegicus} SCOP: b.60.1.2
+Probab=33.69  E-value=35  Score=15.69  Aligned_cols=10  Identities=30%  Similarity=0.517  Sum_probs=7.0  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        16 ~efl~~~Gv~   25 (132)
+T 1IFC_A           16 EKFMEKMGIN   25 (132)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777765
+
+
+No 65
+>6S2M_A Myelin P2 protein; FABP, beta barrel, deuteration, fatty; HET: VCA, CSO, PLM; 0.72A {Homo sapiens}
+Probab=33.34  E-value=36  Score=15.61  Aligned_cols=11  Identities=18%  Similarity=0.510  Sum_probs=7.2  Template_Neff=9.200
+
+Q SEQUENCE92        6 LLEFVTAAGIP   16 (16)
+Q Consensus         6 llefvtaagip   16 (16)
+                      +.||++|.|+|
+T Consensus        18 ~~efl~a~G~~   28 (133)
+T 6S2M_A           18 FDDYMKALGVG   28 (133)
+T ss_dssp             HHHHHHHTTCC
+T ss_pred             HHHHHHHcCCC
+Confidence            35777777754
+
+
+No 66
+>3VG7_A Fatty acid-binding protein, liver; LFABP, S-SAD, Copper Kalpha, Palmitic; HET: PLM; 1.44A {Homo Sapiens}
+Probab=33.23  E-value=36  Score=15.65  Aligned_cols=10  Identities=40%  Similarity=0.816  Sum_probs=6.8  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 defL~a~G~~   28 (132)
+T 3VG7_A           19 EAFMKAIGLP   28 (132)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777754
+
+
+No 67
+>1VYF_A 14 KDA FATTY ACID BINDING; FATTY ACID BINDING PROTEIN, TRANSPORT; HET: OLA; 1.85A {SCHISTOSOMA MANSONI} SCOP: b.60.1.2
+Probab=32.67  E-value=38  Score=15.52  Aligned_cols=10  Identities=10%  Similarity=0.258  Sum_probs=6.9  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 defl~a~Gv~   28 (135)
+T 1VYF_A           19 DAVMSKLGVS   28 (135)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4677777765
+
+
+No 68
+>4XOV_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.2A {Aequorea victoria}
+Probab=32.46  E-value=38  Score=20.35  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.7  Template_Neff=4.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOV_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998764
+
+
+No 69
+>4XOW_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.25A {Aequorea victoria}
+Probab=32.46  E-value=38  Score=20.35  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.7  Template_Neff=4.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.+.|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOW_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998764
+
+
+No 70
+>2L68_A Fatty acid-binding protein, liver; lipid binding protein, fatty acid; NMR {Homo sapiens}
+Probab=32.42  E-value=38  Score=15.46  Aligned_cols=10  Identities=40%  Similarity=0.816  Sum_probs=6.6  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        15 defl~a~Gv~   24 (126)
+T 2L68_A           15 EAFMKAIGLP   24 (126)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777754
+
+
+No 71
+>1TW4_B Fatty acid-binding protein; Lb-FABP, FABP, BABP, INTRACELLULAR BILE; HET: CHD; 2.0A {Gallus gallus} SCOP: b.60.1.2
+Probab=31.90  E-value=39  Score=15.25  Aligned_cols=10  Identities=40%  Similarity=0.727  Sum_probs=6.7  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        15 defl~a~G~~   24 (125)
+T 1TW4_B           15 EEFLKALALP   24 (125)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777754
+
+
+No 72
+>5BVT_A Epidermal fatty acid-binding protein; Fatty acid-binding protein, beta-barrel protein; HET: PAM; 2.31A {Pygoscelis papua}
+Probab=31.18  E-value=41  Score=15.37  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.8  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        19 ~efl~a~gv~   28 (134)
+T 5BVT_A           19 DEYMKELGVG   28 (134)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5677777765
+
+
+No 73
+>5UR9_F Fatty acid-binding protein, epidermal; inhibitor, LIPID BINDING PROTEIN-INHIBITOR complex; HET: MYR, 1PE, SO4, 8KS; 2.19800343737A {Homo sapiens}
+Probab=30.95  E-value=42  Score=15.42  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.6  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        23 ~e~l~a~Gv~   32 (138)
+T 5UR9_F           23 DEYMKELGVG   32 (138)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4677777764
+
+
+No 74
+>5HA1_A Retinol-binding protein 1; retinylamine, retinol, binding protein, RETINOL-BINDING; HET: RNE; 1.35A {Homo sapiens}
+Probab=30.56  E-value=43  Score=16.18  Aligned_cols=10  Identities=20%  Similarity=0.368  Sum_probs=7.1  Template_Neff=8.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~Gv~   26 (140)
+T 5HA1_A           17 EEYLRALDVN   26 (140)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            5777777765
+
+
+No 75
+>5HBS_A Retinol-binding protein 1; vitamin A, retinol, binding protein; HET: RTL; 0.89A {Homo sapiens}
+Probab=30.56  E-value=43  Score=16.18  Aligned_cols=10  Identities=20%  Similarity=0.368  Sum_probs=7.1  Template_Neff=8.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~Gv~   26 (140)
+T 5HBS_A           17 EEYLRALDVN   26 (140)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            5777777765
+
+
+No 76
+>4LKP_A Fatty acid-binding protein, epidermal; Beta Barrel, Beta Clam, Fatty; 1.67A {Homo sapiens}
+Probab=30.25  E-value=44  Score=15.50  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.7  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        23 d~~l~a~Gv~   32 (138)
+T 4LKP_A           23 DEYMKELGVG   32 (138)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 77
+>5URA_D Fatty acid-binding protein, brain; inhibitor, LIPID BINDING PROTEIN-INHIBITOR complex; HET: SO4, 8KS; 1.85002167328A {Homo sapiens}
+Probab=29.68  E-value=46  Score=15.25  Aligned_cols=10  Identities=30%  Similarity=0.524  Sum_probs=6.6  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        21 defl~~~Gv~   30 (135)
+T 5URA_D           21 DEYMKALGVG   30 (135)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777754
+
+
+No 78
+>5GGE_A Fatty acid bindin protein, isoform; Fatty Acid Binding Protein, LIPID; HET: CIT; 1.861A {Drosophila melanogaster}
+Probab=29.59  E-value=46  Score=15.07  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.7  Template_Neff=9.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (130)
+T 5GGE_A           17 DEYMKELGVG   26 (130)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 79
+>5GKB_A Fatty acid bindin protein, isoform; Fatty Acid Binding Protein, LIPID; 2.04A {Drosophila melanogaster}
+Probab=29.59  E-value=46  Score=15.07  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.7  Template_Neff=9.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (130)
+T 5GKB_A           17 DEYMKELGVG   26 (130)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 80
+>3PPT_A Sodium-calcium exchanger; Fatty acid transporter, lipid binding; HET: PAM; 1.28A {Loligo pealei}
+Probab=29.58  E-value=46  Score=15.41  Aligned_cols=10  Identities=20%  Similarity=0.537  Sum_probs=6.8  Template_Neff=9.000
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 d~fl~a~Gv~   26 (133)
+T 3PPT_A           17 DDYMKAVGVG   26 (133)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777765
+
+
+No 81
+>1EAL_A ILEAL LIPID BINDING PROTEIN; INTRACELLULAR LIPID BINDING PROTEIN, BILE; NMR {Sus scrofa} SCOP: b.60.1.2
+Probab=29.25  E-value=47  Score=15.26  Aligned_cols=10  Identities=30%  Similarity=0.580  Sum_probs=6.7  Template_Neff=9.000
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        15 d~fl~a~G~~   24 (127)
+T 1EAL_A           15 DEFMKRLALP   24 (127)
+T ss_dssp             THHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 82
+>5Z4G_B SAHS4; tardigrade, UNKNOWN FUNCTION; HET: PGE, PG4; 1.5A {Ramazzottius varieornatus}
+Probab=29.19  E-value=47  Score=16.60  Aligned_cols=10  Identities=60%  Similarity=0.816  Sum_probs=6.8  Template_Neff=7.900
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        39 defL~a~Gv~   48 (161)
+T 5Z4G_B           39 EAFVKAANIP   48 (161)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5677777765
+
+
+No 83
+>5Z4G_A SAHS4; tardigrade, UNKNOWN FUNCTION; HET: PG4, PGE; 1.5A {Ramazzottius varieornatus}
+Probab=29.19  E-value=47  Score=16.60  Aligned_cols=10  Identities=60%  Similarity=0.816  Sum_probs=6.8  Template_Neff=7.900
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        39 defL~a~Gv~   48 (161)
+T 5Z4G_A           39 EAFVKAANIP   48 (161)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5677777765
+
+
+No 84
+>3WBG_D Fatty acid-binding protein, heart; beta barrel, LIPID BINDING PROTEIN; HET: 2AN; 2.15A {Homo sapiens}
+Probab=29.15  E-value=47  Score=16.07  Aligned_cols=10  Identities=10%  Similarity=0.451  Sum_probs=6.1  Template_Neff=8.500
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        38 defL~a~Gv~   47 (153)
+T 3WBG_D           38 DDYMKSLGVG   47 (153)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4666666654
+
+
+No 85
+>4HE4_B Yellow fluorescent protein; phiYFP, yellow fluorescent protein, mutant; HET: CRO; 2.05A {Phialidium sp. SL-2003}
+Probab=29.05  E-value=47  Score=19.55  Aligned_cols=16  Identities=44%  Similarity=0.439  Sum_probs=13.5  Template_Neff=4.800
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||+.|.|.+.|.+++
+T Consensus       213 k~~v~l~E~a~A~~~~  228 (244)
+T 4HE4_B          213 RDNMSLKETVRAVDCR  228 (244)
+T ss_dssp             SCEEEEEEEEEEECHH
+T ss_pred             CceEEEEEEEEEeeCc
+Confidence            5799999999998764
+
+
+No 86
+>4QYN_A Retinol-binding protein 2; beta barrel, transfer protein, kidney; HET: RTL; 1.19A {Homo sapiens}
+Probab=28.89  E-value=48  Score=15.21  Aligned_cols=10  Identities=20%  Similarity=0.262  Sum_probs=6.9  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (133)
+T 4QYN_A           17 EGYMKALDID   26 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            5777777764
+
+
+No 87
+>5HZ5_A Fatty acid-binding protein, epidermal; LIPID BINDING PROTEIN, FATTY ACID; HET: 65X; 1.4A {Homo sapiens}
+Probab=28.86  E-value=48  Score=15.15  Aligned_cols=10  Identities=20%  Similarity=0.444  Sum_probs=6.3  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        19 ~~fl~~~Gv~   28 (134)
+T 5HZ5_A           19 DEYMKELGVG   28 (134)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4667776654
+
+
+No 88
+>4KOQ_A Single-stranded DNA-binding protein WHY3, chloroplastic; Plant, Whirly, SINGLE-STRANDED DNA BINDING; HET: PO4; 1.85A {Arabidopsis thaliana}
+Probab=28.45  E-value=49  Score=17.71  Aligned_cols=14  Identities=43%  Similarity=0.850  Sum_probs=8.6  Template_Neff=6.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAG   14 (16)
+Q Consensus         1 rdhmvllefvtaag   14 (16)
+                      |+..++.|+..+.|
+T Consensus        43 r~G~i~lefap~~g   56 (180)
+T 4KOQ_A           43 KEGFLLLQFAPAAG   56 (180)
+T ss_dssp             ECCEEEEEEEEEEE
+T ss_pred             eCcEEEEEEEecCC
+Confidence            45567777776543
+
+
+No 89
+>6I8X_B Fatty acid-binding protein homolog; Extracellular, nematodes, fatty acid binding; HET: EDO, VCA, TAM; 2.3A {Ascaris suum}
+Probab=28.41  E-value=50  Score=15.79  Aligned_cols=10  Identities=30%  Similarity=0.424  Sum_probs=6.5  Template_Neff=8.700
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        26 defl~a~Gv~   35 (149)
+T 6I8X_B           26 DEYLKARGYG   35 (149)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4677777664
+
+
+No 90
+>4KRT_A Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: ACT, MLA, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=28.07  E-value=51  Score=16.88  Aligned_cols=8  Identities=25%  Similarity=0.281  Sum_probs=1.3  Template_Neff=10.200
+
+Q SEQUENCE92        2 DHMVLLEF    9 (16)
+Q Consensus         2 dhmvllef    9 (16)
+                      .|||++-+
+T Consensus         2 ~~~~~~~~    9 (353)
+T 4KRT_A            2 NHKVHHHH    9 (353)
+T ss_dssp             -----CCC
+T ss_pred             CcccccCh
+Confidence            35555443
+
+
+No 91
+>4KRT_B Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: MLA, ACT, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=28.07  E-value=51  Score=16.88  Aligned_cols=8  Identities=25%  Similarity=0.281  Sum_probs=0.0  Template_Neff=10.200
+
+Q SEQUENCE92        2 DHMVLLEF    9 (16)
+Q Consensus         2 dhmvllef    9 (16)
+                      .|||++-+
+T Consensus         2 ~~~~~~~~    9 (353)
+T 4KRT_B            2 NHKVHHHH    9 (353)
+T ss_dssp             --------
+T ss_pred             CcccccCh
+Confidence            35555443
+
+
+No 92
+>4QGV_A Cellular retinoic acid-binding protein 2; Protein Engineering, Protein Fluorescence Merocyanine; HET: LMC; 1.73A {Homo sapiens}
+Probab=27.42  E-value=53  Score=15.14  Aligned_cols=10  Identities=20%  Similarity=0.414  Sum_probs=6.7  Template_Neff=9.200
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        16 d~fl~a~Gv~   25 (137)
+T 4QGV_A           16 EELLKVLGVN   25 (137)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777764
+
+
+No 93
+>3AKM_D Fatty acid-binding protein, intestinal; beta barrel, ligand complex, fatty; HET: 11D; 1.9A {Homo sapiens}
+Probab=27.27  E-value=53  Score=14.95  Aligned_cols=10  Identities=20%  Similarity=0.448  Sum_probs=6.9  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        15 defl~~~G~~   24 (131)
+T 3AKM_D           15 DKFMEKMGVN   24 (131)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            5777777764
+
+
+No 94
+>1O8V_A FATTY ACID BINDING PROTEIN HOMOLOG; LIPID BINDING PROTEIN, FATTY-ACID-BINDING PROTEIN; HET: PLM; 1.6A {ECHINOCOCCUS GRANULOSUS} SCOP: b.60.1.2
+Probab=27.02  E-value=54  Score=15.11  Aligned_cols=10  Identities=10%  Similarity=0.232  Sum_probs=6.6  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 defl~a~Gv~   27 (134)
+T 1O8V_A           18 DKIMERLGVD   27 (134)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777754
+
+
+No 95
+>2QO4_A Liver-basic fatty acid binding protein; liver bile acid-binding protein, BABP; HET: IPA, CHD; 1.5A {Danio rerio}
+Probab=26.86  E-value=55  Score=14.94  Aligned_cols=10  Identities=40%  Similarity=0.727  Sum_probs=6.7  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        16 defl~a~G~~   25 (126)
+T 2QO4_A           16 EEFLRAISLP   25 (126)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4677777754
+
+
+No 96
+>6AT8_A Retinoid-binding protein 7; Retinol, Lipid transport, LIPID BINDING; HET: GOL, PEG; 1.105A {Homo sapiens}
+Probab=26.77  E-value=55  Score=15.21  Aligned_cols=10  Identities=30%  Similarity=0.431  Sum_probs=6.9  Template_Neff=9.000
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (137)
+T 6AT8_A           17 EGYMLALGID   26 (137)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4777777764
+
+
+No 97
+>1FDQ_A HUMAN BRAIN FATTY ACID BINDING; OMEGA-3, N-3, LONG CHAIN POLY; HET: HXA; 2.1A {Homo sapiens} SCOP: b.60.1.2
+Probab=26.70  E-value=56  Score=14.82  Aligned_cols=10  Identities=30%  Similarity=0.524  Sum_probs=6.5  Template_Neff=9.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        17 ~~fL~~~g~~   26 (131)
+T 1FDQ_A           17 DEYMKALGVG   26 (131)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677777654
+
+
+No 98
+>2G7B_A Cellular retinoic acid-binding protein 2; CRABPII, Retinoic Acid, Retinoids, Beta; HET: AZE; 1.18A {Homo sapiens}
+Probab=26.67  E-value=56  Score=15.14  Aligned_cols=10  Identities=20%  Similarity=0.414  Sum_probs=6.8  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        16 defl~a~G~~   25 (137)
+T 2G7B_A           16 EELLKVLGVN   25 (137)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4777777764
+
+
+No 99
+>1ND9_A Translation initiation factor IF-2; IF2, translation, initiation factor; NMR {Escherichia coli} SCOP: a.6.1.6
+Probab=26.18  E-value=58  Score=14.98  Aligned_cols=11  Identities=36%  Similarity=0.528  Sum_probs=5.6  Template_Neff=4.900
+
+Q SEQUENCE92        6 LLEFVTAAGIP   16 (16)
+Q Consensus         6 llefvtaagip   16 (16)
+                      |.|-.++|||+
+T Consensus        19 Ll~Ql~~AGi~   29 (49)
+T 1ND9_A           19 LVQQFADAGIR   29 (49)
+T ss_dssp             HHHHHHHHTSC
+T ss_pred             HHHHHHHcCCC
+Confidence            34445556663
+
+
+No 100
+>5WUA_B ATP-sensitive inward rectifier potassium channel; KATP, channel, ABC transporter, Kir; 5.6A {Mus musculus}
+Probab=26.15  E-value=58  Score=21.08  Aligned_cols=16  Identities=75%  Similarity=1.109  Sum_probs=0.0  Template_Neff=6.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||++|.|.++|.||+
+T Consensus       618 ~~~v~~~E~~~a~~~~  633 (681)
+T 5WUA_B          618 RDHMVLHEYVNAAGIT  633 (681)
+T ss_dssp             ----------------
+T ss_pred             CCEEEEEEEEEEeccC
+Confidence            4899999999999984
+
+
+No 101
+>2LBA_A BABP protein; Ileal Bile Acid Binding Protein; HET: CHO; NMR {Gallus gallus}
+Probab=25.29  E-value=61  Score=15.11  Aligned_cols=10  Identities=40%  Similarity=0.833  Sum_probs=6.6  Template_Neff=8.900
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        20 defL~a~Gv~   29 (136)
+T 2LBA_A           20 DDFVKKIGLP   29 (136)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4677777754
+
+
+No 102
+>5XN9_A SAHS1; secretary abundant heat soluble protein; HET: EDO, ACY; 1.449A {Ramazzottius varieornatus}
+Probab=25.11  E-value=62  Score=15.20  Aligned_cols=10  Identities=40%  Similarity=0.860  Sum_probs=6.7  Template_Neff=8.800
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        22 defl~a~Gv~   31 (138)
+T 5XN9_A           22 DAFISALGLP   31 (138)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4677777764
+
+
+No 103
+>5XN9_B SAHS1; secretary abundant heat soluble protein; HET: ACY, EDO; 1.449A {Ramazzottius varieornatus}
+Probab=25.11  E-value=62  Score=15.20  Aligned_cols=10  Identities=40%  Similarity=0.860  Sum_probs=6.7  Template_Neff=8.800
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        22 defl~a~Gv~   31 (138)
+T 5XN9_B           22 DAFISALGLP   31 (138)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4677777764
+
+
+No 104
+>1LPJ_A Retinol-binding protein IV, cellular; cellular retinol-binding protein, cRBP, retinol; 2.0A {Homo sapiens} SCOP: b.60.1.2
+Probab=24.55  E-value=65  Score=14.85  Aligned_cols=10  Identities=30%  Similarity=0.431  Sum_probs=6.9  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 de~l~~~G~~   26 (133)
+T 1LPJ_A           17 EGYMLALGID   26 (133)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4777777764
+
+
+No 105
+>4ANJ_A UNCONVENTIONAL MYOSIN-VI, GREEN FLUORESCENT PROTEIN; MOTOR PROTEIN-METAL-BINDNG PROTEIN COMPLEX, MOLECULAR; HET: ADP; 2.6A {SUS SCROFA, AEQUOREA VICTORIA}
+Probab=24.46  E-value=65  Score=20.96  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=12.7  Template_Neff=7.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      +||+++.|.+.|.+++
+T Consensus      1029 ~~~~~~~e~~~a~~~~ 1044 (1052)
+T 4ANJ_A         1029 RDHMVLLEFVTAAGIT 1044 (1052)
+T ss_dssp             SSEEEEEEEEEEEC--
+T ss_pred             cCEEEEEEEEEEcCch
+Confidence            5899999999998764
+
+
+No 106
+>4A60_A FATTY ACID-BINDING PROTEIN 9 TESTIS; TRANSPORT PROTEIN; HET: EDO; 1.53A {HOMO SAPIENS}
+Probab=24.25  E-value=66  Score=15.71  Aligned_cols=10  Identities=10%  Similarity=0.478  Sum_probs=6.1  Template_Neff=8.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        40 defL~a~G~~   49 (154)
+T 4A60_A           40 EDYMKELGVN   49 (154)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHhCCC
+Confidence            4666666654
+
+
+No 107
+>1GGL_B RETINOL BINDING PROTEIN III; CARRIER, RETINOL BINDING PROTEIN, TRANSPORT; 2.31A {Homo sapiens} SCOP: b.60.1.2
+Probab=24.25  E-value=66  Score=14.84  Aligned_cols=10  Identities=20%  Similarity=0.428  Sum_probs=6.5  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        17 defl~a~G~~   26 (134)
+T 1GGL_B           17 EDYLQALNIS   26 (134)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4677777654
+
+
+No 108
+>6BTH_B Retinol-binding protein 2; endocannabinoid, 2-arachidonoylglycerol, 2-AG, retinol, vitamin; HET: PEG, ECB; 1.35A {Homo sapiens}
+Probab=24.10  E-value=67  Score=14.89  Aligned_cols=10  Identities=20%  Similarity=0.262  Sum_probs=6.9  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 defl~a~Gv~   27 (138)
+T 6BTH_B           18 EGYMKALDID   27 (138)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4777777764
+
+
+No 109
+>4KOP_B Single-stranded DNA-binding protein WHY2, mitochondrial; Plant, Whirly, DNA BINDING PROTEIN; HET: MPO; 1.75A {Arabidopsis thaliana}
+Probab=23.93  E-value=68  Score=17.04  Aligned_cols=13  Identities=23%  Similarity=0.493  Sum_probs=7.6  Template_Neff=6.700
+
+Q SEQUENCE92        1 RDHMVLLEFVTAA   13 (16)
+Q Consensus         1 rdhmvllefvtaa   13 (16)
+                      |+..++.|+..+.
+T Consensus        45 r~G~i~lefap~~   57 (177)
+T 4KOP_B           45 RRGSLMMTFMPAI   57 (177)
+T ss_dssp             ECCEEEEEEEEBC
+T ss_pred             cCceEEEEEeecc
+Confidence            3455666776554
+
+
+No 110
+>3P6D_A Fatty acid-binding protein, adipocyte; lipocalin, beta barrel, fatty acid; HET: ZGB; 1.06A {Homo sapiens}
+Probab=23.89  E-value=68  Score=14.89  Aligned_cols=10  Identities=10%  Similarity=0.458  Sum_probs=6.3  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        25 defL~~~g~~   34 (139)
+T 3P6D_A           25 DDYMKEVGVG   34 (139)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677776654
+
+
+No 111
+>3P6G_A Fatty acid-binding protein, adipocyte; lipocalin, beta barrel, fatty acid; HET: IZP; 1.2A {Homo sapiens}
+Probab=23.89  E-value=68  Score=14.89  Aligned_cols=10  Identities=10%  Similarity=0.458  Sum_probs=6.3  Template_Neff=9.100
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        25 defL~~~g~~   34 (139)
+T 3P6G_A           25 DDYMKEVGVG   34 (139)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4677776654
+
+
+No 112
+>5U6G_F Retinol-binding protein 2; Domain Swapped Dimer, Domain Swapping; HET: RET; 2.6A {Homo sapiens}
+Probab=23.79  E-value=68  Score=14.64  Aligned_cols=10  Identities=20%  Similarity=0.262  Sum_probs=6.6  Template_Neff=9.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        17 d~fl~~~g~~   26 (133)
+T 5U6G_F           17 EGYMKALDID   26 (133)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4677777754
+
+
+No 113
+>6I9F_A Fatty acid-binding protein homolog; FABP, Complex, LIPID BINDING PROTEIN; HET: OLA; NMR {Ascaris suum}
+Probab=23.78  E-value=68  Score=15.68  Aligned_cols=10  Identities=30%  Similarity=0.424  Sum_probs=6.1  Template_Neff=8.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        32 defL~a~Gv~   41 (155)
+T 6I9F_A           32 DEYLKARGYG   41 (155)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4666666654
+
+
+No 114
+>3RSW_A Fatty acid-binding protein, heart; Lipid carrier, molecular chaperone, Heart; 2.599A {Homo sapiens}
+Probab=23.76  E-value=68  Score=15.72  Aligned_cols=10  Identities=10%  Similarity=0.451  Sum_probs=6.1  Template_Neff=8.300
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        43 defL~a~Gv~   52 (158)
+T 3RSW_A           43 DDYMKSLGVG   52 (158)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4666666654
+
+
+No 115
+>1UWM_A FERREDOXIN VI; FERREDOXIN, ELECTRON TRANSPORT, METAL-BINDING, IRON-SULFUR; 2.0A {RHODOBACTER CAPSULATUS} SCOP: d.15.4.1
+Probab=23.61  E-value=69  Score=14.12  Aligned_cols=10  Identities=20%  Similarity=0.498  Sum_probs=4.3  Template_Neff=9.200
+
+Q SEQUENCE92        6 LLEFVTAAGI   15 (16)
+Q Consensus         6 llefvtaagi   15 (16)
+                      +.+.+.++|+
+T Consensus        23 Ll~~l~~~gi   32 (106)
+T 1UWM_A           23 VMEAARDNGV   32 (106)
+T ss_dssp             HHHHHHTTTC
+T ss_pred             HHHHHHHCCC
+Confidence            3344444444
+
+
+No 116
+>3N1I_A protein StWhy2/DNA; Single-stranded DNA binding protein, Plant; 2.2A {Solanum tuberosum}
+Probab=23.27  E-value=71  Score=16.98  Aligned_cols=12  Identities=17%  Similarity=0.429  Sum_probs=6.6  Template_Neff=6.700
+
+Q SEQUENCE92        2 DHMVLLEFVTAA   13 (16)
+Q Consensus         2 dhmvllefvtaa   13 (16)
+                      +..|+.|+..+.
+T Consensus        46 ~G~i~lefap~~   57 (178)
+T 3N1I_A           46 RGVIMLTFWPSV   57 (178)
+T ss_dssp             CCEEEEEEEEBC
+T ss_pred             CCeEEEEEeecC
+Confidence            445666666543
+
+
+No 117
+>2Q9S_A Fatty acid-binding protein, adipocyte; beta clamshell, LIPID BINDING PROTEIN; HET: EIC; 2.3A {Mus musculus} SCOP: b.60.1.2
+Probab=23.08  E-value=72  Score=15.54  Aligned_cols=10  Identities=10%  Similarity=0.458  Sum_probs=6.2  Template_Neff=8.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        41 defL~a~Gv~   50 (155)
+T 2Q9S_A           41 DDYMKEVGVG   50 (155)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4667776654
+
+
+No 118
+>2QM9_B Troglitazone Bound to Fatty Acid; beta clamshell, LIPID BINDING PROTEIN; HET: TDZ, SO4; 2.31A {Mus musculus} SCOP: b.60.1.2
+Probab=23.08  E-value=72  Score=15.54  Aligned_cols=10  Identities=10%  Similarity=0.458  Sum_probs=6.2  Template_Neff=8.400
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||+++.|+|
+T Consensus        41 defL~a~Gv~   50 (155)
+T 2QM9_B           41 DDYMKEVGVG   50 (155)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHcCCC
+Confidence            4667776654
+
+
+No 119
+>3R9Z_A Why2 protein; StWhy2, single-stranded DNA binding protein; HET: PO4; 1.755A {Solanum tuberosum}
+Probab=23.05  E-value=72  Score=17.02  Aligned_cols=12  Identities=17%  Similarity=0.429  Sum_probs=6.6  Template_Neff=6.600
+
+Q SEQUENCE92        2 DHMVLLEFVTAA   13 (16)
+Q Consensus         2 dhmvllefvtaa   13 (16)
+                      +..|+.||..+.
+T Consensus        46 ~G~i~lefap~~   57 (178)
+T 3R9Z_A           46 RGVIMLTFWPSV   57 (178)
+T ss_dssp             CCEEEEEEEEEE
+T ss_pred             CCeEEEEEeecC
+Confidence            445566666543
+
+
+No 120
+>1E9M_A FERREDOXIN VI; IRON-SULFUR PROTEIN, FERREDOXIN, [2FE-2S], BACTERIUM; 2.07A {RHODOBACTER CAPSULATUS} SCOP: d.15.4.1
+Probab=22.50  E-value=75  Score=13.94  Aligned_cols=10  Identities=20%  Similarity=0.498  Sum_probs=4.3  Template_Neff=9.300
+
+Q SEQUENCE92        6 LLEFVTAAGI   15 (16)
+Q Consensus         6 llefvtaagi   15 (16)
+                      +.|.+..+||
+T Consensus        23 Ll~~l~~~gi   32 (106)
+T 1E9M_A           23 VMEAARDNGV   32 (106)
+T ss_pred             HHHHHHHcCC
+Confidence            3444444444
+
+
+No 121
+>6E5W_C Retinol-binding protein 5; vitamin A, retinol, abn-CBD, abnormal; HET: HVD, GOL; 2.5A {Homo sapiens}
+Probab=22.34  E-value=76  Score=14.86  Aligned_cols=10  Identities=20%  Similarity=0.428  Sum_probs=6.6  Template_Neff=8.900
+
+Q SEQUENCE92        7 LEFVTAAGIP   16 (16)
+Q Consensus         7 lefvtaagip   16 (16)
+                      .||++|.|+|
+T Consensus        18 defl~a~Gv~   27 (139)
+T 6E5W_C           18 EDYLQALNIS   27 (139)
+T ss_dssp             HHHHHHTTCC
+T ss_pred             HHHHHHCCCC
+Confidence            4677777754
+
+
+No 122
+>3NA0_D Cholesterol side-chain cleavage enzyme, mitochondrial; cytochrome P450, 20, 22-dihydroxycholesterol, side; HET: 2DC, HEM; 2.5A {Homo sapiens}
+Probab=22.29  E-value=76  Score=13.21  Aligned_cols=7  Identities=14%  Similarity=0.306  Sum_probs=0.0  Template_Neff=8.700
+
+Q SEQUENCE92        9 FVTAAGI   15 (16)
+Q Consensus         9 fvtaagi   15 (16)
+                      .+.++|+
+T Consensus         5 ~~~~~g~   11 (68)
+T 3NA0_D            5 VVVENNL   11 (68)
+T ss_dssp             -------
+T ss_pred             HHHHCCC
+Confidence            3333343
+
+
+No 123
+>1S6C_B Kv4 potassium channel-interacting protein KChIP1b; EF-hand, TRANSPORT PROTEIN; 2.0A {Rattus norvegicus}
+Probab=21.97  E-value=78  Score=13.68  Aligned_cols=7  Identities=57%  Similarity=0.771  Sum_probs=3.0  Template_Neff=4.000
+
+Q SEQUENCE92        9 FVTAAGI   15 (16)
+Q Consensus         9 fvtaagi   15 (16)
+                      ++++++|
+T Consensus        11 ~araaai   17 (30)
+T 1S6C_B           11 FARAAAI   17 (30)
+T ss_dssp             HHHHHHH
+T ss_pred             hhhHHhh
+Confidence            4444443
+
+
+No 124
+>1IUE_B FERREDOXIN, FE2/S2 (INORGANIC) CLUSTER; Electron transport, Iron-sulfur; 1.7A {Plasmodium falciparum} SCOP: d.15.4.1
+Probab=21.60  E-value=81  Score=13.78  Aligned_cols=10  Identities=10%  Similarity=0.295  Sum_probs=4.2  Template_Neff=9.100
+
+Q SEQUENCE92        6 LLEFVTAAGI   15 (16)
+Q Consensus         6 llefvtaagi   15 (16)
+                      +.+.+.++|+
+T Consensus        24 ll~~l~~~gi   33 (98)
+T 1IUE_B           24 ILDASERQNV   33 (98)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHCCC
+Confidence            3344444443
+
+
+No 125
+>6OFK_B Fluorescent protein Dronpa; GFP, FLUORESCENT PROTEIN; HET: CRO; 1.15A {Aequorea victoria}
+Probab=21.40  E-value=82  Score=18.58  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=12.4  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      ++|++|.|.+.|.++
+T Consensus       173 ~~~V~L~E~avA~~l  187 (251)
+T 6OFK_B          173 RDHMVLLEFVTAAGI  187 (251)
+T ss_dssp             SCEEEEEEEEEEESC
+T ss_pred             ccEEEEEEEEehHHH
+Confidence            478999999988765
+
+
+No 126
+>6OFL_B Fluorescent protein Dronpa; GFP, FLUORESCENT PROTEIN; HET: 4NT; 1.25A {Aequorea victoria}
+Probab=21.40  E-value=82  Score=18.58  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=12.4  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      ++|++|.|.+.|.++
+T Consensus       173 ~~~V~L~E~avA~~l  187 (251)
+T 6OFL_B          173 RDHMVLLEFVTAAGI  187 (251)
+T ss_dssp             SSEEEEEEEEEEESC
+T ss_pred             ccEEEEEEEEehHHH
+Confidence            478999999988765
+
+
+No 127
+>6OFM_B Fluorescent protein Dronpa; GFP, FLUORESCENT PROTEIN; HET: MFV; 1.48A {Aequorea victoria}
+Probab=21.17  E-value=83  Score=18.55  Aligned_cols=15  Identities=100%  Similarity=1.398  Sum_probs=11.8  Template_Neff=5.000
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGI   15 (16)
+Q Consensus         1 rdhmvllefvtaagi   15 (16)
+                      ++|++|.|.+.|.++
+T Consensus       173 ~~~V~L~E~avA~~l  187 (251)
+T 6OFM_B          173 RDHMVLLEFVTAAGI  187 (251)
+T ss_dssp             SCEEEEEEEEEEES-
+T ss_pred             ccEEEEEEEEeehHH
+Confidence            478999999988765
+
+
+No 128
+>1FRR_B FERREDOXIN I; ELECTRON TRANSFER(IRON-SULFUR PROTEIN); 1.8A {Equisetum arvense} SCOP: d.15.4.1
+Probab=21.12  E-value=84  Score=13.59  Aligned_cols=10  Identities=30%  Similarity=0.517  Sum_probs=4.2  Template_Neff=9.200
+
+Q SEQUENCE92        6 LLEFVTAAGI   15 (16)
+Q Consensus         6 llefvtaagi   15 (16)
+                      +.+.+..+|+
+T Consensus        23 ll~~l~~~gi   32 (95)
+T 1FRR_B           23 ILDAAEEAGY   32 (95)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHcCC
+Confidence            3344444443
+
+
+No 129
+>4V4W_BL Ribosome; SecM  nascent chain ; 15.0A {Escherichia coli}
+Probab=20.71  E-value=86  Score=15.62  Aligned_cols=6  Identities=33%  Similarity=0.711  Sum_probs=2.8  Template_Neff=6.600
+
+Q SEQUENCE92        4 MVLLEF    9 (16)
+Q Consensus         4 mvllef    9 (16)
+                      |+..|+
+T Consensus       108 ma~iel  113 (114)
+T 4V4W_BL         108 MAYIEL  113 (114)
+T ss_pred             eEEEEe
+Confidence            444444
+
+
+No 130
+>5Y00_A Green fluorescent protein; fluorescent protein, beta barrel, gfp-like; HET: CRQ; 1.6A {Olindias}
+Probab=20.61  E-value=87  Score=18.92  Aligned_cols=16  Identities=38%  Similarity=0.526  Sum_probs=13.3  Template_Neff=4.500
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      |||++|.|.+.|.+++
+T Consensus       248 k~~v~l~E~a~A~~~~  263 (271)
+T 5Y00_A          248 RDHIVQTELAVAGNLW  263 (271)
+T ss_dssp             SSEEEEEEEEEEECSS
+T ss_pred             CCEEEEEEEEEEcccc
+Confidence            4799999999997753
+
+
+No 131
+>6VJV_A Ferredoxin; Iron Sulfur Cluster Binding, myovirus; HET: ACT, ZN; 1.59A {Prochlorococcus phage P-SSM2}
+Probab=20.58  E-value=87  Score=13.62  Aligned_cols=10  Identities=40%  Similarity=0.654  Sum_probs=4.5  Template_Neff=9.100
+
+Q SEQUENCE92        6 LLEFVTAAGI   15 (16)
+Q Consensus         6 llefvtaagi   15 (16)
+                      +.+.+.++||
+T Consensus        24 ll~~l~~~gi   33 (96)
+T 6VJV_A           24 ILEAAEDAGL   33 (96)
+T ss_dssp             HHHHHHHTTC
+T ss_pred             HHHHHHHCCC
+Confidence            3444444444
+
+
+No 132
+>5KTG_B Green fluorescent protein,Bcl-2 homologous antagonist/killer; BCL-2 family proteins, mitochondrial outer; HET: CR2; 2.802A {Aequorea victoria}
+Probab=20.42  E-value=88  Score=18.35  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=12.8  Template_Neff=6.100
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ++|++|.|.+.++|++
+T Consensus       213 ~~~v~L~E~a~a~g~~  228 (309)
+T 5KTG_B          213 RDHMVLLEFVTAAGIT  228 (309)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEeeccCCC
+Confidence            4789999998887754
+
+
+No 133
+>4KOO_A Single-stranded DNA-binding protein WHY1, chloroplastic; Plant, Whirly, SINGLE-STRANDED DNA BINDING; HET: MES; 1.88A {Arabidopsis thaliana}
+Probab=20.23  E-value=90  Score=16.70  Aligned_cols=13  Identities=38%  Similarity=0.764  Sum_probs=7.3  Template_Neff=6.600
+
+Q SEQUENCE92        1 RDHMVLLEFVTAA   13 (16)
+Q Consensus         1 rdhmvllefvtaa   13 (16)
+                      |+..++.|+..+.
+T Consensus        43 r~G~i~lefap~~   55 (180)
+T 4KOO_A           43 KDGFLLLQFAPSA   55 (180)
+T ss_dssp             ECCEEEEEEEEBC
+T ss_pred             cCcEEEEEEEecC
+Confidence            3445666666553
+
+
+No 134
+>4PA0_A Myosin-7,Green fluorescent protein; Cardiac, Myosin, Motor, omecamtiv mercarbil; HET: CRO, GOL, 2OW; 2.25A {Homo sapiens}
+Probab=20.15  E-value=90  Score=20.49  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=10.8  Template_Neff=7.400
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ++|+.+.|.+.|+|+|
+T Consensus      1000 ~~~~~~~e~~~a~~~~ 1015 (1024)
+T 4PA0_A         1000 RDHMVLLEFVTAAGIT 1015 (1024)
+T ss_dssp             SCEEEEEEEEEE----
+T ss_pred             ccEEEEEEEEehhcCC
+Confidence            4789999999999875
+
+
+No 135
+>4PA0_B Myosin-7,Green fluorescent protein; Cardiac, Myosin, Motor, omecamtiv mercarbil; HET: GOL, 2OW, CRO; 2.25A {Homo sapiens}
+Probab=20.11  E-value=91  Score=20.48  Aligned_cols=16  Identities=94%  Similarity=1.313  Sum_probs=13.4  Template_Neff=7.400
+
+Q SEQUENCE92        1 RDHMVLLEFVTAAGIP   16 (16)
+Q Consensus         1 rdhmvllefvtaagip   16 (16)
+                      ++|+.+.|.+.|+|+|
+T Consensus      1000 ~~~~~~~e~~~a~~~~ 1015 (1024)
+T 4PA0_B         1000 RDHMVLLEFVTAAGIT 1015 (1024)
+T ss_dssp             CSEEEEEEEEEEECC-
+T ss_pred             cceEEEEEEehHhhcc
+Confidence            4789999999999875
+
+
