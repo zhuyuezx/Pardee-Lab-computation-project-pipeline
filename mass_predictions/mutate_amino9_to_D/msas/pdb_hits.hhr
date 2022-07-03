@@ -1,0 +1,1749 @@
+Query         ORIGINAL_SEQUENCE_GFP11 
+Match_columns 16
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80799
+Date          Fri Jul  1 23:25:15 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp9l3rw_bd/query.a3m -o /tmp/tmp9l3rw_bd/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5JNQ_A Phospho-N-acetylmuramoy  98.0 1.9E-08 2.4E-13   55.5   0.0   16    1-16      5-20  (376)
+  2 6B7T_A Green fluorescent prote  97.2 2.9E-06 3.6E-11   48.9   0.0   16    1-16     23-38  (246)
+  3 6OFO_A Fluorescent protein Dro  93.5   0.018 2.2E-07   33.7   0.0   16    1-16     34-49  (254)
+  4 4ORN_A mKalama1; proton transf  88.3    0.23 2.8E-06   28.6   0.0   16    1-16    216-231 (239)
+  5 4W6H_A fluorescent protein D19  78.7     1.4 1.7E-05   25.4   0.0   16    1-16    213-228 (234)
+  6 5FGU_A Green fluorescent prote  70.2     3.2   4E-05   26.3   0.0   16    1-16    216-231 (565)
+  7 3AKO_B Venus; Venus, Fluoresce  68.6     3.7 4.6E-05   21.7   0.0   16    1-16     62-77  (93)
+  8 3AKO_F Venus; Venus, Fluoresce  68.6     3.7 4.6E-05   21.7   0.0   16    1-16     62-77  (93)
+  9 5WUA_B ATP-sensitive inward re  67.9     3.9 4.8E-05   26.0   0.0   16    1-16    618-633 (681)
+ 10 2HPW_A Green fluorescent prote  63.4     5.5 6.8E-05   23.4   0.0   16    1-16    215-230 (233)
+ 11 6JGJ_A Green fluorescent prote  61.2     6.4   8E-05   22.8   0.0   16    1-16    212-227 (228)
+ 12 6RMG_A Protein patched homolog  59.3     7.3 9.1E-05   25.6   0.0   16    1-16   1416-1431(1471)
+ 13 3O78_A Chimera protein of Pept  58.3     7.9 9.7E-05   21.6   0.0   16    1-16     93-108 (415)
+ 14 3QU1_A Peptide deformylase 2 (  54.6      10 0.00012   20.0   0.0   12    4-15    133-144 (171)
+ 15 6MKS_b Chimera protein of NLR   54.0      10 0.00013   21.9   0.0   16    1-16    317-332 (340)
+ 16 3AI4_A yeast enhanced green fl  52.4      11 0.00014   22.5   0.0   16    1-16    216-231 (283)
+ 17 3LVC_A Green fluorescent prote  50.1      13 0.00016   21.7   0.0   16    1-16    213-228 (236)
+ 18 5YR3_A Yellow fluorescent prot  49.8      13 0.00017   21.3   0.0   16    1-16    210-225 (225)
+ 19 3VHT_B Green fluorescent prote  48.6      14 0.00018   21.6   0.0   16    1-16    216-231 (271)
+ 20 2G2S_B Green fluorescent prote  48.2      15 0.00018   20.5   0.0   16    1-16    150-165 (173)
+ 21 5Z6Y_A Green fluorescent prote  47.7      15 0.00019   21.2   0.0   16    1-16    213-228 (229)
+ 22 3EVR_A Myosin light chain kina  47.3      16 0.00019   20.5   0.0   15    1-15     91-105 (411)
+ 23 4W6T_A fluorescent protein E11  46.2      17 0.00021   21.1   0.0   16    1-16    214-229 (229)
+ 24 5NI3_B Green fluorescent prote  45.1      18 0.00022   20.9   0.0   16    1-16    211-226 (229)
+ 25 3OSQ_A Maltose-binding peripla  44.8      18 0.00022   22.3   0.0   16    1-16    280-295 (661)
+ 26 6EFR_A iNicSnFR 1.0, a genetic  44.5      18 0.00023   21.8   0.0   15    1-15    146-160 (520)
+ 27 3OSR_A Maltose-binding peripla  44.4      19 0.00023   21.3   0.0   15    1-15    418-432 (653)
+ 28 4W76_B fluorescent protein D21  43.6      19 0.00024   20.8   0.0   16    1-16    214-229 (229)
+ 29 1YFP_B YELLOW FLUORESCENT PROT  42.5      21 0.00026   20.6   0.0   15    1-15    211-225 (225)
+ 30 6MB2_a Interferon-inducible pr  41.9      21 0.00027   20.5   0.0   15    1-15    212-226 (226)
+ 31 6JGI_A Green fluorescent prote  41.9      22 0.00027   20.6   0.0   16    1-16    212-227 (228)
+ 32 5YR2_A Green fluorescent prote  41.8      22 0.00027   21.3   0.0   16    1-16     71-86  (247)
+ 33 5YR2_B Green fluorescent prote  41.8      22 0.00027   21.3   0.0   16    1-16     71-86  (247)
+ 34 6R4P_A Adenylate cyclase 9, Gu  41.7      22 0.00027   24.0   0.0   16    1-16   1582-1597(1637)
+ 35 6R4O_A Adenylate cyclase 9, Gu  41.4      22 0.00027   23.6   0.0   16    1-16   1478-1493(1533)
+ 36 4XGY_A Green fluorescent prote  41.2      22 0.00028   21.8   0.0   16    1-16    233-248 (303)
+ 37 5OXC_A Green fluorescent prote  41.2      22 0.00028   20.7   0.0   16    1-16    214-229 (237)
+ 38 3UWB_A RIIA-RIIB membrane-asso  40.4      24 0.00029   17.9   0.0   12    4-15    132-143 (154)
+ 39 3U04_A Peptide deformylase 1 (  40.2      24 0.00029   18.8   0.0   11    4-14    152-162 (190)
+ 40 6QLD_Y Inner kinetochore subun  39.3      25 0.00031   20.9   0.0    9    3-11    136-144 (237)
+ 41 6QLF_Y Inner kinetochore subun  38.9      26 0.00032   20.9   0.0    9    3-11    137-145 (238)
+ 42 6IKT_A Peptide deformylase (E.  38.5      26 0.00033   18.2   0.0   11    4-14    138-148 (169)
+ 43 4XBI_A N domain of ClpB1 form;  38.5      26 0.00033   19.9   0.0   16    1-16    362-377 (381)
+ 44 4IK8_A RCaMP, Green fluorescen  38.2      27 0.00033   20.2   0.0   15    1-15    127-141 (448)
+ 45 1XEO_A Peptide deformylase (E.  38.0      27 0.00034   18.4   0.0   12    4-15    129-140 (168)
+ 46 3CPM_A Peptide deformylase, ch  37.7      28 0.00034   18.9   0.0   12    4-15    146-157 (193)
+ 47 5MTC_B Putative uncharacterize  37.3      28 0.00035   17.4   0.0   11    4-14    124-134 (137)
+ 48 5MTE_B Putative uncharacterize  37.3      28 0.00035   17.4   0.0   11    4-14    124-134 (137)
+ 49 3FWX_B Peptide deformylase; pe  36.8      29 0.00036   18.3   0.0   11    4-14    130-140 (169)
+ 50 1WS0_A peptide deformylase 1(E  36.8      29 0.00036   18.0   0.0   11    4-14    129-139 (156)
+ 51 1WS1_A peptide deformylase 1(E  36.8      29 0.00036   18.0   0.0   11    4-14    129-139 (156)
+ 52 6JF8_C Peptide deformylase (E.  36.7      29 0.00036   17.8   0.0   12    4-15    141-152 (159)
+ 53 6KL1_A Green fluorescent prote  35.8      31 0.00038   20.0   0.0   16    1-16    212-227 (229)
+ 54 3EVP_A Green fluorescent prote  34.8      33 0.00041   20.3   0.0   15    1-15     71-85  (243)
+ 55 6QLC_A ssDNA binding RNA Polym  34.7      33 0.00041   19.1   0.0   10    3-12     55-64  (104)
+ 56 2OS0_A Peptide deformylase (E.  34.7      33 0.00041   18.1   0.0   11    4-14    154-164 (188)
+ 57 4JE6_A Peptide deformylase 1A,  34.5      34 0.00042   18.4   0.0   11    4-14    150-160 (197)
+ 58 4JE6_B Peptide deformylase 1A,  34.5      34 0.00042   18.4   0.0   11    4-14    150-160 (197)
+ 59 6JFN_A Peptide deformylase (E.  33.6      36 0.00044   17.8   0.0   11    4-14    139-149 (171)
+ 60 4Z4M_A GFP-TAX1BP1 UBZ2 domain  33.1      37 0.00045   20.2   0.0   16    1-16    216-231 (260)
+ 61 2OS3_A Peptide deformylase (E.  32.9      37 0.00046   18.4   0.0   12    4-15    170-181 (205)
+ 62 1BS8_C PROTEIN (PEPTIDE DEFORM  32.0      39 0.00049   17.9   0.0   11    4-14    129-139 (168)
+ 63 1XEM_A Peptide deformylase (E.  32.0      39 0.00049   17.9   0.0   11    4-14    129-139 (168)
+ 64 3E3U_A Peptide deformylase (E.  31.7      40  0.0005   18.2   0.0   11    4-14    145-155 (197)
+ 65 3PN3_B Peptide deformylase 1B,  31.4      41  0.0005   18.4   0.0   11    4-14    130-140 (193)
+ 66 1DEF_A PEPTIDE DEFORMYLASE; HY  31.0      42 0.00052   17.2   0.0   11    4-14    129-139 (147)
+ 67 4HE4_B Yellow fluorescent prot  30.6      43 0.00053   19.7   0.0   16    1-16    213-228 (244)
+ 68 6OW7_Q Peptide deformylase (E.  30.6      43 0.00053   18.0   0.0   11    4-14    169-179 (202)
+ 69 2EW6_A peptide deformylase (E.  30.5      43 0.00054   17.9   0.0   11    4-14    134-144 (181)
+ 70 4E9A_A Peptide deformylase 11   30.5      43 0.00054   17.9   0.0   11    4-14    134-144 (181)
+ 71 4E9B_A Peptide deformylase 11   30.5      43 0.00054   17.9   0.0   11    4-14    134-144 (181)
+ 72 3G5P_D Peptide deformylase, mi  29.9      45 0.00056   17.4   0.0   11    4-14    151-161 (183)
+ 73 1IX1_B Peptide deformylase (E.  29.8      45 0.00056   17.6   0.0   11    4-14    131-141 (171)
+ 74 5JF6_A Peptide deformylase (E.  29.7      45 0.00056   17.9   0.0   12    4-15    171-182 (204)
+ 75 3CMD_B Peptide deformylase (E.  29.3      47 0.00058   18.0   0.0   12    4-15    163-174 (196)
+ 76 1V3Y_A Peptide deformylase(E.C  28.8      48  0.0006   17.8   0.0   12    4-15    142-153 (192)
+ 77 1V3Y_B Peptide deformylase(E.C  28.8      48  0.0006   17.8   0.0   12    4-15    142-153 (192)
+ 78 6JEV_B Peptide deformylase (E.  28.7      49  0.0006   17.5   0.0   11    4-14    129-139 (171)
+ 79 6J9E_B DNA-directed RNA polyme  28.4      50 0.00062   18.8   0.0   11    5-15     78-88  (346)
+ 80 4EN1_A Green fluorescent prote  28.4      50 0.00062   19.8   0.0   16    1-16    232-247 (264)
+ 81 3L87_A Peptide deformylase (E.  28.1      50 0.00062   18.6   0.0   12    4-15    205-216 (238)
+ 82 2OS1_A Peptide deformylase (E.  28.0      51 0.00063   17.5   0.0   11    4-14    154-164 (188)
+ 83 5CY7_A Peptide deformylase (E.  28.0      51 0.00063   17.3   0.0   11    4-14    138-148 (171)
+ 84 1LQY_A peptide deformylase 2 (  27.6      52 0.00065   17.4   0.0   11    4-14    150-160 (184)
+ 85 5HGW_A Peptide deformylase (E.  27.4      53 0.00066   17.8   0.0   11    4-14    146-156 (185)
+ 86 4XOV_A rsGreen0.7; Green Fluor  27.0      55 0.00067   19.7   0.0   16    1-16    247-262 (270)
+ 87 4XOW_A rsGreen0.7; Green Fluor  27.0      55 0.00067   19.7   0.0   16    1-16    247-262 (270)
+ 88 4NDJ_A E23-YFP; helix-turn-hel  26.9      55 0.00068   18.4   0.0   15    1-15    266-280 (297)
+ 89 4DR8_A Peptide deformylase (E.  26.6      56 0.00069   17.8   0.0   11    4-14    148-158 (192)
+ 90 4DR8_D Peptide deformylase (E.  26.6      56 0.00069   17.8   0.0   11    4-14    148-158 (192)
+ 91 4WXK_A peptide deformylase (3.  26.1      58 0.00072   17.3   0.0   11    4-14    130-140 (169)
+ 92 4WXK_C peptide deformylase (3.  26.1      58 0.00072   17.3   0.0   11    4-14    130-140 (169)
+ 93 6JFS_A Peptide deformylase (E.  26.0      58 0.00072   17.3   0.0   11    4-14    151-161 (183)
+ 94 6JER_A Peptide deformylase (E.  25.9      59 0.00073   17.2   0.0   12    4-15    129-140 (170)
+ 95 1DFF_A PEPTIDE DEFORMYLASE; HY  25.8      59 0.00073   17.1   0.0   11    4-14    129-139 (164)
+ 96 5J3N_A Green fluorescent prote  25.7      60 0.00074   19.9   0.0   16    1-16    219-234 (396)
+ 97 6XWY_A Red fluorescent protein  25.6      60 0.00074   18.7   0.0   13    1-13    205-217 (219)
+ 98 1Y6H_B Peptide deformylase(E.C  25.0      63 0.00078   17.1   0.0   11    4-14    140-150 (177)
+ 99 1RL4_B formylmethionine deform  24.9      63 0.00078   17.5   0.0   11    4-14    139-149 (188)
+100 4RYS_A NowGFP; Fluorescent pro  24.5      65  0.0008   19.0   0.0   16    1-16    225-240 (241)
+101 2OKL_B Peptide deformylase 2 (  24.3      66 0.00081   17.1   0.0   11    4-14    151-161 (185)
+102 1LM4_B peptide deformylase PDF  23.8      68 0.00084   17.6   0.0   11    4-14    162-172 (194)
+103 6J9F_A DNA-directed RNA polyme  23.8      68 0.00084   18.3   0.0   10    5-14     78-87  (346)
+104 5J46_A Peptide deformylase (E.  23.3      71 0.00088   17.3   0.0   11    4-14    153-163 (189)
+105 1BDF_D RNA POLYMERASE ALPHA SU  23.0      72 0.00089   16.8   0.0    8    6-13     65-72  (235)
+106 1JYM_B peptide deformylase; PD  22.9      73  0.0009   17.3   0.0   11    4-14    131-141 (183)
+107 1LME_A peptide deformylase (E.  22.8      73 0.00091   17.3   0.0   11    4-14    138-148 (176)
+108 1LME_B peptide deformylase (E.  22.8      73 0.00091   17.3   0.0   11    4-14    138-148 (176)
+109 4JRB_A Green fluorescent prote  21.8      79 0.00098   19.2   0.0   15    1-15    216-230 (416)
+110 4KN7_A DNA-directed RNA polyme  21.7      80 0.00099   17.8   0.0   10    5-14     64-73  (329)
+111 4YFK_G Escherichia coli RNA po  21.7      80 0.00099   17.8   0.0   10    5-14     64-73  (329)
+112 6PST_H DNA-directed RNA polyme  21.7      80 0.00099   17.8   0.0   10    5-14     64-73  (329)
+113 1N5N_A Peptide deformylase (E.  21.7      80 0.00099   17.1   0.0   11    4-14    143-153 (180)
+114 5E5D_A Peptide deformylase (E.  21.7      80 0.00099   17.6   0.0   11    4-14    179-189 (212)
+115 6CAZ_A Peptide deformylase (E.  21.6      81   0.001   17.0   0.0   11    4-14    138-148 (178)
+116 6CK7_B Peptide deformylase (E.  21.6      81   0.001   17.0   0.0   11    4-14    138-148 (178)
+117 6DGV_A iGABASnFR; GABA binding  21.4      82   0.001   18.7   0.0   16    1-16    345-360 (566)
+
+No 1
+>5JNQ_A Phospho-N-acetylmuramoyl-pentapeptide-transferase (E.C.2.7.8.13); Membrane protein, antibiotic, PNPT, Transferase-Antibiotic; HET: TUM, PLM, BOG; 2.6A {Clostridium bolteae 90A9}
+Probab=97.98  E-value=1.9e-08  Score=55.55  Aligned_cols=16  Identities=94%  Similarity=1.317  Sum_probs=0.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++||.+|+|||
+T Consensus         5 ~~~~~~~~~~~~~~~~   20 (376)
+T 5JNQ_A            5 RDHMVLHEYVNAAGIT   20 (376)
+T ss_dssp             ----------------
+T ss_pred             cchhhHHHHHhhcccC
+Confidence            8999999999999986
+
+
+No 2
+>6B7T_A Green fluorescent protein; Superfolder GFP, Truncated GFP, His-tag; HET: GYS; 1.91A {Aequorea victoria}
+Probab=97.20  E-value=2.9e-06  Score=48.93  Aligned_cols=16  Identities=94%  Similarity=1.317  Sum_probs=13.8  Template_Neff=4.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||||+||++|||||
+T Consensus        23 ~~~~~~~~~~~~~~~~   38 (246)
+T 6B7T_A           23 RDHMVLHEYVNAAGIT   38 (246)
+T ss_dssp             -CEEEEEEEEEEECC-
+T ss_pred             ccceeehhHHHHhcCC
+Confidence            8999999999999986
+
+
+No 3
+>6OFO_A Fluorescent protein Dronpa; GFP, SPLIT FLUORESCENT PROTEIN, FLUORESCENT; HET: GYS; 2.603A {Aequorea victoria}
+Probab=93.55  E-value=0.018  Score=33.72  Aligned_cols=16  Identities=94%  Similarity=1.317  Sum_probs=14.5  Template_Neff=4.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+.+|++++
+T Consensus        34 rdh~~~~E~~~a~~~~   49 (254)
+T 6OFO_A           34 RDHMVLHEYVNAAGIT   49 (254)
+T ss_dssp             CCEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehhHHCCe
+Confidence            8999999999998764
+
+
+No 4
+>4ORN_A mKalama1; proton transfer, zwitterion, chromophore, FLUORESCENT; HET: CSD, GYS, MES, SO4; 1.71A {Aequorea victoria}
+Probab=88.35  E-value=0.23  Score=28.63  Aligned_cols=16  Identities=75%  Similarity=1.082  Sum_probs=14.6  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+|+|+.+|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (239)
+T 4ORN_A          216 RDHMVLLEFRTAAGIT  231 (239)
+T ss_dssp             SSEEEEEEEEEEESSC
+T ss_pred             cceEEEEhHHHHcCCc
+Confidence            8999999999999874
+
+
+No 5
+>4W6H_A fluorescent protein D190C; fluorescent protein, dimer, disulfide; HET: CRO; 1.953A {synthetic construct}
+Probab=78.67  E-value=1.4  Score=25.39  Aligned_cols=16  Identities=81%  Similarity=1.084  Sum_probs=14.0  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+|+
+T Consensus       213 ~~~v~l~E~a~a~~~~  228 (234)
+T 4W6H_A          213 RDHMVLLEYVTAAGIT  228 (234)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEehhccC
+Confidence            5899999999999986
+
+
+No 6
+>5FGU_A Green fluorescent protein,Extracellular streptodornase D; beta-beta-alpha metal finger nuclease, sequence; HET: SO4, CR2, ACT, EDO; 1.896A {Aequorea victoria}
+Probab=70.22  E-value=3.2  Score=26.35  Aligned_cols=16  Identities=69%  Similarity=0.989  Sum_probs=14.5  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+++|+.+|++++
+T Consensus       216 ~dh~~~~E~~~a~~lt  231 (565)
+T 5FGU_A          216 RDHMVLLEFVTAAGIA  231 (565)
+T ss_pred             CceEeechhHHHcCCC
+Confidence            7999999999998874
+
+
+No 7
+>3AKO_B Venus; Venus, Fluorescent Protein, GFP; HET: PE8; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=68.64  E-value=3.7  Score=21.71  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.4  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+++|+.+|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_B           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 8
+>3AKO_F Venus; Venus, Fluorescent Protein, GFP; HET: PE8, CR2; 2.1A {Plant transformation vector pSITEII-4C1}
+Probab=68.64  E-value=3.7  Score=21.71  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.4  Template_Neff=3.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+++|+.+|++++
+T Consensus        62 RDH~~~~Ev~~A~~~~   77 (93)
+T 3AKO_F           62 RDHMVLLEFVTAAGIT   77 (93)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CceeeeehHHHHHCch
+Confidence            8999999999998863
+
+
+No 9
+>5WUA_B ATP-sensitive inward rectifier potassium channel; KATP, channel, ABC transporter, Kir; 5.6A {Mus musculus}
+Probab=67.92  E-value=3.9  Score=25.99  Aligned_cols=16  Identities=94%  Similarity=1.317  Sum_probs=0.0  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|..+|.||+
+T Consensus       618 ~~~v~~~E~~~a~~~~  633 (681)
+T 5WUA_B          618 RDHMVLHEYVNAAGIT  633 (681)
+T ss_dssp             ----------------
+T ss_pred             CCEEEEEEEEEEeccC
+Confidence            5899999999999986
+
+
+No 10
+>2HPW_A Green fluorescent protein, Clytia gregaria; Fluorescent protein, GFP, Structural Genomics; 1.55A {Clytia gregaria}
+Probab=63.42  E-value=5.5  Score=23.41  Aligned_cols=16  Identities=25%  Similarity=0.395  Sum_probs=14.5  Template_Neff=4.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+++|+.+|.+++
+T Consensus       215 rdh~~~~E~~~a~~~~  230 (233)
+T 2HPW_A          215 TDHLTIVEVIKAVDLE  230 (233)
+T ss_dssp             SCEEEEEEEEEEECGG
+T ss_pred             cceeEEEEEEeeeccc
+Confidence            8999999999998864
+
+
+No 11
+>6JGJ_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: GYS; 0.78A {Aequorea victoria}
+Probab=61.22  E-value=6.4  Score=22.78  Aligned_cols=16  Identities=69%  Similarity=0.989  Sum_probs=14.5  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+.+|.+++
+T Consensus       212 rdh~~~~e~~~a~~~~  227 (228)
+T 6JGJ_A          212 RDHMVLLQFVTAAGIT  227 (228)
+T ss_pred             CceeeeEeeeehhccC
+Confidence            8999999999998864
+
+
+No 12
+>6RMG_A Protein patched homolog 1, Sonic; Patched, PTCH1, Hedgehog, ShhN, MEMBRANE; HET: Y01, NAG; 3.4A {Homo sapiens}
+Probab=59.31  E-value=7.3  Score=25.56  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=0.0  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+|+|+.+|.+++
+T Consensus      1416 ~~~~~~~e~~~a~~~~ 1431 (1471)
+T 6RMG_A         1416 RDHMVLLEFVTAAGIT 1431 (1471)
+T ss_dssp             ----------------
+T ss_pred             CCeEEEehHHHHhCCc
+Confidence            7999999999998764
+
+
+No 13
+>3O78_A Chimera protein of Peptide of; circular permutated green fluorescent protein; 2.6A {Gallus gallus, Aequorea victoria, Aequorea victoria, Homo sapiens}
+Probab=58.28  E-value=7.9  Score=21.62  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.3  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||+.|+.+|.+++
+T Consensus        93 ~dh~~~~e~~~~~~~~  108 (415)
+T 3O78_A           93 RDHMVLLEFVTAAGIT  108 (415)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEehHHhcce
+Confidence            8999999999998763
+
+
+No 14
+>3QU1_A Peptide deformylase 2 (E.C.3.5.1.88); structural genomics, Center for Structural; 1.8A {Vibrio cholerae}
+Probab=54.58  E-value=10  Score=19.99  Aligned_cols=12  Identities=33%  Similarity=0.559  Sum_probs=6.8  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       133 ~~QHEiDHL~G~  144 (171)
+T 3QU1_A          133 VMQHEIDHLSGN  144 (171)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHcCC
+Confidence            456776655443
+
+
+No 15
+>6MKS_b Chimera protein of NLR family; NLRC4, Helical assembly, Inflammasome, PROTEIN; 3.4A {Homo sapiens}
+Probab=53.99  E-value=10  Score=21.87  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.5  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+.+|.+++
+T Consensus       317 ~d~~~~~e~~~~~~~~  332 (340)
+T 6MKS_b          317 RDHMVLLEFVTAAGIT  332 (340)
+T ss_pred             cceeeehHHHHHcCCC
+Confidence            8999999999998864
+
+
+No 16
+>3AI4_A yeast enhanced green fluorescent protein; UBM, Ubiquitin-binding motif, GFP, Fusion; 1.6A {Aequorea victoria, Mus musculus}
+Probab=52.42  E-value=11  Score=22.47  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.5  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+|+|+.+|.+++
+T Consensus       216 rdhi~~~E~~~a~~~~  231 (283)
+T 3AI4_A          216 RDHMVLLEFVTAAGIT  231 (283)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             cceEEEEeehHHcCCC
+Confidence            8999999999998864
+
+
+No 17
+>3LVC_A Green fluorescent protein; colorless GFP-like protein, chromophore biosynthesis; HET: GOL, GYS; 1.14A {Aequorea coerulescens}
+Probab=50.07  E-value=13  Score=21.66  Aligned_cols=16  Identities=56%  Similarity=0.850  Sum_probs=13.9  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||+++|+.+|.+++
+T Consensus       213 rdhi~~~E~~~a~~~~  228 (236)
+T 3LVC_A          213 RDHMIYFEFVTAAAIT  228 (236)
+T ss_dssp             SSEEEEEEEEEEEEC-
+T ss_pred             cceeeEEehHHHHHhh
+Confidence            8999999999998763
+
+
+No 18
+>5YR3_A Yellow fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF6; 1.901A {Aequorea victoria}
+Probab=49.84  E-value=13  Score=21.32  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+++
+T Consensus       210 ~~~v~~~E~a~A~~~~  225 (225)
+T 5YR3_A          210 RDHMVLLEFVTAAGIT  225 (225)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 19
+>3VHT_B Green fluorescent protein, Green fluorescent; GREEN FLUORESCENT PROTEIN, FUSION PROTEIN; HET: CR2; 2.4A {Mus musculus}
+Probab=48.64  E-value=14  Score=21.60  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.4  Template_Neff=5.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|+|...|++++
+T Consensus       216 ~~~v~~~E~a~A~g~~  231 (271)
+T 3VHT_B          216 RDHMVLLEFVTAAGIT  231 (271)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEeccCCC
+Confidence            5899999999998763
+
+
+No 20
+>2G2S_B Green fluorescent protein; chromophore, biosynthesis, dehydroalanine, peptide hydrolysis; 1.2A {Aequorea victoria}
+Probab=48.19  E-value=15  Score=20.48  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.7  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+++
+T Consensus       150 ~~~v~l~E~a~A~~~~  165 (173)
+T 2G2S_B          150 RDHMVLLEFVTAAGIT  165 (173)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecccc
+Confidence            5899999999998763
+
+
+No 21
+>5Z6Y_A Green fluorescent protein; chromophore linkage electron transfer, FLUORESCENT; HET: BF6; 1.87A {Aequorea victoria}
+Probab=47.74  E-value=15  Score=21.16  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.7  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|+|...|.+++
+T Consensus       213 ~~~v~~~E~a~A~~~~  228 (229)
+T 5Z6Y_A          213 RDHMVLLEFVTAAGIT  228 (229)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CcEEEEEEEEEEcccC
+Confidence            5899999999998763
+
+
+No 22
+>3EVR_A Myosin light chain kinase, Green; GCAMP2,calcium sensor, GFP, Calmodulin,M13, SIGNALING; 2.0A {Aequorea victoria}
+Probab=47.33  E-value=16  Score=20.48  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.6  Template_Neff=8.400
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||||+.|+.+|.++
+T Consensus        91 ~~~~~~~e~~~~~~~  105 (411)
+T 3EVR_A           91 RDHMVLLEFVTAAGI  105 (411)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceeEehHHHHHhCc
+Confidence            899999999998775
+
+
+No 23
+>4W6T_A fluorescent protein E115H/T118H; fluorescent protein; HET: EDO, CRO; 1.604A {synthetic construct}
+Probab=46.15  E-value=17  Score=21.06  Aligned_cols=16  Identities=81%  Similarity=1.084  Sum_probs=13.9  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+++
+T Consensus       214 ~~~v~~~E~a~A~~~~  229 (229)
+T 4W6T_A          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 24
+>5NI3_B Green fluorescent protein; GFP, super folder, click chemistry; HET: NA, DB5, CRO, GOL; 1.28A {Aequorea victoria}
+Probab=45.05  E-value=18  Score=20.95  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+++
+T Consensus       211 ~~~v~l~E~a~A~~~~  226 (229)
+T 5NI3_B          211 RDHMVLLEFVTAAGIT  226 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEcccCc
+Confidence            5899999999998763
+
+
+No 25
+>3OSQ_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL, SO4; 1.9A {Escherichia coli, Aequorea victoria}
+Probab=44.76  E-value=18  Score=22.31  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ||||++.|+..++||+
+T Consensus       280 ~~~~~~~~~~~~~~~~  295 (661)
+T 3OSQ_A          280 RDHMVLLEFVTAAGIT  295 (661)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cchhHHHHHHHHccce
+Confidence            6899999999998864
+
+
+No 26
+>6EFR_A iNicSnFR 1.0, a genetically encoded; periplasmic binding protein, green fluorescent; HET: CRO; 2.4A {Thermoanaerobacter sp. X513}
+Probab=44.52  E-value=18  Score=21.77  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.7  Template_Neff=7.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||||++|+.+|.++
+T Consensus       146 rdh~~~~e~~~~~~~  160 (520)
+T 6EFR_A          146 RDHMVLLEFVTAAGI  160 (520)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceeEEEEEeecccc
+Confidence            899999999999775
+
+
+No 27
+>3OSR_A Maltose-binding periplasmic protein, Green fluorescent; Engineered Protein, Sensor Protein, Fluorescent; HET: MAL; 2.0A {Escherichia coli, Aequorea victoria}
+Probab=44.42  E-value=19  Score=21.29  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.4  Template_Neff=8.600
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||||+.|+..|.|+
+T Consensus       418 ~~~~~~~~~~~~~~~  432 (653)
+T 3OSR_A          418 RDHMVLLEFVTAAGI  432 (653)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             cceEEEEEehhHhcc
+Confidence            899999999988775
+
+
+No 28
+>4W76_B fluorescent protein D21H/K26C; fluorescent protein; HET: CRO; 2.35A {synthetic construct}
+Probab=43.57  E-value=19  Score=20.80  Aligned_cols=16  Identities=81%  Similarity=1.084  Sum_probs=13.5  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|...|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (229)
+T 4W76_B          214 RDHMVLLEYVTAAGIT  229 (229)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CcEEEEEEEEEecCCC
+Confidence            5899999999998864
+
+
+No 29
+>1YFP_B YELLOW FLUORESCENT PROTEIN; LUMINESCENCE, GREEN FLUORESCENT PROTEIN, YELLOW-EMISSION; HET: CRO; 2.5A {Aequorea victoria} SCOP: d.22.1.1
+Probab=42.50  E-value=21  Score=20.58  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||++|.|...|.++
+T Consensus       211 ~~~v~l~E~a~A~~~  225 (225)
+T 1YFP_B          211 RDHMVLLEFVTAAGI  225 (225)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CcEEEEEEEEEecCC
+Confidence            589999999999864
+
+
+No 30
+>6MB2_a Interferon-inducible protein AIM2, Green fluorescent; Filament, higher order, innate immunity; HET: MSE, CRO; 5.0A {Homo sapiens}
+Probab=41.89  E-value=21  Score=20.53  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.0  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||++|.|...|.++
+T Consensus       212 ~~~v~l~E~a~a~~~  226 (226)
+T 6MB2_a          212 RDHMVLLEFVTAAGI  226 (226)
+T ss_pred             CcEEEEEEEEEccCC
+Confidence            589999999999874
+
+
+No 31
+>6JGI_A Green fluorescent protein; Green Fluorescent Protein, hydrogen, FLUORESCENT; HET: CRO; 0.85A {Aequorea victoria}
+Probab=41.87  E-value=22  Score=20.61  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (228)
+T 6JGI_A          212 RDHMVLLEFVTAAGIT  227 (228)
+T ss_pred             CceEEEEEEEEEeccC
+Confidence            5899999999998863
+
+
+No 32
+>5YR2_A Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=41.79  E-value=22  Score=21.31  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+..|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_A           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             cceEEEEEEeecccCc
+Confidence            8999999999998764
+
+
+No 33
+>5YR2_B Green fluorescent protein; Bioluminescence Protein Chromophore Linkage, FLUORESCENT; HET: BF9; 1.799A {Aequorea victoria}
+Probab=41.77  E-value=22  Score=21.31  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+..|.+++
+T Consensus        71 RDH~v~~Evv~a~~~~   86 (247)
+T 5YR2_B           71 RDHMVLLEFVTAAGIT   86 (247)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CccEEEEEEEehhCCc
+Confidence            8999999999998764
+
+
+No 34
+>6R4P_A Adenylate cyclase 9, Guanine nucleotide-binding; Membrane protein, adenylyl cyclase, G; HET: GSP; 3.1A {Bos taurus}
+Probab=41.71  E-value=22  Score=24.00  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.5  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||+.|+.+|.+++
+T Consensus      1582 ~~~~~~~e~~~~~~~~ 1597 (1637)
+T 6R4P_A         1582 RDHMVLLEFVTAAGIT 1597 (1637)
+T ss_pred             cceEEEeeHHHHhCCC
+Confidence            8999999999998864
+
+
+No 35
+>6R4O_A Adenylate cyclase 9, Guanine nucleotide-binding; Adenylyl cyclase, G protein, MANT-GTP; HET: FOK, GSP, ONM; 4.2A {Bos taurus}
+Probab=41.38  E-value=22  Score=23.57  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.3  Template_Neff=8.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||||++|+.+|.+++
+T Consensus      1478 ~~~~~~~~~~~~~~~~ 1493 (1533)
+T 6R4O_A         1478 RDHMVLLEFVTAAGIT 1493 (1533)
+T ss_pred             CceEeeehHHHHcCCc
+Confidence            8999999999998763
+
+
+No 36
+>4XGY_A Green fluorescent protein, mAb LCDR3; Fluorobody, GFP, CDR3, FLUORESCENT PROTEIN; HET: PE5, CRO; 1.494A {Aequorea victoria}
+Probab=41.24  E-value=22  Score=21.80  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.9  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|.|+..|++++
+T Consensus       233 ~~~v~l~E~a~A~~~~  248 (303)
+T 4XGY_A          233 RDHMVLLEFVTAAGIT  248 (303)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CceEEEEEEEehhccc
+Confidence            5899999999998863
+
+
+No 37
+>5OXC_A Green fluorescent protein; Fluorescent protein, tryptophan-based chromophore, Cerulean; HET: B2H; 1.02A {Vaccinia virus}
+Probab=41.15  E-value=22  Score=20.70  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.6  Template_Neff=4.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++|+|...|.+++
+T Consensus       214 ~~~v~l~E~a~A~~~~  229 (237)
+T 5OXC_A          214 RDHMVLLEFVTAAGIT  229 (237)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 38
+>3UWB_A RIIA-RIIB membrane-associated protein; SYNECHOCOCCUS PHAGE, ACTINONIN, probable peptide; HET: BB2; 1.7A {Synechococcus phage S-SSM7}
+Probab=40.40  E-value=24  Score=17.95  Aligned_cols=12  Identities=50%  Similarity=0.767  Sum_probs=6.9  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       132 ~~QHEiDHL~G~  143 (154)
+T 3UWB_A          132 VVQHEIDHLEGI  143 (154)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            456777655443
+
+
+No 39
+>3U04_A Peptide deformylase 1 (E.C.3.5.1.88); SSGCID, PEPTIDE DEFORMYLASE, ACTINONIN, EHRLICHIA; HET: BB2; 1.7A {Ehrlichia chaffeensis}
+Probab=40.17  E-value=24  Score=18.76  Aligned_cols=11  Identities=36%  Similarity=0.582  Sum_probs=6.1  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       152 ~~QHEiDHL~G  162 (190)
+T 3U04_A          152 CLQHEIDHLNG  162 (190)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45667665444
+
+
+No 40
+>6QLD_Y Inner kinetochore subunit IML3, Inner; inner kinetochore, DNA, nucleosome, DNA; 4.15A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=39.25  E-value=25  Score=20.94  Aligned_cols=9  Identities=56%  Similarity=0.726  Sum_probs=5.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    3 HMVLHEYDN   11 (16)
+Q Consensus         3 hmvlheydn   11 (16)
+                      -.+|+||.+
+T Consensus       136 ~~lL~EYnn  144 (237)
+T 6QLD_Y          136 LKVLSEYSN  144 (237)
+T ss_pred             HHHHHHHHH
+Confidence            346777654
+
+
+No 41
+>6QLF_Y Inner kinetochore subunit IML3, Inner; inner kinetochore, CCAN, DNA BINDING; 3.45A {Saccharomyces cerevisiae}
+Probab=38.88  E-value=26  Score=20.91  Aligned_cols=9  Identities=56%  Similarity=0.726  Sum_probs=5.3  Template_Neff=4.100
+
+Q ORIGINAL_SEQUE    3 HMVLHEYDN   11 (16)
+Q Consensus         3 hmvlheydn   11 (16)
+                      -.+|+||.+
+T Consensus       137 ~~lL~EYnn  145 (238)
+T 6QLF_Y          137 LKVLSEYSN  145 (238)
+T ss_pred             HHHHHHHHH
+Confidence            346777654
+
+
+No 42
+>6IKT_A Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; HET: K1U; 1.9A {Xanthomonas oryzae pv. oryzae}
+Probab=38.53  E-value=26  Score=18.23  Aligned_cols=11  Identities=55%  Similarity=0.975  Sum_probs=6.4  Template_Neff=7.000
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       138 ~~QHEiDHL~G  148 (169)
+T 6IKT_A          138 VVQHEYDHLVG  148 (169)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45677665444
+
+
+No 43
+>4XBI_A N domain of ClpB1 form; CLP Chaperone, AAA+ ATPase, Refoldase; HET: CRO, SO4; 2.013A {Plasmodium falciparum (isolate 3D7)}
+Probab=38.52  E-value=26  Score=19.91  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.6  Template_Neff=7.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       362 ~~~~~~~e~~~a~~~~  377 (381)
+T 4XBI_A          362 RDHMVLLEFVTAAGIT  377 (381)
+T ss_pred             CCEEEEEEEEEEeCCc
+Confidence            5899999999998763
+
+
+No 44
+>4IK8_A RCaMP, Green fluorescent protein; calcium indicator, mutants, fluorescent intensity; 1.55A {Entacmaea quadricolor, Aequorea victoria}
+Probab=38.23  E-value=27  Score=20.17  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.6  Template_Neff=7.900
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||||+.|+.+|+++
+T Consensus       127 r~~~~~~e~~~~~~~  141 (448)
+T 4IK8_A          127 RDHMVLLEFVTAAGI  141 (448)
+T ss_dssp             SSEEEEEEEEEEECS
+T ss_pred             cceEEEeehHHHhCc
+Confidence            899999999998775
+
+
+No 45
+>1XEO_A Peptide deformylase (E.C.3.5.1.88); cobalt deformylase, formate, HYDROLASE; 1.3A {Escherichia coli} SCOP: d.167.1.1
+Probab=38.01  E-value=27  Score=18.42  Aligned_cols=12  Identities=33%  Similarity=0.537  Sum_probs=6.9  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       129 ~~QHE~DHL~G~  140 (168)
+T 1XEO_A          129 CIQHEMDHLVGK  140 (168)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCC
+Confidence            466776654443
+
+
+No 46
+>3CPM_A Peptide deformylase, chloroplast (E.C.3.5.1.88); alpha beta, Chloroplast, Hydrolase, Iron; 2.4A {Arabidopsis thaliana}
+Probab=37.74  E-value=28  Score=18.90  Aligned_cols=12  Identities=42%  Similarity=0.911  Sum_probs=6.8  Template_Neff=6.400
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       146 ~~QHEiDHL~Gi  157 (193)
+T 3CPM_A          146 IFQHEYDHLEGV  157 (193)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            466776654443
+
+
+No 47
+>5MTC_B Putative uncharacterized protein orf60T; PDF, peptide deformylase, type 1B; 1.7A {Vibrio phage VP16T}
+Probab=37.34  E-value=28  Score=17.35  Aligned_cols=11  Identities=36%  Similarity=0.582  Sum_probs=6.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       124 ~~QHEiDHL~G  134 (137)
+T 5MTC_B          124 CLQHEIDHLNG  134 (137)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 48
+>5MTE_B Putative uncharacterized protein orf60T; PDF, peptide deformylase, type 1B; HET: BB2; 1.4A {Vibrio phage VP16T}
+Probab=37.34  E-value=28  Score=17.35  Aligned_cols=11  Identities=36%  Similarity=0.582  Sum_probs=6.0  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       124 ~~QHEiDHL~G  134 (137)
+T 5MTE_B          124 CLQHEIDHLNG  134 (137)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 49
+>3FWX_B Peptide deformylase; peptide deformylase, structural genomics, CSGID; HET: MSE; 2.0A {Vibrio cholerae O395}
+Probab=36.82  E-value=29  Score=18.26  Aligned_cols=11  Identities=55%  Similarity=0.733  Sum_probs=6.0  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       130 ~~QHEiDHL~G  140 (169)
+T 3FWX_B          130 CVQHELDHLAG  140 (169)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 50
+>1WS0_A peptide deformylase 1(E.C.3.5.1.88); alpha + beta topology, hydrolase; 1.7A {Bacillus cereus}
+Probab=36.77  E-value=29  Score=17.98  Aligned_cols=11  Identities=36%  Similarity=0.613  Sum_probs=6.1  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (156)
+T 1WS0_A          129 AIQHEIDHLHG  139 (156)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35666665444
+
+
+No 51
+>1WS1_A peptide deformylase 1(E.C.3.5.1.88); Alpha+Beta topology, actinonin complex, hydrolase; HET: BB2; 2.0A {Bacillus cereus}
+Probab=36.77  E-value=29  Score=17.98  Aligned_cols=11  Identities=36%  Similarity=0.613  Sum_probs=6.1  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (156)
+T 1WS1_A          129 AIQHEIDHLHG  139 (156)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35666665444
+
+
+No 52
+>6JF8_C Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; HET: LHY; 1.7A {Acinetobacter baumannii}
+Probab=36.68  E-value=29  Score=17.82  Aligned_cols=12  Identities=50%  Similarity=0.772  Sum_probs=6.9  Template_Neff=7.100
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       141 ~~QHEiDHL~G~  152 (159)
+T 6JF8_C          141 IVQHEVDHLNGI  152 (159)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            467777654443
+
+
+No 53
+>6KL1_A Green fluorescent protein; green fluorescent protein, visualization of; HET: DOD, CRO; 0.851A {Aequorea victoria}
+Probab=35.76  E-value=31  Score=20.00  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.8  Template_Neff=5.000
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       212 ~~~v~l~E~a~A~~~~  227 (229)
+T 6KL1_A          212 RDHMVLLEFVTAAGIT  227 (229)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CcEEEEEEEEEeccCc
+Confidence            5899999999998863
+
+
+No 54
+>3EVP_A Green fluorescent protein; circular-permutated, EGFP, Chromophore, Luminescence, Photoprotein; 1.453A {Aequorea victoria}
+Probab=34.82  E-value=33  Score=20.33  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.6  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||||+.|+.+|+++
+T Consensus        71 RDHvvl~E~~~a~~v   85 (243)
+T 3EVP_A           71 RDHMVLLEFVTAAGI   85 (243)
+T ss_dssp             SSEEEEEEEEEEECC
+T ss_pred             CceEEEeeehhHhcH
+Confidence            899999999998875
+
+
+No 55
+>6QLC_A ssDNA binding RNA Polymerase cofactor; ssDNA binding, VIRAL PROTEIN; 2.2A {Pseudomonas phage LUZ7}
+Probab=34.73  E-value=33  Score=19.07  Aligned_cols=10  Identities=40%  Similarity=0.644  Sum_probs=6.8  Template_Neff=1.400
+
+Q ORIGINAL_SEQUE    3 HMVLHEYDNA   12 (16)
+Q Consensus         3 hmvlheydna   12 (16)
+                      ||-++||...
+T Consensus        55 ~~QL~E~L~~   64 (104)
+T 6QLC_A           55 HMQLQEFLTV   64 (104)
+T ss_dssp             HHHHHHHTTB
+T ss_pred             HHHHHHHhcc
+Confidence            6777887643
+
+
+No 56
+>2OS0_A Peptide deformylase (E.C.3.5.1.88); PDF, Peptide deformylase, HYDROLASE; 1.3A {Enterococcus faecalis}
+Probab=34.68  E-value=33  Score=18.14  Aligned_cols=11  Identities=45%  Similarity=0.718  Sum_probs=6.0  Template_Neff=7.000
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       154 ~~QHEiDHL~G  164 (188)
+T 2OS0_A          154 VVQHEIDHING  164 (188)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 57
+>4JE6_A Peptide deformylase 1A, chloroplastic (E.C.3.5.1.88); peptide deformylase, mitochondrial, HYDROLASE; 2.0A {Arabidopsis thaliana}
+Probab=34.47  E-value=34  Score=18.44  Aligned_cols=11  Identities=36%  Similarity=0.691  Sum_probs=5.6  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       150 ~~QHEiDHL~G  160 (197)
+T 4JE6_A          150 ILQHECDHLDG  160 (197)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHhCC
+Confidence            35566654433
+
+
+No 58
+>4JE6_B Peptide deformylase 1A, chloroplastic (E.C.3.5.1.88); peptide deformylase, mitochondrial, HYDROLASE; 2.0A {Arabidopsis thaliana}
+Probab=34.47  E-value=34  Score=18.44  Aligned_cols=11  Identities=36%  Similarity=0.691  Sum_probs=5.6  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       150 ~~QHEiDHL~G  160 (197)
+T 4JE6_B          150 ILQHECDHLDG  160 (197)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHhCC
+Confidence            35566654433
+
+
+No 59
+>6JFN_A Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; HET: LHY; 2.04A {Pseudomonas aeruginosa}
+Probab=33.56  E-value=36  Score=17.85  Aligned_cols=11  Identities=45%  Similarity=0.697  Sum_probs=6.3  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       139 ~~QHEiDHL~G  149 (171)
+T 6JFN_A          139 VVQHECDHLIG  149 (171)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45677665444
+
+
+No 60
+>4Z4M_A GFP-TAX1BP1 UBZ2 domain fusion protein; GFP, TAX1BP1, UBZ, Zinc-finger, Flurorescent; HET: CR2; 2.15A {Aequorea victoria}
+Probab=33.13  E-value=37  Score=20.22  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.2  Template_Neff=4.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |+|++|.|...|.+++
+T Consensus       216 ~~~v~l~E~a~A~~~~  231 (260)
+T 4Z4M_A          216 RDHMVLLEFVTAAGIT  231 (260)
+T ss_dssp             SSEEEEEEEEEEECC-
+T ss_pred             CCEEEEEEEEEEeCCC
+Confidence            5799999999998753
+
+
+No 61
+>2OS3_A Peptide deformylase (E.C.3.5.1.88); PDF, peptide deformylase, HYDROLASE; HET: BB2; 2.26A {Streptococcus pyogenes M1 GAS}
+Probab=32.89  E-value=37  Score=18.38  Aligned_cols=12  Identities=42%  Similarity=0.744  Sum_probs=7.2  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       170 ~~QHEiDHL~G~  181 (205)
+T 2OS3_A          170 VVQHEIDHINGV  181 (205)
+T ss_dssp             HHHHHHHHTTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            467777655543
+
+
+No 62
+>1BS8_C PROTEIN (PEPTIDE DEFORMYLASE) (3.5.1.31); HYDROLASE, IRON METALLOPROTEASE  PROTEIN; HET: SO4; 2.2A {Escherichia coli} SCOP: d.167.1.1
+Probab=31.95  E-value=39  Score=17.89  Aligned_cols=11  Identities=36%  Similarity=0.649  Sum_probs=6.3  Template_Neff=6.500
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (168)
+T 1BS8_C          129 CIQHEMDHLVG  139 (168)
+T ss_dssp             HHHHHHHHTTT
+T ss_pred             HHHHHHHHHCC
+Confidence            46677665444
+
+
+No 63
+>1XEM_A Peptide deformylase (E.C.3.5.1.88); zinc deformylase, formate, HYDROLASE; HET: FMT; 1.76A {Escherichia coli} SCOP: d.167.1.1
+Probab=31.95  E-value=39  Score=17.89  Aligned_cols=11  Identities=36%  Similarity=0.649  Sum_probs=6.3  Template_Neff=6.500
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (168)
+T 1XEM_A          129 CIQHEMDHLVG  139 (168)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            46677665444
+
+
+No 64
+>3E3U_A Peptide deformylase (E.C.3.5.1.88); metallo-enzyme, Hydrolase, Iron, Metal-binding, Protein; HET: NVC; 1.56A {Mycobacterium tuberculosis}
+Probab=31.67  E-value=40  Score=18.16  Aligned_cols=11  Identities=36%  Similarity=0.564  Sum_probs=5.7  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       145 ~~QHEiDHL~G  155 (197)
+T 3E3U_A          145 MLQHETGHLDG  155 (197)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35666654444
+
+
+No 65
+>3PN3_B Peptide deformylase 1B, chloroplastic (E.C.3.5.1.88); peptide deformylase, 1B, PDF, N-terminal; HET: PN3, ZN; 1.3A {Arabidopsis thaliana}
+Probab=31.42  E-value=41  Score=18.39  Aligned_cols=11  Identities=45%  Similarity=0.899  Sum_probs=5.8  Template_Neff=6.200
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       130 i~QHEiDHL~G  140 (193)
+T 3PN3_B          130 IFQHEYDHLEG  140 (193)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654443
+
+
+No 66
+>1DEF_A PEPTIDE DEFORMYLASE; HYDROLASE, ZINC METALLOPROTEASE; NMR {Escherichia coli} SCOP: d.167.1.1
+Probab=31.05  E-value=42  Score=17.20  Aligned_cols=11  Identities=36%  Similarity=0.649  Sum_probs=6.1  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (147)
+T 1DEF_A          129 CIQHEMDHLVG  139 (147)
+T ss_dssp             HHHHHHHHHSS
+T ss_pred             HHHHHHHHHCC
+Confidence            45677664433
+
+
+No 67
+>4HE4_B Yellow fluorescent protein; phiYFP, yellow fluorescent protein, mutant; HET: CRO; 2.05A {Phialidium sp. SL-2003}
+Probab=30.57  E-value=43  Score=19.72  Aligned_cols=16  Identities=38%  Similarity=0.395  Sum_probs=13.3  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |+|+.|.|...|..++
+T Consensus       213 k~~v~l~E~a~A~~~~  228 (244)
+T 4HE4_B          213 RDNMSLKETVRAVDCR  228 (244)
+T ss_dssp             SCEEEEEEEEEEECHH
+T ss_pred             CceEEEEEEEEEeeCc
+Confidence            5799999999997753
+
+
+No 68
+>6OW7_Q Peptide deformylase (E.C.3.5.1.88); Inhibitor, complex, metal protein, enzyme; HET: SO4, N9Y; 1.45A {Streptococcus pneumoniae}
+Probab=30.56  E-value=43  Score=18.04  Aligned_cols=11  Identities=45%  Similarity=0.718  Sum_probs=6.0  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       169 ~~QHEiDHL~G  179 (202)
+T 6OW7_Q          169 VVQHEIDHING  179 (202)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 69
+>2EW6_A peptide deformylase (E.C.3.5.1.88); Cobalt Helicobacter pylori peptide deformylase; HET: Y13; 2.2A {Helicobacter pylori}
+Probab=30.47  E-value=43  Score=17.88  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=5.8  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       134 ~~QHEiDHL~G  144 (181)
+T 2EW6_A          134 AIQHEIDHLNG  144 (181)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654444
+
+
+No 70
+>4E9A_A Peptide deformylase 11 (E.C.3.5.1.88); Hydrolase; HET: EPE, QAP; 1.662A {Helicobacter pylori}
+Probab=30.47  E-value=43  Score=17.88  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=5.8  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       134 ~~QHEiDHL~G  144 (181)
+T 4E9A_A          134 AIQHEIDHLNG  144 (181)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654444
+
+
+No 71
+>4E9B_A Peptide deformylase 11 (E.C.3.5.1.88); HYDROLASE-HYDROLASE INHIBTIOR complex; HET: BB2, EPE; 1.7A {Helicobacter pylori}
+Probab=30.47  E-value=43  Score=17.88  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=5.8  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       134 ~~QHEiDHL~G  144 (181)
+T 4E9B_A          134 AIQHEIDHLNG  144 (181)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654444
+
+
+No 72
+>3G5P_D Peptide deformylase, mitochondrial (E.C.3.5.1.88); PEPTIDE DEFORMYLASE, HUMAN, MITOCHONDRIA, Hydrolase; HET: PO4; 1.7A {Homo sapiens}
+Probab=29.87  E-value=45  Score=17.39  Aligned_cols=11  Identities=36%  Similarity=0.742  Sum_probs=5.9  Template_Neff=7.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       151 ~~QHEiDHL~G  161 (183)
+T 3G5P_D          151 IIQHEMDHLQG  161 (183)
+T ss_dssp             HHHHHHHHHHT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664433
+
+
+No 73
+>1IX1_B Peptide deformylase (E.C.3.5.1.88); PROTEIN-INHIBITOR COMPLEX, HYDROLASE; HET: MHA, BB2; 1.85A {Pseudomonas aeruginosa} SCOP: d.167.1.1
+Probab=29.77  E-value=45  Score=17.59  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=5.9  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       131 ~~QHEiDHL~G  141 (171)
+T 1IX1_B          131 CIQHECDHLNG  141 (171)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654444
+
+
+No 74
+>5JF6_A Peptide deformylase (E.C.3.5.1.88); PDF, type 2, NME, N-terminal; HET: BB4; 1.7A {Streptococcus agalactiae}
+Probab=29.73  E-value=45  Score=17.92  Aligned_cols=12  Identities=50%  Similarity=0.769  Sum_probs=6.7  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       171 ~~QHEiDHL~Gi  182 (204)
+T 5JF6_A          171 VVQHEIDHIDGI  182 (204)
+T ss_dssp             HHHHHHHHHHTC
+T ss_pred             HHHHHHHHhCCc
+Confidence            466776654443
+
+
+No 75
+>3CMD_B Peptide deformylase (E.C.3.5.1.88); PDF, HYDROLASE; HET: MLI; 2.7A {Enterococcus faecium}
+Probab=29.30  E-value=47  Score=18.02  Aligned_cols=12  Identities=42%  Similarity=0.744  Sum_probs=6.5  Template_Neff=6.500
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       163 ~~QHE~DHL~Gi  174 (196)
+T 3CMD_B          163 VVQHEIDHINGV  174 (196)
+T ss_dssp             HHHHHHHHTTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            456666654443
+
+
+No 76
+>1V3Y_A Peptide deformylase(E.C.3.5.1.88); peptide deformylase, protein synthesis, RIKEN; 1.81A {Thermus thermophilus} SCOP: d.167.1.1
+Probab=28.81  E-value=48  Score=17.79  Aligned_cols=12  Identities=42%  Similarity=0.667  Sum_probs=6.7  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       142 v~QHEiDHL~Gi  153 (192)
+T 1V3Y_A          142 VFQHEIDHLDGI  153 (192)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCC
+Confidence            456676654443
+
+
+No 77
+>1V3Y_B Peptide deformylase(E.C.3.5.1.88); peptide deformylase, protein synthesis, RIKEN; HET: OCS; 1.81A {Thermus thermophilus} SCOP: d.167.1.1
+Probab=28.81  E-value=48  Score=17.79  Aligned_cols=12  Identities=42%  Similarity=0.667  Sum_probs=6.7  Template_Neff=6.700
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       142 v~QHEiDHL~Gi  153 (192)
+T 1V3Y_B          142 VFQHEIDHLDGI  153 (192)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCC
+Confidence            456676654443
+
+
+No 78
+>6JEV_B Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; HET: K2U; 1.9A {Acinetobacter baumannii MRSN 3527}
+Probab=28.67  E-value=49  Score=17.54  Aligned_cols=11  Identities=36%  Similarity=0.637  Sum_probs=6.4  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (171)
+T 6JEV_B          129 CIQHEMDHLNG  139 (171)
+T ss_dssp             HHHHHHHHHBT
+T ss_pred             HHHHHHHHHCC
+Confidence            46677665444
+
+
+No 79
+>6J9E_B DNA-directed RNA polymerase subunit alpha; RNA polymerase, transcription termination, anti-termination; 3.41A {Xanthomonas oryzae pv. oryzae (strain PXO99A)}
+Probab=28.35  E-value=50  Score=18.80  Aligned_cols=11  Identities=55%  Similarity=1.053  Sum_probs=6.2  Template_Neff=7.400
+
+Q ORIGINAL_SEQUE    5 VLHEYDNAAGI   15 (16)
+Q Consensus         5 vlheydnaagi   15 (16)
+                      +.+||++..|+
+T Consensus        78 ~~hE~~~i~gv   88 (346)
+T 6J9E_B           78 VLHEYTTVEGL   88 (346)
+T ss_dssp             CCSSSSCCCSS
+T ss_pred             cccccccCccc
+Confidence            45666665443
+
+
+No 80
+>4EN1_A Green fluorescent protein; GFP-like beta-barrel, FLUORESCENT PROTEIN; HET: GOL, PEG, SWG; 1.62A {Aequorea victoria}
+Probab=28.35  E-value=50  Score=19.78  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.5  Template_Neff=4.600
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       232 ~~~v~l~E~a~A~~~~  247 (264)
+T 4EN1_A          232 RDHMVLLEFVTAAGIT  247 (264)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEEecccc
+Confidence            5899999999998753
+
+
+No 81
+>3L87_A Peptide deformylase (E.C.3.5.1.88); def, peptide deformylase, Hydrolase, Iron; 2.0A {Streptococcus mutans}
+Probab=28.13  E-value=50  Score=18.58  Aligned_cols=12  Identities=50%  Similarity=0.808  Sum_probs=6.7  Template_Neff=6.200
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       205 ~~QHEiDHL~Gi  216 (238)
+T 3L87_A          205 VVQHEIDHTNGI  216 (238)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCc
+Confidence            456776654443
+
+
+No 82
+>2OS1_A Peptide deformylase (E.C.3.5.1.88); PDF, peptide deformylase, HYDROLASE; HET: BB2, SO4; 1.5A {Enterococcus faecalis}
+Probab=28.02  E-value=51  Score=17.46  Aligned_cols=11  Identities=45%  Similarity=0.718  Sum_probs=5.9  Template_Neff=7.000
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       154 ~~QHEiDHL~G  164 (188)
+T 2OS1_A          154 VVQHEIDHING  164 (188)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664443
+
+
+No 83
+>5CY7_A Peptide deformylase (E.C.3.5.1.88); a peptide deformylase, Xanthomonas, fragment; HET: 56U; 2.4A {Xanthomonas oryzae pv. oryzae KACC10331}
+Probab=27.96  E-value=51  Score=17.34  Aligned_cols=11  Identities=55%  Similarity=0.975  Sum_probs=6.0  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       138 ~~QHEiDHL~G  148 (171)
+T 5CY7_A          138 VVQHEYDHLVG  148 (171)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664433
+
+
+No 84
+>1LQY_A peptide deformylase 2 (E.C.3.5.1.88); ACTINONIN, INHIBITION, POLYPEPTIDE DEFORMYLASE, HYDROLASE; HET: BB2; 1.9A {Geobacillus stearothermophilus} SCOP: d.167.1.1
+Probab=27.58  E-value=52  Score=17.36  Aligned_cols=11  Identities=36%  Similarity=0.607  Sum_probs=5.8  Template_Neff=7.000
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       150 ~~QHEiDHL~G  160 (184)
+T 1LQY_A          150 VFQHEIDHLNG  160 (184)
+T ss_pred             HHHHHHHHHCC
+Confidence            35666654443
+
+
+No 85
+>5HGW_A Peptide deformylase (E.C.3.5.1.88); SSGCID, Peptide deformylase, Structural Genomics; HET: SO4, EDO; 1.6A {Burkholderia ambifaria (strain MC40-6)}
+Probab=27.39  E-value=53  Score=17.79  Aligned_cols=11  Identities=55%  Similarity=0.948  Sum_probs=6.1  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       146 i~QHEiDHL~G  156 (185)
+T 5HGW_A          146 VVQHEYDHLIG  156 (185)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 86
+>4XOV_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.2A {Aequorea victoria}
+Probab=26.99  E-value=55  Score=19.73  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.6  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOV_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEECCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 87
+>4XOW_A rsGreen0.7; Green Fluorescent Proteins, Reversible photoswitchablility; HET: CRO; 1.25A {Aequorea victoria}
+Probab=26.99  E-value=55  Score=19.73  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.6  Template_Neff=4.500
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||++|.|...|.+++
+T Consensus       247 ~~~v~l~E~a~A~~~~  262 (270)
+T 4XOW_A          247 RDHMVLLEFVTAAGIT  262 (270)
+T ss_dssp             SSEEEEEEEEEEESCC
+T ss_pred             CCEEEEEEEEehhccc
+Confidence            5899999999998763
+
+
+No 88
+>4NDJ_A E23-YFP; helix-turn-helix, fluorescent protein, de novo; HET: CR2; 1.85A {Aequorea victoria}
+Probab=26.92  E-value=55  Score=18.38  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=12.8  Template_Neff=7.200
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      +||++|.|...|.++
+T Consensus       266 ~~~~~~~E~~~a~~~  280 (297)
+T 4NDJ_A          266 RDHMVLLEFVTAAGI  280 (297)
+T ss_pred             CCEEEEEEEEEEeeC
+Confidence            589999999998765
+
+
+No 89
+>4DR8_A Peptide deformylase (E.C.3.5.1.88); HYDROLASE; HET: FMT, EDO; 1.55A {Synechococcus elongatus}
+Probab=26.60  E-value=56  Score=17.80  Aligned_cols=11  Identities=36%  Similarity=0.637  Sum_probs=5.6  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       148 ~~QHEiDHL~G  158 (192)
+T 4DR8_A          148 CIQHEMDHLNG  158 (192)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35566654433
+
+
+No 90
+>4DR8_D Peptide deformylase (E.C.3.5.1.88); HYDROLASE; HET: EDO, FMT; 1.55A {Synechococcus elongatus}
+Probab=26.60  E-value=56  Score=17.80  Aligned_cols=11  Identities=36%  Similarity=0.637  Sum_probs=5.6  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       148 ~~QHEiDHL~G  158 (192)
+T 4DR8_D          148 CIQHEMDHLNG  158 (192)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35566654433
+
+
+No 91
+>4WXK_A peptide deformylase (3.5.1.88); peptide deformylase, HYDROLASE; HET: GOL; 2.05A {Haemophilus influenzae 86-028NP}
+Probab=26.10  E-value=58  Score=17.30  Aligned_cols=11  Identities=36%  Similarity=0.622  Sum_probs=6.1  Template_Neff=6.500
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       130 ~~QHEiDHL~G  140 (169)
+T 4WXK_A          130 CIQHEIDHLNG  140 (169)
+T ss_dssp             HHHHHHHHHBT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666665444
+
+
+No 92
+>4WXK_C peptide deformylase (3.5.1.88); peptide deformylase, HYDROLASE; HET: GOL; 2.05A {Haemophilus influenzae 86-028NP}
+Probab=26.10  E-value=58  Score=17.30  Aligned_cols=11  Identities=36%  Similarity=0.622  Sum_probs=6.1  Template_Neff=6.500
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       130 ~~QHEiDHL~G  140 (169)
+T 4WXK_C          130 CIQHEIDHLNG  140 (169)
+T ss_dssp             HHHHHHHHHBT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666665444
+
+
+No 93
+>6JFS_A Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; HET: LHY; 2.25A {Staphylococcus aureus}
+Probab=26.02  E-value=58  Score=17.30  Aligned_cols=11  Identities=36%  Similarity=0.607  Sum_probs=5.8  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       151 ~~QHEiDHL~G  161 (183)
+T 6JFS_A          151 VFQHEIDHLNG  161 (183)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654433
+
+
+No 94
+>6JER_A Peptide deformylase (E.C.3.5.1.88); peptide deformylase, hydrolase; 2.4A {Acinetobacter baumannii MRSN 3527}
+Probab=25.89  E-value=59  Score=17.22  Aligned_cols=12  Identities=33%  Similarity=0.526  Sum_probs=6.9  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAGI   15 (16)
+Q Consensus         4 mvlheydnaagi   15 (16)
+                      ++|||++--.|+
+T Consensus       129 ~~QHEiDHL~G~  140 (170)
+T 6JER_A          129 CIQHEMDHLNGK  140 (170)
+T ss_dssp             HHHHHHHHHTTC
+T ss_pred             HHHHHHHHHCCC
+Confidence            466776654443
+
+
+No 95
+>1DFF_A PEPTIDE DEFORMYLASE; HYDROLASE, ZINC METALLOPROTEASE; 2.88A {Escherichia coli} SCOP: d.167.1.1
+Probab=25.83  E-value=59  Score=17.13  Aligned_cols=11  Identities=36%  Similarity=0.649  Sum_probs=6.2  Template_Neff=6.600
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       129 ~~QHEiDHL~G  139 (164)
+T 1DFF_A          129 CIQHEMDHLVG  139 (164)
+T ss_dssp             HHHHHHHHTBT
+T ss_pred             HHHHHHHHHCC
+Confidence            45667665444
+
+
+No 96
+>5J3N_A Green fluorescent protein,HsdR; HsdR, EcoR124I, type I restriction-modification; HET: GYS; 2.45A {Aequorea victoria}
+Probab=25.68  E-value=60  Score=19.89  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=13.7  Template_Neff=5.700
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      ++|++|.|...|.+++
+T Consensus       219 ~~~v~~~E~a~A~~~~  234 (396)
+T 5J3N_A          219 RDHMVLLEFVTAAGIT  234 (396)
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998864
+
+
+No 97
+>6XWY_A Red fluorescent protein eqFP611; pH resistant, long stokes shift; HET: MLA, EDO, NRQ; 1.75A {Entacmaea quadricolor}
+Probab=25.64  E-value=60  Score=18.72  Aligned_cols=13  Identities=23%  Similarity=0.110  Sum_probs=11.2  Template_Neff=5.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAA   13 (16)
+Q Consensus         1 rdhmvlheydnaa   13 (16)
+                      |||++|+|...|.
+T Consensus       205 ~~~v~~~E~a~A~  217 (219)
+T 6XWY_A          205 ETYVVQREVAVAK  217 (219)
+T ss_dssp             TTEEEEEEEEEEE
+T ss_pred             ccEEEEEEEEEEe
+Confidence            6899999998873
+
+
+No 98
+>1Y6H_B Peptide deformylase(E.C.3.5.1.88); open and close conformation, PDF; HET: FMT; 2.2A {Leptospira interrogans} SCOP: d.167.1.1
+Probab=24.96  E-value=63  Score=17.10  Aligned_cols=11  Identities=36%  Similarity=0.579  Sum_probs=5.9  Template_Neff=6.800
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       140 ~~QHEiDHL~G  150 (177)
+T 1Y6H_B          140 VYQHECDHLQG  150 (177)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35666654444
+
+
+No 99
+>1RL4_B formylmethionine deformylase (E.C.3.5.1.31); crystal engineering, drug design, malaria; HET: BL5, BRR; 2.18A {Plasmodium falciparum} SCOP: d.167.1.1
+Probab=24.92  E-value=63  Score=17.49  Aligned_cols=11  Identities=36%  Similarity=0.809  Sum_probs=5.5  Template_Neff=6.400
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       139 ~~QHEiDHL~G  149 (188)
+T 1RL4_B          139 IFQHEFDHLNG  149 (188)
+T ss_dssp             HHHHHHHHHHT
+T ss_pred             HHHHHHHHHCC
+Confidence            35566654333
+
+
+No 100
+>4RYS_A NowGFP; Fluorescent protein, NowGFP, TWG chromophore; HET: GOL, CRF; 1.18A {CFP MARKER PLASMID PWM1009}
+Probab=24.48  E-value=65  Score=18.98  Aligned_cols=16  Identities=69%  Similarity=0.978  Sum_probs=13.6  Template_Neff=4.800
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      +||+.|.|...|.++.
+T Consensus       225 ~~~v~l~E~a~A~~~~  240 (241)
+T 4RYS_A          225 RDHMVLLEFVTAAGIP  240 (241)
+T ss_dssp             SSEEEEEEEEEEECSC
+T ss_pred             CcEEEEEEEEEEcCCC
+Confidence            5899999999998763
+
+
+No 101
+>2OKL_B Peptide deformylase 2 (E.C.3.5.1.88); hydrolase; HET: BB2, CIT; 1.7A {Bacillus cereus}
+Probab=24.31  E-value=66  Score=17.08  Aligned_cols=11  Identities=36%  Similarity=0.607  Sum_probs=5.6  Template_Neff=6.900
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       151 ~~QHEiDHL~G  161 (185)
+T 2OKL_B          151 VFQHEIDHLNG  161 (185)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            35666654333
+
+
+No 102
+>1LM4_B peptide deformylase PDF1 (E.C.3.5.1.88); PDF, Metalloenzyme, Staphylococcus aureus, HYDROLASE; HET: OCS; 1.45A {Staphylococcus aureus} SCOP: d.167.1.1
+Probab=23.83  E-value=68  Score=17.57  Aligned_cols=11  Identities=36%  Similarity=0.607  Sum_probs=6.4  Template_Neff=6.200
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       162 v~QHEiDHL~G  172 (194)
+T 1LM4_B          162 VFQHEIDHLNG  172 (194)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            46677665444
+
+
+No 103
+>6J9F_A DNA-directed RNA polymerase subunit alpha; RNA polymerase, transcription termination, anti-termination; 3.95A {Xanthomonas oryzae pv. oryzae PXO99A}
+Probab=23.81  E-value=68  Score=18.28  Aligned_cols=10  Identities=60%  Similarity=1.066  Sum_probs=5.3  Template_Neff=7.400
+
+Q ORIGINAL_SEQUE    5 VLHEYDNAAG   14 (16)
+Q Consensus         5 vlheydnaag   14 (16)
+                      +.+||.+..|
+T Consensus        78 ~~hE~~~i~g   87 (346)
+T 6J9F_A           78 VLHEYTTVEG   87 (346)
+T ss_pred             cccchhcCcc
+Confidence            4556655544
+
+
+No 104
+>5J46_A Peptide deformylase (E.C.3.5.1.88); SSGCID, Peptide deformylase, Structural Genomics; 1.95A {Burkholderia multivorans (strain ATCC 17616 / 249)}
+Probab=23.29  E-value=71  Score=17.32  Aligned_cols=11  Identities=36%  Similarity=0.625  Sum_probs=6.0  Template_Neff=6.400
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       153 ~~QHEiDHL~G  163 (189)
+T 5J46_A          153 CIQHEMDHLMG  163 (189)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666664444
+
+
+No 105
+>1BDF_D RNA POLYMERASE ALPHA SUBUNIT; NUCLEOTIDYLTRANSFERASE, RNAP, ALPHA, ASSEMBLE; 2.5A {Escherichia coli} SCOP: d.74.3.1, d.181.1.1
+Probab=23.03  E-value=72  Score=16.76  Aligned_cols=8  Identities=50%  Similarity=0.916  Sum_probs=3.6  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    6 LHEYDNAA   13 (16)
+Q Consensus         6 lheydnaa   13 (16)
+                      .+|+.+-.
+T Consensus        65 ~~e~~n~s   72 (235)
+T 1BDF_D           65 LHEYSTKE   72 (235)
+T ss_dssp             CSSSSCCT
+T ss_pred             ccccccCC
+Confidence            44554443
+
+
+No 106
+>1JYM_B peptide deformylase; PDF, malaria, plasmodium, deformylation, metalloenzyme; HET: CO, MSE; 2.8A {Plasmodium falciparum} SCOP: d.167.1.1
+Probab=22.94  E-value=73  Score=17.25  Aligned_cols=11  Identities=36%  Similarity=0.809  Sum_probs=5.8  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       131 ~~QHEiDHL~G  141 (183)
+T 1JYM_B          131 IFQHEFDHLNG  141 (183)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654433
+
+
+No 107
+>1LME_A peptide deformylase (E.C.3.5.1.88); thermophile, PDF, peptide deformylase, metalloenzyme; 2.2A {Thermotoga maritima} SCOP: d.167.1.1
+Probab=22.82  E-value=73  Score=17.26  Aligned_cols=11  Identities=36%  Similarity=0.782  Sum_probs=5.8  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       138 ~~QHEiDHL~G  148 (176)
+T 1LME_A          138 VFQHEFDHLNG  148 (176)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654443
+
+
+No 108
+>1LME_B peptide deformylase (E.C.3.5.1.88); thermophile, PDF, peptide deformylase, metalloenzyme; HET: OCS; 2.2A {Thermotoga maritima} SCOP: d.167.1.1
+Probab=22.82  E-value=73  Score=17.26  Aligned_cols=11  Identities=36%  Similarity=0.782  Sum_probs=5.8  Template_Neff=6.100
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       138 ~~QHEiDHL~G  148 (176)
+T 1LME_B          138 VFQHEFDHLNG  148 (176)
+T ss_dssp             HHHHHHHHTTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654443
+
+
+No 109
+>4JRB_A Green fluorescent protein, Major allergen; Allergen, asthma, new fold, proposed; HET: PGT, D12; 2.414A {Aequorea victoria, Blattella germanica}
+Probab=21.83  E-value=79  Score=19.17  Aligned_cols=15  Identities=73%  Similarity=1.041  Sum_probs=13.7  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGI   15 (16)
+Q Consensus         1 rdhmvlheydnaagi   15 (16)
+                      |||+|++|+..|+|.
+T Consensus       216 ~dh~~~~E~~~a~g~  230 (416)
+T 4JRB_A          216 RDHMVLLEFVTAAGI  230 (416)
+T ss_dssp             SCEEEEEEEEEEESS
+T ss_pred             cccEEEEEEEecccc
+Confidence            899999999999875
+
+
+No 110
+>4KN7_A DNA-directed RNA polymerase subunit alpha; transcription, DNA, RNA, TRANSFERASE-ANTIBIOTIC complex; HET: 1RM; 3.686A {Escherichia coli}
+Probab=21.69  E-value=80  Score=17.82  Aligned_cols=10  Identities=60%  Similarity=1.066  Sum_probs=5.0  Template_Neff=7.500
+
+Q ORIGINAL_SEQUE    5 VLHEYDNAAG   14 (16)
+Q Consensus         5 vlheydnaag   14 (16)
+                      +.+||.+-.|
+T Consensus        64 ~~he~~n~~g   73 (329)
+T 4KN7_A           64 VLHEYSTKEG   73 (329)
+T ss_dssp             CCSTTCCCTT
+T ss_pred             ccccccCCcc
+Confidence            3455555444
+
+
+No 111
+>4YFK_G Escherichia coli RNA polymerase alpha; switch region, squaramide, transcription-inhibitor complex; HET: 4C6; 3.571A {Escherichia coli O139:H28 (strain E24377A / ETEC)}
+Probab=21.69  E-value=80  Score=17.82  Aligned_cols=10  Identities=60%  Similarity=1.066  Sum_probs=5.0  Template_Neff=7.500
+
+Q ORIGINAL_SEQUE    5 VLHEYDNAAG   14 (16)
+Q Consensus         5 vlheydnaag   14 (16)
+                      +.+||.+-.|
+T Consensus        64 ~~he~~n~~g   73 (329)
+T 4YFK_G           64 VLHEYSTKEG   73 (329)
+T ss_dssp             CSCSSSCCTT
+T ss_pred             ccccccCCcc
+Confidence            3455555444
+
+
+No 112
+>6PST_H DNA-directed RNA polymerase subunit alpha; TRANSCRIPTION, transcription-dna complex; HET: 1N7; 3.0A {Escherichia coli}
+Probab=21.69  E-value=80  Score=17.82  Aligned_cols=10  Identities=60%  Similarity=1.066  Sum_probs=5.0  Template_Neff=7.500
+
+Q ORIGINAL_SEQUE    5 VLHEYDNAAG   14 (16)
+Q Consensus         5 vlheydnaag   14 (16)
+                      +.+||.+-.|
+T Consensus        64 ~~he~~n~~g   73 (329)
+T 6PST_H           64 VLHEYSTKEG   73 (329)
+T ss_pred             ccccccCCcc
+Confidence            3455555444
+
+
+No 113
+>1N5N_A Peptide deformylase (E.C.3.5.1.88); metalloenzyme, drug design, deformylation, HYDROLASE; HET: GOL; 1.8A {Pseudomonas aeruginosa} SCOP: d.167.1.1
+Probab=21.66  E-value=80  Score=17.11  Aligned_cols=11  Identities=36%  Similarity=0.628  Sum_probs=5.7  Template_Neff=6.200
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++--.|
+T Consensus       143 ~~QHEiDHL~G  153 (180)
+T 1N5N_A          143 CIQHECDHLNG  153 (180)
+T ss_dssp             HHHHHHHHHBT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654433
+
+
+No 114
+>5E5D_A Peptide deformylase (E.C.3.5.1.88); HYDROLASE, peptide deformylase, metal binding; 2.6A {Xanthomonas oryzae pv. oryzae KACC10331}
+Probab=21.66  E-value=80  Score=17.64  Aligned_cols=11  Identities=55%  Similarity=0.975  Sum_probs=6.3  Template_Neff=6.000
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|||++--.|
+T Consensus       179 ~~QHEiDHL~G  189 (212)
+T 5E5D_A          179 VVQHEYDHLVG  189 (212)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45677665444
+
+
+No 115
+>6CAZ_A Peptide deformylase (E.C.3.5.1.88); NIAID, structural genomics, metalloenzyme, Legionnaires'; HET: MES; 1.5A {Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)}
+Probab=21.57  E-value=81  Score=17.02  Aligned_cols=11  Identities=36%  Similarity=0.597  Sum_probs=5.6  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++---|
+T Consensus       138 ~~QHEiDHL~G  148 (178)
+T 6CAZ_A          138 CLQHEIDHMNG  148 (178)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654333
+
+
+No 116
+>6CK7_B Peptide deformylase (E.C.3.5.1.88); National Institute of Allergy and; HET: BB2, SO4; 1.65A {Legionella pneumophila}
+Probab=21.57  E-value=81  Score=17.02  Aligned_cols=11  Identities=36%  Similarity=0.597  Sum_probs=5.6  Template_Neff=6.300
+
+Q ORIGINAL_SEQUE    4 MVLHEYDNAAG   14 (16)
+Q Consensus         4 mvlheydnaag   14 (16)
+                      ++|+|++---|
+T Consensus       138 ~~QHEiDHL~G  148 (178)
+T 6CK7_B          138 CLQHEIDHMNG  148 (178)
+T ss_dssp             HHHHHHHHHTT
+T ss_pred             HHHHHHHHHCC
+Confidence            45666654333
+
+
+No 117
+>6DGV_A iGABASnFR; GABA binding protein, Fluorescent sensor; HET: CRO; 2.8A {Pseudomonas fluorescens}
+Probab=21.39  E-value=82  Score=18.74  Aligned_cols=16  Identities=75%  Similarity=1.028  Sum_probs=14.4  Template_Neff=8.100
+
+Q ORIGINAL_SEQUE    1 RDHMVLHEYDNAAGIT   16 (16)
+Q Consensus         1 rdhmvlheydnaagit   16 (16)
+                      |||++..||..|+||.
+T Consensus       345 ~~~~~~~~~~~~~~~~  360 (566)
+T 6DGV_A          345 RDHMVLLEFVTAAGIT  360 (566)
+T ss_pred             HhHHHHHHHHHHHhHH
+Confidence            7999999999999874
+
+

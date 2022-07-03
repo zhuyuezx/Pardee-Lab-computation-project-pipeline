@@ -1,0 +1,14 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_A0A8J1UWU9/447-458 DE [subseq from] Ofus.G23208 protein n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1UWU9_OWEFU
+#=GS UniRef90_A0A8J1UWU9/525-536 DE [subseq from] Ofus.G23208 protein n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1UWU9_OWEFU
+#=GS UniRef90_A0A8J1UWU9/564-575 DE [subseq from] Ofus.G23208 protein n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1UWU9_OWEFU
+#=GS UniRef90_A0A8J1UWU9/603-614 DE [subseq from] Ofus.G23208 protein n=1 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8J1UWU9_OWEFU
+
+ORIGINAL_SEQUENCE_GFP11             RDHMVTHEYVNAAGIT
+UniRef90_A0A8J1UWU9/447-458         ---AITHEYVNVVGI-
+UniRef90_A0A8J1UWU9/525-536         ---AITHEYVNVVGI-
+UniRef90_A0A8J1UWU9/564-575         ---AITHEYVNVVGI-
+UniRef90_A0A8J1UWU9/603-614         ---AITHEYVNVVGI-
+#=GC RF                             xxxxxxxxxxxxxxxx
+//
