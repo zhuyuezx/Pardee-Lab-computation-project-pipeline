@@ -32,4 +32,5 @@ fi
 
 python3 docker/run_docker.py --fasta_paths=$input \
 	--max_template_date=2021-05-14 --output_dir=$output \
-	--data_dir=/mnt/disks/data
+	--data_dir=/mnt/disks/data --model_preset=multimer \
+	--num_multimer_predictions_per_model=1
