@@ -1,0 +1,47 @@
+---
+title: "linear-regression"
+output: html_document
+---
+
+```{r}
+df <- read.csv('align_res.csv')
+brightness <- df$brightness
+score1 <- df$score1
+score2 <- df$score2
+```
+
+```{r}
+diff1 <- data.frame(x = score1,y = brightness)
+model1 <- lm(y ~ x, diff1)
+intercept1 <- model1$coefficient[1]
+slope1 <- model1$coefficient[2]
+intercept1
+slope1
+```
+
+```{r}
+library(ggplot2)
+ggplot(diff1, aes(score1, brightness)) + geom_point() + geom_abline(intercept = intercept1, slope = slope1)
+```
+
+```{r}
+summary(model1)
+```
+
+```{r}
+diff2 <- data.frame(x = score2,y = brightness)
+model2 <- lm(y ~ x, diff2)
+intercept2 <- model2$coefficient[1]
+slope2 <- model2$coefficient[2]
+intercept2
+slope2
+```
+
+```{r}
+library(ggplot2)
+ggplot(diff2, aes(score2, brightness)) + geom_point() + geom_abline(intercept = intercept2, slope = slope2)
+```
+
+```{r}
+summary(model2)
+```
