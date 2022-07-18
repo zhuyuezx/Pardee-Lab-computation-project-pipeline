@@ -8,6 +8,7 @@ df <- read.csv('align_res.csv')
 brightness <- df$brightness
 score1 <- df$score1
 score2 <- df$score2
+score3 <- df$score3
 ```
 
 ```{r}
@@ -44,4 +45,22 @@ ggplot(diff2, aes(score2, brightness)) + geom_point() + geom_abline(intercept = 
 
 ```{r}
 summary(model2)
+```
+
+```{r}
+diff3 <- data.frame(x = score3,y = brightness)
+model3 <- lm(y ~ x, diff3)
+intercept3 <- model3$coefficient[1]
+slope3 <- model3$coefficient[2]
+intercept3
+slope3
+```
+
+```{r}
+library(ggplot2)
+ggplot(diff3, aes(score3, brightness)) + geom_point() + geom_abline(intercept = intercept3, slope = slope3)
+```
+
+```{r}
+summary(model3)
 ```
