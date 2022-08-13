@@ -15,9 +15,6 @@ echo \
         $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
-#sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker
 curl https://raw.githubusercontent.com/GoogleCloudPlatform/compute-gpu-installation/main/linux/install_gpu_driver.py --output install_gpu_driver.py
 sudo python3 install_gpu_driver.py
 distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \
