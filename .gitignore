@@ -5,3 +5,4 @@ scores/Scores.txt
 test_structures/SPServer_request.txt
 scores/GFP_Brightness_Database.accdb
 scores/GFP_Brightness_Database.laccdb
+*.pse
