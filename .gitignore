@@ -6,3 +6,5 @@ test_structures/SPServer_request.txt
 scores/GFP_Brightness_Database.accdb
 scores/GFP_Brightness_Database.laccdb
 *.pse
+multimer_results/.RData
+multimer_results/.Rhistory
