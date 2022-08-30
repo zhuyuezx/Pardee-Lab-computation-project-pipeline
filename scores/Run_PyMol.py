@@ -9,16 +9,36 @@ Intruction:
 '''
 from pymol import cmd, stored
 import pandas as pd
+import os
 
-file_path = "C:/Users/annat\OneDrive - University of Toronto/USRP Summer/GitHub/Pardee-Lab-computation-project-pipeline/multimer_results/"
-full_gfp = file_path + 'full_GFP.pdb'
-cmd.load(full_gfp)
-
-all_files = []
-for i in range(1,110):
-  file_name = file_path + f'high_brightness{i}.pdb'
-  all_files.append(file_name)
-  cmd.load(file_name)
+'''
+file paths
+'''
+# # file path for novel GFPs
+# file_path2 = 'C:/Users/annat/OneDrive - University of Toronto/USRP Summer/GitHub/Pardee-Lab-computation-project-pipeline/novel_GFP11_Sequences/'
+# file_path = "C:/Users/annat\OneDrive - University of Toronto/USRP Summer/GitHub/Pardee-Lab-computation-project-pipeline/multimer_results/"
+# full_gfp = file_path + 'full_GFP.pdb'
+#
+# # files
+# file_names = []
+# for file in os.listdir(file_path2):
+#     if file.endswith(".pdb"):
+#         file_names.append(file_path2 + str(file))
+#         # print(os.path.join("/content", file))
+# print(file_names)
+#
+# cmd.load(full_gfp)
+#
+# all_files = file_names
+# for file_n in file_names:
+#   all_files.append(file_n)
+#   cmd.load(file_n)
+#
+# # all_files = []
+# # for i in range(1,110):
+# #   file_name = file_path + f'high_brightness{i}.pdb'
+# #   all_files.append(file_name)
+# #   cmd.load(file_name)
 
 '''
 Function developed by 
